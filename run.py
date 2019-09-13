@@ -2,6 +2,11 @@
 from flask import Flask
 from flask import request
 import hashlib
+import requests
+import json
+import time
+import re
+import xml.etree.ElementTree as ET
 
 app = Flask(__name__)
 
@@ -37,6 +42,35 @@ def weixin():
         # 加密后的字符串可与signature对比，标识该请求来源于微信
         if my_signature == mysignature:
             return my_echostr
+    else:
+        # 解析xml
+        xml = ET.fromstring(request.data)
+        toUser = xml.find('ToUserName').text
+        fromUser = xml.find('FromUserName').text
+        msgType = xml.find("MsgType").text
+        createTime = xml.find("CreateTime")
+        # 判断类型并回复
+        if msgType == "text":
+            content = xml.find('Content').text
+            print(content)
+            return reply_text(fromUser, toUser, '啊，知道了')
+        else:
+            return reply_text(fromUser, toUser, "我只懂文字")
+
+def reply_text(to_user, from_user, content):
+    """
+    以文本类型的方式回复请求
+    """
+    return """
+    <xml>
+        <ToUserName><![CDATA[{}]]></ToUserName>
+        <FromUserName><![CDATA[{}]]></FromUserName>
+        <CreateTime>{}</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[{}]]></Content>
+    </xml>
+    """.format(to_user, from_user, int(time.time() * 1000), content)
+
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0',port=80)
