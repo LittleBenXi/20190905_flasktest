@@ -13,7 +13,9 @@ import jieba.posseg as pseg
 
 class searchCarInNeo4j():
 
-    def __init__(self,dict_synonym):
+    def __init__(self):
+        with open('./data/synonymDict.json','r') as f:
+            dict_synonym = json.load(f)
         self.dict_ci = dict_synonym['ci']
         self.dict_vi = dict_synonym['vi']
         self.dict_vm = dict_synonym['vm']
@@ -156,34 +158,6 @@ class searchCarInNeo4j():
             if key == 'area':
                 num_LO2 = len(value)
         return num_CI, num_RI, num_VI, num_DE, num_LO1, num_LO2,num_VM, num_KD
-        
-    def entityReco(self):
-        result_reco=entitySlots.recognition(self.message)
-        result={}
-        for i in result_reco:
-            label=str(i).split('/',1)[1]
-            if '|' in label:
-                label_list=label.split('|')
-                if label_list[1] in self.mark_list:
-                    if result.__contains__(label_list[1]):
-                        result[label_list[1]].append(label_list[0])
-                    else:
-                        result[label_list[1]]=[label_list[0]]
-            else:
-                pass
-        return result
-
-    def confirmCarMdoel(self,result):
-        if result.__contains__('VM')==False:
-            carmodel=input("请问你问的是哪款车型：")
-            result_carmodel=entitySlots.recognition(carmodel)
-            for i in result_carmodel:
-                label=str(i).split('/')[1]
-                if '|' in label:
-                    label_list=label.split('|')
-                    if label_list[1]=='VM':
-                        result['VM']=[label_list[0]]
-        return result
 
     def entityRecoByJieba(self, message):
         words = pseg.cut(message)
@@ -227,7 +201,7 @@ class searchCarInNeo4j():
                 #车型信息介绍
                 pass
             elif counter_jieba['de'] == 1:
-                answer = '那你应该告诉我你所在的地级市名称，例如：温州这边有奥迪的4S店吗？\n东莞这边有卖帕萨特的吗？'
+                answer = ['那你应该告诉我你所在的地级市名称，例如：温州这边有奥迪的4S店吗？\n东莞这边有卖帕萨特的吗？']
             elif counter_jieba['ri'] == 1:
                 pass
             elif counter_jieba['vm'] == 1:
@@ -239,31 +213,32 @@ class searchCarInNeo4j():
         elif total_num == 2:
             if counter_jieba['vm'] == 1:
                 if counter_jieba['ci'] == 1:
-                    self.searchOneComp(result['vm'][0],result['ci'])
+                    answer = self.searchOneComp(result['vm'][0],result['ci'])
                 elif counter_jieba['vi'] == 1:
-                    self.searchOneVichleInfo(result['vm'][0],result['vi'])
+                    answer = self.searchOneVichleInfo(result['vm'][0],result['vi'])
                 elif counter_jieba['de'] == 1:
-                    answer = '那你应该告诉我你所在的地级市名称，例如：温州这边有奥迪的4S店吗？\n东莞这边有卖帕萨特的吗？'
+                    answer = answer = '那你应该告诉我你所在的地级市名称，例如：温州这边有奥迪的4S店吗？\n东莞这边有卖帕萨特的吗？'
                 elif counter_jieba['city'] == 1:
-                    self.searchVMLODE(result['vm'][0],result['city'])
+                    answer = self.searchVMLODE(result['vm'][0],result['city'])
                 elif counter_jieba['area'] == 1:
-                    self.searchVMArea(result['vm'][0],result['area'])
+                    answer = self.searchVMArea(result['vm'][0],result['area'])
                 else:
                     pass
         elif total_num == 3:
             if counter_jieba['vm'] == 1:
                 if counter_jieba['city'] == 1 and counter_jieba['area'] == 1:
-                    self.searchCityArea(result['vm'][0], result['city'], result['area'])
+                    answer = self.searchCityArea(result['vm'][0], result['city'], result['area'])
                 elif counter_jieba['ci'] == 2:
-                    self.searchOneComp(result['vm'][0],result['ci'])
+                    answer = self.searchOneComp(result['vm'][0],result['ci'])
                 elif counter_jieba['vi'] == 2:
-                    self.searchTwoVI(result['vm'][0],result['vi'])
+                    answer = self.searchTwoVI(result['vm'][0],result['vi'])
                 elif counter_jieba['vi'] ==1 and counter_jieba['ci'] ==1:
-                    self.searchCompVI(result['vm'][0],result['vi'],result['ci'])
+                    answer = self.searchCompVI(result['vm'][0],result['vi'],result['ci'])
         else:
             list_anwser = ['说实话，我没法跟你沟通。','我感觉还得过几年我才能懂你的意思。','这个有点难啊。','你是在刁难我吗？',
             '我这么可爱，你忍心这样刁难我吗？','放过我吧，好吗？','我听不懂你在说啥，可能是因为我还是个孩子。']
-            print(random.choice(list_anwser))
+            answer = [random.choice(list_anwser)]
+        return answer
         
         
 
@@ -274,9 +249,7 @@ if __name__ == "__main__":
         searchN = searchCarInNeo4j(message)
         searchN.search()
     '''
-    with open('./data/synonymDict.json','r') as f:
-        dict_1 = json.load(f)
-    searchN = searchCarInNeo4j(dict_1)
+    searchN = searchCarInNeo4j()
     while True:
         message=input("你想问什么：")
         searchN.search(message)

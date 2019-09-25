@@ -7,6 +7,7 @@ import json
 import time
 import re
 import xml.etree.ElementTree as ET
+from vehicleQA import searchCarInNeo4j
 
 app = Flask(__name__)
 
@@ -16,6 +17,7 @@ def index():
 
 @app.route("/wechat", methods=["GET","POST"])
 def weixin():
+    answer = ''
     if request.method == "GET":     # 判断请求方式是GET请求
         my_signature = request.args.get('signature')     # 获取携带的signature参数
         my_timestamp = request.args.get('timestamp')     # 获取携带的timestamp参数
@@ -52,8 +54,12 @@ def weixin():
         # 判断类型并回复
         if msgType == "text":
             content = xml.find('Content').text
+            search_car = searchCarInNeo4j()
+            result = search_car.search(content)
             print(content)
-            return reply_text(fromUser, toUser, '啊，知道了')
+            for i in result:
+                answer += i 
+            return reply_text(fromUser, toUser, answer)
         else:
             return reply_text(fromUser, toUser, "我只懂文字")
 
