@@ -57,8 +57,11 @@ def weixin():
             search_car = searchCarInNeo4j()
             result = search_car.search(content)
             print(content)
-            for i in result:
-                answer += i 
+            if result == []:
+                answer = '不好意思，没找到相关信息。'
+            else:
+                for i in result:
+                    answer += i + '\n'
             return reply_text(fromUser, toUser, answer)
         else:
             return reply_text(fromUser, toUser, "我只懂文字")

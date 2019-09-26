@@ -192,7 +192,7 @@ class searchCarInNeo4j():
         #result = self.entityReco()
         #result = self.confirmCarMdoel(result)
         print(result,counter_jieba)
-        
+        answer = ['我可能是没听懂你说什么']
         if total_num == 1:
             if counter_jieba['ci'] == 1:
                 #配件介绍
