@@ -47,24 +47,24 @@ class searchCarInNeo4j():
         return answer
 
     def searchOneVichleInfo(self,carmodel,entity):
-        anwser = []
+        answer = []
         result = '小柯基为您找到如下相关信息：'
         result_list = self.kg.run("MATCH (a:carmodel {carmodel:'"+carmodel+"'})-->(b:car)-->(c:ci {name:'"+entity[0]+"'}) RETURN b.carname,c.value").data()
         if result_list == []:
             result = '没有找到相关信息'
-            anwser.append(result)
+            answer.append(result)
         else:
             answer.append(result)
             for i in result_list:
                 if '国VI' in i['b.carname']:
                     result = i['b.carname']+'的'+entity[0]+'是'+i['c.value']
-                    anwser.append(result)
+                    answer.append(result)
                 elif '国V' in i['b.carname']:
                     pass
                 else:
                     result = i['b.carname']+'的'+entity[0]+'是'+i['c.value']
-                    anwser.append(result)
-        return anwser
+                    answer.append(result)
+        return answer
 
     def searchVMLODE(self,carmodel,entity):
         answer = []
