@@ -36,8 +36,14 @@ class searchCarInNeo4j():
         else:
             answer.append(result)
             for i in result_list:
-                result = i['b.carname']+'--'+i['c.value']+'--'+entity[0]
-                answer.append(result)
+                if '国VI' in i['b.carname']:
+                    result = i['b.carname']+'--'+i['c.value']+'--'+entity[0]
+                    answer.append(result)
+                elif '国V' in i['b.carname']:
+                    pass
+                else:
+                    result = i['b.carname']+'--'+i['c.value']+'--'+entity[0]
+                    answer.append(result)
         return answer
 
     def searchOneVichleInfo(self,carmodel,entity):
@@ -50,8 +56,14 @@ class searchCarInNeo4j():
         else:
             answer.append(result)
             for i in result_list:
-                result = i['b.carname']+'的'+entity[0]+'是'+i['c.value']
-                anwser.append(result)
+                if '国VI' in i['b.carname']:
+                    result = i['b.carname']+'的'+entity[0]+'是'+i['c.value']
+                    anwser.append(result)
+                elif '国V' in i['b.carname']:
+                    pass
+                else:
+                    result = i['b.carname']+'的'+entity[0]+'是'+i['c.value']
+                    anwser.append(result)
         return anwser
 
     def searchVMLODE(self,carmodel,entity):
@@ -144,8 +156,14 @@ class searchCarInNeo4j():
         else:
             answer.append(result)
             for i in result_list:
-                result =  i['b.carname']+' '+i['c.value']+' '+entity[0]+' '+i['d.value']+' '+entity[1]
-                answer.append(result)
+                if '国VI' in i['b.carname']:
+                    result =  i['b.carname']+' '+i['c.value']+' '+entity[0]+' '+i['d.value']+' '+entity[1]
+                    answer.append(result)
+                elif '国V' in i['b.carname']:
+                    pass
+                else:
+                    result =  i['b.carname']+' '+i['c.value']+' '+entity[0]+' '+i['d.value']+' '+entity[1]
+                    answer.append(result)
         return answer
 
     def searchTwoVI(self,carmodel,entity):
@@ -159,8 +177,14 @@ class searchCarInNeo4j():
         else:
             answer.append(result)
             for i in result_list:
-                result =  i['b.carname']+'的'+entity[0]+'是'+i['c.value']+';'+entity[1]+'是'+i['d.value']
-                answer.append(result)
+                if '国VI' in i['b.carname']:
+                    result =  i['b.carname']+'的'+entity[0]+'是'+i['c.value']+';'+entity[1]+'是'+i['d.value']
+                    answer.append(result)
+                elif '国V' in i['b.carname']:
+                    pass
+                else:
+                    result =  i['b.carname']+'的'+entity[0]+'是'+i['c.value']+';'+entity[1]+'是'+i['d.value']
+                    answer.append(result)
         return answer
 
     def searchCompVI(self,carmodel,entity1,entity2):
@@ -174,8 +198,14 @@ class searchCarInNeo4j():
         else:
             answer.append(result)
             for i in result_list:
-                result =  i['b.carname']+'的'+entity1[0]+'是'+i['c.value']+';'+i['d.value']+'--'+entity2[0]
-                answer.append(result)
+                if '国VI' in i['b.carname']:
+                    result =  i['b.carname']+'的'+entity1[0]+'是'+i['c.value']+';'+i['d.value']+'--'+entity2[0]
+                    answer.append(result)
+                elif '国V' in i['b.carname']:
+                    pass
+                else:
+                    result =  i['b.carname']+'的'+entity1[0]+'是'+i['c.value']+';'+i['d.value']+'--'+entity2[0]
+                    answer.append(result)
         return answer
     
     def searchManuCityArea(self,manu,entity1,entity2):
