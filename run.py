@@ -55,13 +55,16 @@ def weixin():
         if msgType == "text":
             content = xml.find('Content').text
             search_car = searchCarInNeo4j()
-            result = search_car.search(content)
+            try:
+                result = search_car.search(content)
+            except:
+                result = ['不好意思，小柯基遇到了点小问题。咱们来聊点别的吧。']
             print(content)
             if result == []:
-                answer = '不好意思，没找到相关信息。'
+                answer = '小柯基没找到相关信息，Sorry啦。'
             else:
                 for i in result:
-                    answer += i + '\n'
+                    answer += i + '\n\n'
             return reply_text(fromUser, toUser, answer)
         else:
             return reply_text(fromUser, toUser, "我只懂文字")
