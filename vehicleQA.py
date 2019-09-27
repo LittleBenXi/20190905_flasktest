@@ -294,6 +294,7 @@ class searchCarInNeo4j():
         return result,counter,total_num     
 
     def search(self, message):
+        message = message.upper()
         result, counter_jieba, total_num = self.entityRecoByJieba(message)
         #result = self.entityReco()
         #result = self.confirmCarMdoel(result)
