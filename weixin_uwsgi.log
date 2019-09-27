@@ -5818,3 +5818,1556 @@ VV5 vm
 潍坊市奎文区潍州路369号 潍坊 [4S店] 潍坊天驰汽车 400-872-4485 奎文
 潍坊 宝骏730
 [pid: 3609|app: 0|req: 16/16] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 11:35:42 2019] POST /wechat?signature=8a29f55f34a46f622e2c684b030f2b4c135a0dc1&timestamp=1569468942&nonce=2049222905&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 953 bytes in 308 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+青州 area
+  x
+帕萨特 vm
+{'area': ['青州'], 'vm': ['帕萨特']} {'ci': 0, 'vi': 0, 'ri': 0, 'de': 0, 'city': 0, 'area': 1, 'vm': 1, 'kd': 0}
+山东省潍坊市青州市玲珑山北路2199号 潍坊 [4S店] 青州辰星汽车 400-897-3840 青州
+青州 帕萨特
+[pid: 3609|app: 0|req: 17/17] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 12:24:44 2019] POST /wechat?signature=68f747e08c471f1151108d55d24b1b77ad57d1a8&timestamp=1569471884&nonce=741642454&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 401 bytes in 52 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+帕萨特 vm
+的 uj
+价格 vi
+{'vm': ['帕萨特'], 'vi': ['厂商指导价(万元)']} {'ci': 0, 'vi': 1, 'ri': 0, 'de': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+帕萨特 2019款 380TSI 旗舰版 国VI的厂商指导价(万元)是28.29万
+帕萨特 2019款 380TSI 尊贵版 国VI的厂商指导价(万元)是26.29万
+帕萨特 2019款 380TSI 豪华版 国VI的厂商指导价(万元)是24.79万
+帕萨特 2019款 330TSI 领尊版 国VI的厂商指导价(万元)是25.39万
+帕萨特 2019款 330TSI 领尊版 国V的厂商指导价(万元)是25.39万
+帕萨特 2019款 330TSI 尊贵版 国VI的厂商指导价(万元)是25.29万
+帕萨特 2019款 330TSI 尊贵版 国V的厂商指导价(万元)是25.29万
+帕萨特 2019款 330TSI 豪华版 国VI的厂商指导价(万元)是23.79万
+帕萨特 2019款 330TSI 豪华版 国V的厂商指导价(万元)是23.79万
+帕萨特 2019款 330TSI 精英版 国VI的厂商指导价(万元)是21.79万
+帕萨特 2019款 330TSI 精英版 国V的厂商指导价(万元)是21.79万
+帕萨特 2019款 280TSI 精英版 国VI的厂商指导价(万元)是20.69万
+帕萨特 2019款 280TSI 精英版 国V的厂商指导价(万元)是20.69万
+帕萨特 2019款 280TSI 商务版 国VI的厂商指导价(万元)是18.49万
+帕萨特 2019款 280TSI 商务版 国V的厂商指导价(万元)是18.49万
+帕萨特的价格
+[pid: 3609|app: 0|req: 18/18] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 12:33:40 2019] POST /wechat?signature=bce8c8bdc19d270b8770e7d08b1a7358ad70f1fc&timestamp=1569472420&nonce=1217157731&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1460 bytes in 173 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+雅阁 vm
+的 uj
+价格 vi
+{'vm': ['雅阁'], 'vi': ['厂商指导价(万元)']} {'ci': 0, 'vi': 1, 'ri': 0, 'de': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+雅阁 2018款 锐·混动 2.0L 锐尊版 国V的厂商指导价(万元)是25.98万
+雅阁 2018款 锐·混动 2.0L 锐智版 国V的厂商指导价(万元)是23.68万
+雅阁 2018款 锐·混动 2.0L 锐领版 国V的厂商指导价(万元)是21.98万
+雅阁 2018款 锐·混动 2.0L 锐酷版 国V的厂商指导价(万元)是19.98万
+雅阁 2018款 260TURBO 旗舰版 国V的厂商指导价(万元)是22.98万
+雅阁 2018款 260TURBO 尊贵版 国V的厂商指导价(万元)是20.98万
+雅阁 2018款 260TURBO 豪华版 国V的厂商指导价(万元)是19.98万
+雅阁 2018款 260TURBO 精英版 国V的厂商指导价(万元)是18.98万
+雅阁 2018款 230TURBO 舒适版 国V的厂商指导价(万元)是17.98万
+雅阁 2018款 230TURBO 舒享版 国V的厂商指导价(万元)是16.98万
+雅阁 2018款 锐·混动 2.0L 锐尊版 国VI的厂商指导价(万元)是25.98万
+雅阁 2018款 锐·混动 2.0L 锐智版 国VI的厂商指导价(万元)是23.68万
+雅阁 2018款 锐·混动 2.0L 锐领版 国VI的厂商指导价(万元)是21.98万
+雅阁 2018款 锐·混动 2.0L 锐酷版 国VI的厂商指导价(万元)是19.98万
+雅阁 2018款 260TURBO 旗舰版 国VI的厂商指导价(万元)是22.98万
+雅阁 2018款 260TURBO 尊贵版 国VI的厂商指导价(万元)是20.98万
+雅阁 2018款 260TURBO 豪华版 国VI的厂商指导价(万元)是19.98万
+雅阁 2018款 260TURBO 精英版 国VI的厂商指导价(万元)是18.98万
+雅阁 2018款 230TURBO 舒适版 国VI的厂商指导价(万元)是17.98万
+雅阁的价格
+[pid: 3609|app: 0|req: 19/19] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 12:34:31 2019] POST /wechat?signature=c8136c8db15bd62136b9bd59384e38733bfb54bf&timestamp=1569472471&nonce=2104942039&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1813 bytes in 243 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+[pid: 3609|app: 0|req: 20/20] 183.192.179.16 () {40 vars in 646 bytes} [Thu Sep 26 12:41:15 2019] POST /prov/y000000000031.cfg => generated 232 bytes in 32 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 3609|app: 0|req: 21/21] 106.112.178.32 () {44 vars in 711 bytes} [Thu Sep 26 12:41:28 2019] POST /prov/y000000000031.cfg => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 3609|app: 0|req: 22/22] 79.243.105.101 () {32 vars in 531 bytes} [Thu Sep 26 12:42:47 2019] GET /mysql/admin/index.php?lang=en => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 3609|app: 0|req: 23/23] 79.243.105.101 () {32 vars in 535 bytes} [Thu Sep 26 12:42:48 2019] GET /mysql/dbadmin/index.php?lang=en => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 3609|app: 0|req: 24/24] 79.243.105.101 () {32 vars in 541 bytes} [Thu Sep 26 12:42:49 2019] GET /mysql/sqlmanager/index.php?lang=en => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 3608|app: 0|req: 1/25] 79.243.105.101 () {32 vars in 545 bytes} [Thu Sep 26 12:42:50 2019] GET /mysql/mysqlmanager/index.php?lang=en => generated 232 bytes in 10 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 3609|app: 0|req: 25/26] 79.243.105.101 () {32 vars in 529 bytes} [Thu Sep 26 12:42:50 2019] GET /phpmyadmin/index.php?lang=en => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 3609|app: 0|req: 26/27] 79.243.105.101 () {32 vars in 529 bytes} [Thu Sep 26 12:42:52 2019] GET /phpMyadmin/index.php?lang=en => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 3609|app: 0|req: 27/28] 79.243.105.101 () {32 vars in 529 bytes} [Thu Sep 26 12:42:53 2019] GET /phpMyAdmin/index.php?lang=en => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 3609|app: 0|req: 28/29] 79.243.105.101 () {32 vars in 529 bytes} [Thu Sep 26 12:42:55 2019] GET /phpmyAdmin/index.php?lang=en => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 3609|app: 0|req: 29/30] 79.243.105.101 () {32 vars in 531 bytes} [Thu Sep 26 12:42:56 2019] GET /phpmyadmin2/index.php?lang=en => generated 232 bytes in 1 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 3608|app: 0|req: 2/31] 79.243.105.101 () {32 vars in 531 bytes} [Thu Sep 26 12:42:57 2019] GET /phpmyadmin3/index.php?lang=en => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 3609|app: 0|req: 30/32] 79.243.105.101 () {32 vars in 531 bytes} [Thu Sep 26 12:42:57 2019] GET /phpmyadmin4/index.php?lang=en => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+雅阁 vm
+有 v
+抬头 v
+显示 v
+系统 n
+吗 y
+{'vm': ['雅阁']} {'ci': 0, 'vi': 0, 'ri': 0, 'de': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+雅阁有抬头显示系统吗
+[pid: 3609|app: 0|req: 31/33] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 12:53:48 2019] POST /wechat?signature=8e5addebc58f57c9f28796135c35aa87ad515c25&timestamp=1569473628&nonce=1684763890&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 330 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+雅阁 vm
+有 v
+hud ci
+吗 y
+{'vm': ['雅阁'], 'ci': ['HUD抬头数字显示']} {'ci': 1, 'vi': 0, 'ri': 0, 'de': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+雅阁 2018款 锐·混动 2.0L 锐尊版 国V--标配--HUD抬头数字显示
+雅阁 2018款 锐·混动 2.0L 锐尊版 国VI--标配--HUD抬头数字显示
+雅阁有hud吗
+[pid: 3609|app: 0|req: 32/34] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 12:53:58 2019] POST /wechat?signature=f1712b0c5e7a49fe6c28862144b5fab86bee9e84&timestamp=1569473638&nonce=1745657717&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 453 bytes in 40 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+[pid: 3609|app: 0|req: 33/35] 183.192.179.16 () {40 vars in 656 bytes} [Thu Sep 26 12:54:32 2019] POST /provision/y000000000031.cfg => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 3608|app: 0|req: 3/36] 182.254.52.17 () {40 vars in 655 bytes} [Thu Sep 26 12:54:33 2019] POST /provision/y000000000031.cfg => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+雅阁 vm
+有 v
+胎压 n
+监测 vn
+吗 y
+{'vm': ['雅阁']} {'ci': 0, 'vi': 0, 'ri': 0, 'de': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+雅阁有胎压监测吗
+[pid: 3609|app: 0|req: 34/37] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 12:54:41 2019] POST /wechat?signature=e4844c65045ed34e8c7b6f60736361226af30db1&timestamp=1569473681&nonce=139535535&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 330 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+[pid: 3608|app: 0|req: 4/38] 106.112.89.239 () {44 vars in 721 bytes} [Thu Sep 26 12:54:46 2019] POST /provision/y000000000031.cfg => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+雅阁 vm
+有 v
+胎压 n
+检测 vn
+吗 y
+{'vm': ['雅阁']} {'ci': 0, 'vi': 0, 'ri': 0, 'de': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+雅阁有胎压检测吗
+[pid: 3609|app: 0|req: 35/39] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 12:54:54 2019] POST /wechat?signature=9db60afe76d4415de2d1546358634ee3d9a527b5&timestamp=1569473694&nonce=1496363297&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 330 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+雅阁 vm
+有 v
+主动刹车系统 ci
+吗 y
+{'vm': ['雅阁'], 'ci': ['主动刹车/主动安全系统']} {'ci': 1, 'vi': 0, 'ri': 0, 'de': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+雅阁 2018款 锐·混动 2.0L 锐尊版 国V--标配--主动刹车/主动安全系统
+雅阁 2018款 锐·混动 2.0L 锐智版 国V--标配--主动刹车/主动安全系统
+雅阁 2018款 锐·混动 2.0L 锐领版 国V--标配--主动刹车/主动安全系统
+雅阁 2018款 锐·混动 2.0L 锐酷版 国V--标配--主动刹车/主动安全系统
+雅阁 2018款 260TURBO 旗舰版 国V--标配--主动刹车/主动安全系统
+雅阁 2018款 260TURBO 豪华版 国V--标配--主动刹车/主动安全系统
+雅阁 2018款 锐·混动 2.0L 锐尊版 国VI--标配--主动刹车/主动安全系统
+雅阁 2018款 锐·混动 2.0L 锐智版 国VI--标配--主动刹车/主动安全系统
+雅阁 2018款 锐·混动 2.0L 锐领版 国VI--标配--主动刹车/主动安全系统
+雅阁 2018款 锐·混动 2.0L 锐酷版 国VI--标配--主动刹车/主动安全系统
+雅阁 2018款 260TURBO 旗舰版 国VI--标配--主动刹车/主动安全系统
+雅阁 2018款 260TURBO 豪华版 国VI--标配--主动刹车/主动安全系统
+雅阁有主动刹车系统吗
+[pid: 3609|app: 0|req: 36/40] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 12:55:14 2019] POST /wechat?signature=24f081940b644bea9238f70f5982437d1821a410&timestamp=1569473714&nonce=1924121050&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1326 bytes in 45 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+雅阁 vm
+有 v
+LKA ci
+吗 y
+{'vm': ['雅阁'], 'ci': ['车道保持辅助系统']} {'ci': 1, 'vi': 0, 'ri': 0, 'de': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+雅阁 2018款 锐·混动 2.0L 锐尊版 国V--标配--车道保持辅助系统
+雅阁 2018款 锐·混动 2.0L 锐智版 国V--标配--车道保持辅助系统
+雅阁 2018款 锐·混动 2.0L 锐领版 国V--标配--车道保持辅助系统
+雅阁 2018款 锐·混动 2.0L 锐酷版 国V--标配--车道保持辅助系统
+雅阁 2018款 260TURBO 旗舰版 国V--标配--车道保持辅助系统
+雅阁 2018款 260TURBO 豪华版 国V--标配--车道保持辅助系统
+雅阁 2018款 锐·混动 2.0L 锐尊版 国VI--标配--车道保持辅助系统
+雅阁 2018款 锐·混动 2.0L 锐智版 国VI--标配--车道保持辅助系统
+雅阁 2018款 锐·混动 2.0L 锐领版 国VI--标配--车道保持辅助系统
+雅阁 2018款 锐·混动 2.0L 锐酷版 国VI--标配--车道保持辅助系统
+雅阁 2018款 260TURBO 旗舰版 国VI--标配--车道保持辅助系统
+雅阁 2018款 260TURBO 豪华版 国VI--标配--车道保持辅助系统
+雅阁有LKA吗
+[pid: 3609|app: 0|req: 37/41] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 12:55:35 2019] POST /wechat?signature=b8bb37772d3fae7540edb544d5c53db5c118fd46&timestamp=1569473735&nonce=403586469&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1242 bytes in 28 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+昂科威 vm
+有 v
+自动泊车 ci
+吗 y
+{'vm': ['昂科威'], 'ci': ['自动泊车入位']} {'ci': 1, 'vi': 0, 'ri': 0, 'de': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+昂科威 2019款 28T 四驱全能运动旗舰型 国VI--标配--自动泊车入位
+昂科威 2019款 28T 四驱全能运动旗舰型 国V--标配--自动泊车入位
+昂科威 2019款 28T 四驱豪华型 国VI--标配--自动泊车入位
+昂科威 2019款 28T 四驱豪华型 国V--标配--自动泊车入位
+昂科威 2019款 20T 两驱豪华型 国V--标配--自动泊车入位
+昂科威 2019款 20T 两驱豪华型 国VI--标配--自动泊车入位
+昂科威有自动泊车吗
+[pid: 3609|app: 0|req: 38/42] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 12:57:30 2019] POST /wechat?signature=71b4327268864d4e222c0cbb56e25307b7584cc9&timestamp=1569473850&nonce=1107286140&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 749 bytes in 142 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+昂科威 vm
+带 v
+自动泊车 ci
+的 uj
+多少钱 vi
+{'vm': ['昂科威'], 'ci': ['自动泊车入位'], 'vi': ['厂商指导价(万元)']} {'ci': 1, 'vi': 1, 'ri': 0, 'de': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[2019-09-26 12:58:00,701] ERROR in app: Exception on /wechat [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "./run.py", line 58, in weixin
+    result = search_car.search(content)
+  File "./vehicleQA.py", line 236, in search
+    answer = self.searchCompVI(result['vm'][0],result['vi'],result['ci'])
+  File "./vehicleQA.py", line 136, in searchCompVI
+    result =  i['b.carname']+'的'+entity1[0]+'是'+i['c.value']+';'++i['d.value']+'--'+entity2[0]
+TypeError: bad operand type for unary +: 'str'
+[pid: 3609|app: 0|req: 39/43] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 12:57:55 2019] POST /wechat?signature=3ec81b54f2f1d9651290ee1b6fdcc1506aceb428&timestamp=1569473875&nonce=144874933&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 290 bytes in 4961 msecs (HTTP/1.1 500) 2 headers in 84 bytes (2 switches on core 0)
+[pid: 3609|app: 0|req: 40/44] 182.254.52.17 () {40 vars in 639 bytes} [Thu Sep 26 12:59:51 2019] POST /y/y000000000031.cfg => generated 232 bytes in 69 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 3606|app: 0|req: 1/45] 59.36.132.240 () {40 vars in 639 bytes} [Thu Sep 26 13:07:46 2019] POST /1/y000000000031.cfg => generated 232 bytes in 89 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 3607|app: 0|req: 1/46] 195.122.251.175 () {32 vars in 465 bytes} [Thu Sep 26 13:33:13 2019] GET / => generated 12 bytes in 82 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 3608|app: 0|req: 5/47] 167.57.166.228 () {26 vars in 282 bytes} [Thu Sep 26 13:48:36 2019] GET / => generated 12 bytes in 51 msecs (HTTP/1.0 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 3606|app: 0|req: 2/48] 59.36.132.240 () {40 vars in 635 bytes} [Thu Sep 26 13:58:04 2019] POST /y000000000031.cfg => generated 232 bytes in 65 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 3608|app: 0|req: 6/49] 92.233.27.195 () {28 vars in 307 bytes} [Thu Sep 26 14:15:53 2019] GET / => generated 12 bytes in 51 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 8 seconds
+worker 2 buried after 8 seconds
+worker 3 buried after 8 seconds
+worker 4 buried after 8 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /home/ubuntu/workstudio/20190905_flasktest/weixin_uwsgi.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Thu Sep 26 14:34:04 2019] ***
+compiled with version: 7.4.0 on 12 September 2019 13:49:51
+os: Linux-4.15.0-60-generic #67-Ubuntu SMP Thu Aug 22 16:55:30 UTC 2019
+nodename: VM-0-7-ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/workstudio/20190905_flasktest
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/ubuntu/workstudio/20190905_flasktest
+your processes number limit is 3697
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/ubuntu/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+Python version: 3.6.8 (default, Aug 20 2019, 17:12:48)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x5570a4c610b0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+/usr/lib/python3/dist-packages/requests/__init__.py:80: RequestsDependencyWarning: urllib3 (1.24.3) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.811 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 3 seconds on interpreter 0x5570a4c610b0 pid: 881 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 881)
+spawned uWSGI worker 1 (pid: 909, cores: 1)
+spawned uWSGI worker 2 (pid: 910, cores: 1)
+spawned uWSGI worker 3 (pid: 911, cores: 1)
+spawned uWSGI worker 4 (pid: 912, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /home/ubuntu/workstudio/20190905_flasktest/weixin_uwsgi.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Thu Sep 26 14:34:29 2019] ***
+compiled with version: 7.4.0 on 12 September 2019 13:49:51
+os: Linux-4.15.0-60-generic #67-Ubuntu SMP Thu Aug 22 16:55:30 UTC 2019
+nodename: VM-0-7-ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/workstudio/20190905_flasktest
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/ubuntu/workstudio/20190905_flasktest
+your processes number limit is 3697
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/ubuntu/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+Python version: 3.6.8 (default, Aug 20 2019, 17:12:48)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x5652811f30b0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+/usr/lib/python3/dist-packages/requests/__init__.py:80: RequestsDependencyWarning: urllib3 (1.24.3) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.806 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 2 seconds on interpreter 0x5652811f30b0 pid: 1003 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 1003)
+spawned uWSGI worker 1 (pid: 1020, cores: 1)
+spawned uWSGI worker 2 (pid: 1021, cores: 1)
+spawned uWSGI worker 3 (pid: 1022, cores: 1)
+spawned uWSGI worker 4 (pid: 1023, cores: 1)
+你好 l
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+你好
+[pid: 1023|app: 0|req: 1/1] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 14:36:11 2019] POST /wechat?signature=13176b6c61fadfd4fa4aad4fe533b126643bd1ba&timestamp=1569479771&nonce=2056565353&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 319 bytes in 213 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+昂科威 vm
+带 v
+自动泊车 ci
+的 uj
+多少钱 vi
+{'vm': ['昂科威'], 'ci': ['自动泊车入位'], 'vi': ['厂商指导价(万元)']} {'ci': 1, 'vi': 1, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+昂科威带自动泊车的多少钱
+[pid: 1022|app: 0|req: 1/2] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 14:36:22 2019] POST /wechat?signature=7afb57ec0759889f56076b6de589bd3e7dfb9f02&timestamp=1569479782&nonce=213761105&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 373 bytes in 177 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+青州 area
+  x
+凯美瑞 vm
+{'area': ['青州'], 'vm': ['凯美瑞']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 1, 'vm': 1, 'kd': 0}
+青州 凯美瑞
+[pid: 1023|app: 0|req: 2/3] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 14:36:42 2019] POST /wechat?signature=bd8e020bc2b23b66a7e00bbfd5f566dd4d874608&timestamp=1569479802&nonce=1507405967&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 373 bytes in 12 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /home/ubuntu/workstudio/20190905_flasktest/weixin_uwsgi.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Thu Sep 26 14:46:30 2019] ***
+compiled with version: 7.4.0 on 12 September 2019 13:49:51
+os: Linux-4.15.0-60-generic #67-Ubuntu SMP Thu Aug 22 16:55:30 UTC 2019
+nodename: VM-0-7-ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/workstudio/20190905_flasktest
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/ubuntu/workstudio/20190905_flasktest
+your processes number limit is 3697
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/ubuntu/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+Python version: 3.6.8 (default, Aug 20 2019, 17:12:48)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55c582ee50b0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+/usr/lib/python3/dist-packages/requests/__init__.py:80: RequestsDependencyWarning: urllib3 (1.24.3) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.800 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 2 seconds on interpreter 0x55c582ee50b0 pid: 3230 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 3230)
+spawned uWSGI worker 1 (pid: 3238, cores: 1)
+spawned uWSGI worker 2 (pid: 3239, cores: 1)
+spawned uWSGI worker 3 (pid: 3240, cores: 1)
+spawned uWSGI worker 4 (pid: 3241, cores: 1)
+你好 l
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[2019-09-26 14:46:56,229] ERROR in app: Exception on /wechat [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "./run.py", line 69, in weixin
+    answer -= '\n'
+TypeError: unsupported operand type(s) for -=: 'str' and 'str'
+[pid: 3241|app: 0|req: 1/1] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 14:46:56 2019] POST /wechat?signature=dcf22bdc6be1717b6ca336e78d0d2b097a3130e3&timestamp=1569480416&nonce=1966128127&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 290 bytes in 174 msecs (HTTP/1.1 500) 2 headers in 84 bytes (2 switches on core 0)
+你好 l
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[2019-09-26 14:47:01,808] ERROR in app: Exception on /wechat [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "./run.py", line 69, in weixin
+    answer -= '\n'
+TypeError: unsupported operand type(s) for -=: 'str' and 'str'
+[pid: 3240|app: 0|req: 1/2] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 14:47:01 2019] POST /wechat?signature=644efbe1dce9fb57208dd22701abaedce3d9f392&timestamp=1569480421&nonce=316326304&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 290 bytes in 176 msecs (HTTP/1.1 500) 2 headers in 84 bytes (2 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /home/ubuntu/workstudio/20190905_flasktest/weixin_uwsgi.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Thu Sep 26 14:52:01 2019] ***
+compiled with version: 7.4.0 on 12 September 2019 13:49:51
+os: Linux-4.15.0-60-generic #67-Ubuntu SMP Thu Aug 22 16:55:30 UTC 2019
+nodename: VM-0-7-ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/workstudio/20190905_flasktest
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/ubuntu/workstudio/20190905_flasktest
+your processes number limit is 3697
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/ubuntu/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+Python version: 3.6.8 (default, Aug 20 2019, 17:12:48)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55fcf4c470b0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+/usr/lib/python3/dist-packages/requests/__init__.py:80: RequestsDependencyWarning: urllib3 (1.24.3) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.819 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x55fcf4c470b0 pid: 4297 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 4297)
+spawned uWSGI worker 1 (pid: 4303, cores: 1)
+spawned uWSGI worker 2 (pid: 4304, cores: 1)
+spawned uWSGI worker 3 (pid: 4305, cores: 1)
+spawned uWSGI worker 4 (pid: 4306, cores: 1)
+你好 l
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 4306|app: 0|req: 1/1] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 14:52:23 2019] POST /wechat?signature=89c75badba4cc23de5b5d84a4ede8d8bcb28b045&timestamp=1569480743&nonce=727510294&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 360 bytes in 159 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+青州 area
+  x
+凯美瑞 vm
+{'area': ['青州'], 'vm': ['凯美瑞']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 1, 'vm': 1, 'kd': 0}
+HTTPConnectionPool(host='localhost', port=3389): Max retries exceeded with url: /db/data/transaction/commit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7aca55cc88>: Failed to establish a new connection: [Errno 111] Connection refused',))
+[pid: 4305|app: 0|req: 1/2] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 14:52:30 2019] POST /wechat?signature=2d5a996094b31e9bc673c69503cf5828d92eb518&timestamp=1569480750&nonce=579417195&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 336 bytes in 160 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /home/ubuntu/workstudio/20190905_flasktest/weixin_uwsgi.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Thu Sep 26 14:55:48 2019] ***
+compiled with version: 7.4.0 on 12 September 2019 13:49:51
+os: Linux-4.15.0-60-generic #67-Ubuntu SMP Thu Aug 22 16:55:30 UTC 2019
+nodename: VM-0-7-ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/workstudio/20190905_flasktest
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/ubuntu/workstudio/20190905_flasktest
+your processes number limit is 3697
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/ubuntu/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+Python version: 3.6.8 (default, Aug 20 2019, 17:12:48)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x563fbb1410b0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+/usr/lib/python3/dist-packages/requests/__init__.py:80: RequestsDependencyWarning: urllib3 (1.24.3) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.836 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 2 seconds on interpreter 0x563fbb1410b0 pid: 5282 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 5282)
+spawned uWSGI worker 1 (pid: 5295, cores: 1)
+spawned uWSGI worker 2 (pid: 5296, cores: 1)
+spawned uWSGI worker 3 (pid: 5297, cores: 1)
+spawned uWSGI worker 4 (pid: 5298, cores: 1)
+你好 l
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 5298|app: 0|req: 1/1] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 14:56:38 2019] POST /wechat?signature=90e551828c474e46e1602b0f5682e336f886d124&timestamp=1569480998&nonce=1983098423&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 345 bytes in 211 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+青州 area
+  x
+凯美瑞 vm
+{'area': ['青州'], 'vm': ['凯美瑞']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 1, 'vm': 1, 'kd': 0}
+[pid: 5298|app: 0|req: 2/2] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 14:56:44 2019] POST /wechat?signature=9861e7fb17436a1cd314bef391ed753a334d8b23&timestamp=1569481004&nonce=1304707188&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1040 bytes in 2417 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+青岛 city
+  x
+路虎 nr
+{'city': ['青岛']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 1, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 5298|app: 0|req: 3/3] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 14:57:12 2019] POST /wechat?signature=49e7d6e9e7f31fc060645bc5c9cb24d5c3318665&timestamp=1569481032&nonce=2098297569&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 330 bytes in 24 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+青岛 city
+  x
+奇瑞捷豹路虎 manu
+{'city': ['青岛'], 'manu': ['奇瑞捷豹路虎']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 1, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 5298|app: 0|req: 4/4] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 14:57:45 2019] POST /wechat?signature=ff8242ad9f33d9d4f384bcfe61813ba4573a9671&timestamp=1569481065&nonce=1650696928&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 803 bytes in 273 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+青岛 city
+  x
+东本 manu
+{'city': ['青岛'], 'manu': ['东风本田']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 1, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 5298|app: 0|req: 5/5] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 14:58:08 2019] POST /wechat?signature=27a092cbc2c65365f8904db7130680006ddc39a7&timestamp=1569481088&nonce=1411845074&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1087 bytes in 285 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+青岛 city
+  x
+即墨 area
+  x
+东风本田 manu
+{'city': ['青岛'], 'area': ['即墨'], 'manu': ['东风本田']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 1, 'area': 1, 'vm': 0, 'kd': 0}
+[pid: 5298|app: 0|req: 6/6] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 14:58:28 2019] POST /wechat?signature=41af2c9452378c249ce23082dcc5db7712f5f3ce&timestamp=1569481108&nonce=476661446&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 483 bytes in 273 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+帕萨特 vm
+  x
+价格 vi
+{'vm': ['帕萨特'], 'vi': ['厂商指导价(万元)']} {'ci': 0, 'vi': 1, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+name 'answer' is not defined
+[pid: 5298|app: 0|req: 7/7] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 14:58:52 2019] POST /wechat?signature=5614996694371b2f6de47aacceca3abe1ce83cbc&timestamp=1569481131&nonce=1863438103&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 336 bytes in 232 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+帕萨特 vm
+的 uj
+价格是多少 vi
+{'vm': ['帕萨特'], 'vi': ['厂商指导价(万元)']} {'ci': 0, 'vi': 1, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+name 'answer' is not defined
+[pid: 5298|app: 0|req: 8/8] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 14:59:06 2019] POST /wechat?signature=333c0999a71b6859091ed2c35d013a69937742a3&timestamp=1569481146&nonce=1075097055&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 336 bytes in 63 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+凯美瑞 vm
+  x
+多少钱 vi
+{'vm': ['凯美瑞'], 'vi': ['厂商指导价(万元)']} {'ci': 0, 'vi': 1, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+name 'answer' is not defined
+[pid: 5298|app: 0|req: 9/9] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:00:38 2019] POST /wechat?signature=8eabafb790e9f902f356d76fbf672694ae8659d5&timestamp=1569481238&nonce=1643543220&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 336 bytes in 118 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+你好 l
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 5298|app: 0|req: 10/10] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:00:42 2019] POST /wechat?signature=f7e8e67c39d0dd9d974d66a5d1e3a909f00682ed&timestamp=1569481242&nonce=1016495479&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 333 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+青岛 city
+  x
+即墨 area
+  x
+东风本田 manu
+{'city': ['青岛'], 'area': ['即墨'], 'manu': ['东风本田']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 1, 'area': 1, 'vm': 0, 'kd': 0}
+[pid: 5298|app: 0|req: 11/11] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:00:49 2019] POST /wechat?signature=60980a7a4b18b0dae13f7e1827886355fbfa0424&timestamp=1569481249&nonce=527393612&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 483 bytes in 25 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+青州 area
+  x
+东风本田 manu
+{'area': ['青州'], 'manu': ['东风本田']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 1, 'vm': 0, 'kd': 0}
+[pid: 5298|app: 0|req: 12/12] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:01:03 2019] POST /wechat?signature=d51b0eded0efdb3ebf5b73098cfa95506ca49a69&timestamp=1569481263&nonce=1139257964&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 993 bytes in 498 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+上海 city
+  x
+杨浦区 area
+  x
+东风本田 manu
+{'city': ['上海'], 'area': ['杨浦'], 'manu': ['东风本田']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 1, 'area': 1, 'vm': 0, 'kd': 0}
+[pid: 5298|app: 0|req: 13/13] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:01:36 2019] POST /wechat?signature=a725365c2427a7472365fcee20e232361e20296c&timestamp=1569481296&nonce=322906424&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1748 bytes in 113 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+上海 city
+  x
+杨浦区 area
+  x
+一汽丰田 manu
+{'city': ['上海'], 'area': ['杨浦'], 'manu': ['一汽丰田']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 1, 'area': 1, 'vm': 0, 'kd': 0}
+[pid: 5298|app: 0|req: 14/14] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:01:56 2019] POST /wechat?signature=f920fb578e091f01bbb636e7f47ee1858d02e24f&timestamp=1569481316&nonce=633450878&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 668 bytes in 45 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+天籁 vm
+  x
+多少钱 vi
+{'vm': ['天籁'], 'vi': ['厂商指导价(万元)']} {'ci': 0, 'vi': 1, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 5298|app: 0|req: 15/15] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:02:26 2019] POST /wechat?signature=3f052dc64ed63b657fcd09ff6f87fee68d098981&timestamp=1569481346&nonce=1752441411&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 321 bytes in 122 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+桑塔纳 vm
+多少钱 vi
+{'vm': ['桑塔纳'], 'vi': ['厂商指导价(万元)']} {'ci': 0, 'vi': 1, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+name 'answer' is not defined
+[pid: 5298|app: 0|req: 16/16] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:02:42 2019] POST /wechat?signature=6785edb108c1a0f1ab9c940743769dc0c6be6391&timestamp=1569481362&nonce=1355514200&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 336 bytes in 119 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 2 seconds
+worker 2 buried after 2 seconds
+worker 3 buried after 2 seconds
+worker 4 buried after 2 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /home/ubuntu/workstudio/20190905_flasktest/weixin_uwsgi.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Thu Sep 26 15:06:41 2019] ***
+compiled with version: 7.4.0 on 12 September 2019 13:49:51
+os: Linux-4.15.0-60-generic #67-Ubuntu SMP Thu Aug 22 16:55:30 UTC 2019
+nodename: VM-0-7-ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/workstudio/20190905_flasktest
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/ubuntu/workstudio/20190905_flasktest
+your processes number limit is 3697
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/ubuntu/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+Python version: 3.6.8 (default, Aug 20 2019, 17:12:48)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55df7aaf70b0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+/usr/lib/python3/dist-packages/requests/__init__.py:80: RequestsDependencyWarning: urllib3 (1.24.3) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.941 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 3 seconds on interpreter 0x55df7aaf70b0 pid: 7283 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 7283)
+spawned uWSGI worker 1 (pid: 7293, cores: 1)
+spawned uWSGI worker 2 (pid: 7294, cores: 1)
+spawned uWSGI worker 3 (pid: 7295, cores: 1)
+spawned uWSGI worker 4 (pid: 7296, cores: 1)
+帕萨特 vm
+多少钱 vi
+{'vm': ['帕萨特'], 'vi': ['厂商指导价(万元)']} {'ci': 0, 'vi': 1, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+HTTPConnectionPool(host='localhost', port=3389): Max retries exceeded with url: /db/data/transaction/commit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbe74a19860>: Failed to establish a new connection: [Errno 111] Connection refused',))
+[pid: 7296|app: 0|req: 1/1] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:07:05 2019] POST /wechat?signature=9edbc439c7b60040d54028dfa740852a1067de4a&timestamp=1569481625&nonce=720377412&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 336 bytes in 243 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /home/ubuntu/workstudio/20190905_flasktest/weixin_uwsgi.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Thu Sep 26 15:08:48 2019] ***
+compiled with version: 7.4.0 on 12 September 2019 13:49:51
+os: Linux-4.15.0-60-generic #67-Ubuntu SMP Thu Aug 22 16:55:30 UTC 2019
+nodename: VM-0-7-ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/workstudio/20190905_flasktest
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/ubuntu/workstudio/20190905_flasktest
+your processes number limit is 3697
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/ubuntu/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+Python version: 3.6.8 (default, Aug 20 2019, 17:12:48)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55920354f0b0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+/usr/lib/python3/dist-packages/requests/__init__.py:80: RequestsDependencyWarning: urllib3 (1.24.3) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.839 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 2 seconds on interpreter 0x55920354f0b0 pid: 7946 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 7946)
+spawned uWSGI worker 1 (pid: 7959, cores: 1)
+spawned uWSGI worker 2 (pid: 7960, cores: 1)
+spawned uWSGI worker 3 (pid: 7961, cores: 1)
+spawned uWSGI worker 4 (pid: 7962, cores: 1)
+[pid: 7962|app: 0|req: 1/1] 103.81.241.93 () {32 vars in 464 bytes} [Thu Sep 26 15:09:01 2019] GET / => generated 12 bytes in 2 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+你好 l
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 2/2] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:09:19 2019] POST /wechat?signature=05ab656a03e6bf09afb534ca7b8f8cf6e42db8a1&timestamp=1569481759&nonce=145429911&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 360 bytes in 212 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+帕萨特 vm
+多少钱 vi
+{'vm': ['帕萨特'], 'vi': ['厂商指导价(万元)']} {'ci': 0, 'vi': 1, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 3/3] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:10:36 2019] POST /wechat?signature=a88f5190db1238778e087b52d10ac619d9b2655b&timestamp=1569481836&nonce=322622852&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1050 bytes in 1329 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+上汽大众 manu
+{'manu': ['上汽大众']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 4/4] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:11:11 2019] POST /wechat?signature=075b3f2a713b08b1ef383f44fd348176779678fd&timestamp=1569481871&nonce=1580165384&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 508 bytes in 195 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+途昂 vm
+{'vm': ['途昂']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 5/5] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:11:45 2019] POST /wechat?signature=baf051be67efb6971bcb99a2fc8243ebb4446ec7&timestamp=1569481905&nonce=528490545&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1083 bytes in 357 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+途昂 vm
+  x
+青州 area
+{'vm': ['途昂'], 'area': ['青州']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 1, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 6/6] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:12:01 2019] POST /wechat?signature=3bc6113bc42503638c697beaed83db6b21a4922b&timestamp=1569481921&nonce=846520289&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 472 bytes in 503 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+途昂 vm
+  x
+即墨 area
+{'vm': ['途昂'], 'area': ['即墨']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 1, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 7/7] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:12:09 2019] POST /wechat?signature=f5d28e8419657777735253e69d2d4acd3c8c7d3b&timestamp=1569481929&nonce=302755473&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 475 bytes in 154 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+一汽大众 manu
+{'manu': ['一汽-大众']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 8/8] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:12:17 2019] POST /wechat?signature=14d989242f7235ddf04e630723820648a4a16e2e&timestamp=1569481937&nonce=1797320399&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 468 bytes in 134 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+探岳 vm
+  x
+拉萨 city
+{'vm': ['探岳'], 'city': ['拉萨']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 1, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 9/9] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:12:33 2019] POST /wechat?signature=d22de9b8797616f4897150fa002f15f83cd61606&timestamp=1569481953&nonce=714329918&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 457 bytes in 559 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+探岳 vm
+  x
+银川 city
+{'vm': ['探岳'], 'city': ['银川']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 1, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 10/10] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:12:44 2019] POST /wechat?signature=0f9bfc94654a8d3b6462a65cf1f2d89534e41f3c&timestamp=1569481964&nonce=759369872&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 744 bytes in 140 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+探岳 vm
+  x
+本溪 city
+{'vm': ['探岳'], 'city': ['本溪']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 1, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 11/11] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:12:52 2019] POST /wechat?signature=4fed8a5ed8a73a68ff8efb74515d83c463b3053d&timestamp=1569481972&nonce=1404993423&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 468 bytes in 82 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+探岳 vm
+  x
+沈阳 city
+{'vm': ['探岳'], 'city': ['沈阳']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 1, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 12/12] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:13:01 2019] POST /wechat?signature=4d9d42c42454a692a94fac6e04492821b1f2a48c&timestamp=1569481981&nonce=1011121269&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1250 bytes in 116 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+东风本田 manu
+{'manu': ['东风本田']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 13/13] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:18:43 2019] POST /wechat?signature=71e5c6bb027e913c36ee542b665b54f749d271ce&timestamp=1569482323&nonce=1910114911&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 460 bytes in 39 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+本田 nz
+XR eng
+- x
+V x
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 14/14] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:19:01 2019] POST /wechat?signature=57b339453527d9e8bafc242099ad4e8805ab3239&timestamp=1569482341&nonce=676138764&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 321 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+本田 nz
+XRV eng
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 15/15] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:19:15 2019] POST /wechat?signature=d4b48aa5d8bff60af17d7fb34cc3ce33f50fb6fa&timestamp=1569482355&nonce=891081721&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 321 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+xrv eng
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 16/16] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:19:20 2019] POST /wechat?signature=90a08a3ead88da33b7fa9dc8e8af7302a091e8d9&timestamp=1569482360&nonce=193018189&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 345 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+XRV eng
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 17/17] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:19:33 2019] POST /wechat?signature=17fa619b18243e335939ff897034894d2f43910c&timestamp=1569482373&nonce=682517549&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 345 bytes in 12 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+思域 vm
+{'vm': ['思域']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 18/18] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:19:41 2019] POST /wechat?signature=0ab86cb10dd4d004e9558d965d233168ffe50f55&timestamp=1569482381&nonce=1082268765&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1446 bytes in 115 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+杰德 vm
+{'vm': ['杰德']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 19/19] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:20:05 2019] POST /wechat?signature=09945d6dae2f23a76535a2bd86ec7fb5fe9f740a&timestamp=1569482405&nonce=633486974&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1114 bytes in 96 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+艾力绅 vm
+{'vm': ['艾力绅']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 20/20] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:20:21 2019] POST /wechat?signature=f88455ebed79ed00d935814d545d4ae44c759765&timestamp=1569482421&nonce=780959046&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 694 bytes in 55 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+哥瑞 vm
+{'vm': ['哥瑞']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 21/21] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:20:45 2019] POST /wechat?signature=b4b65fb65b2e82609062f381636b46910f6fab1b&timestamp=1569482445&nonce=1339922863&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 694 bytes in 122 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+青州 area
+  x
+东风本田 manu
+{'area': ['青州'], 'manu': ['东风本田']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 1, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 22/22] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:21:07 2019] POST /wechat?signature=5e69e00de21574e34cb3630a970b72fad8c768b1&timestamp=1569482467&nonce=1070773870&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 993 bytes in 524 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+广汽本田 manu
+{'manu': ['广汽本田']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 23/23] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:22:29 2019] POST /wechat?signature=ce5f26f2e753aa64d797497001ad0295c3f5ae20&timestamp=1569482549&nonce=1034072130&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 423 bytes in 42 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+冠道 vm
+{'vm': ['冠道']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 24/24] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:22:38 2019] POST /wechat?signature=9295c27378e7d103f920b701c75196b4d911bf46&timestamp=1569482558&nonce=382519800&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1537 bytes in 104 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+吉利 manu
+{'manu': ['吉利汽车']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 25/25] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:25:36 2019] POST /wechat?signature=d39a8f2692147e2a6abe563023b82c21396082ee&timestamp=1569482736&nonce=749052200&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 613 bytes in 34 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+帝豪 vm
+{'vm': ['帝豪']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 26/26] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:25:45 2019] POST /wechat?signature=37f816de601c471026cea93dadffc27b0c663c16&timestamp=1569482745&nonce=2085833670&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1318 bytes in 74 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+博瑞 vm
+{'vm': ['博瑞']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 27/27] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:25:54 2019] POST /wechat?signature=d8d616dade0a45412226caf746e21f5c63c5e28f&timestamp=1569482754&nonce=454208800&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1306 bytes in 88 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+星越 vm
+{'vm': ['星越']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 28/28] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:26:30 2019] POST /wechat?signature=a3022202dc1cb0335bbde94a9b2f7054d6cfa208&timestamp=1569482790&nonce=815596910&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 830 bytes in 74 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+宾越 nr
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 29/29] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:26:52 2019] POST /wechat?signature=1b5cb82b2d50a82af63c6723f892eba64dbb2e66&timestamp=1569482812&nonce=1827085473&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 348 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+缤越 vm
+{'vm': ['缤越']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 30/30] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:26:58 2019] POST /wechat?signature=0d133e97b5f377a1b77a068ba28b9838caab7e56&timestamp=1569482818&nonce=831590202&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 902 bytes in 122 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+上汽通用雪佛兰 manu
+{'manu': ['上汽通用雪佛兰']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 31/31] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:34:43 2019] POST /wechat?signature=a714de9e20da8a1fcc4e7d152178e0a2dc1f04b9&timestamp=1569483283&nonce=1831563402&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 478 bytes in 88 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+迈锐宝 vm
+{'vm': ['迈锐宝']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 32/32] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:34:50 2019] POST /wechat?signature=eddc4bbb8f2ebfc1cdc0c02ceefb1e3af39dd0f2&timestamp=1569483290&nonce=1623060717&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 647 bytes in 74 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+迈锐宝XL vm
+{'vm': ['迈锐宝XL']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 33/33] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:35:05 2019] POST /wechat?signature=56ef4e222fe9d42564b4ccde288a47aa9a9d52ac&timestamp=1569483305&nonce=238071846&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 828 bytes in 170 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+迈锐宝 vm
+xl eng
+{'vm': ['迈锐宝']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 34/34] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:35:13 2019] POST /wechat?signature=0d1161699a9805012fd1c6a2c40b5c483cca9686&timestamp=1569483313&nonce=955059279&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 647 bytes in 18 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+青州 area
+  x
+迈锐宝 vm
+{'area': ['青州'], 'vm': ['迈锐宝']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 1, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 35/35] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:35:26 2019] POST /wechat?signature=a1e9fe314bc6d39743feecf4821132d1bb149cb2&timestamp=1569483326&nonce=869278592&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 457 bytes in 241 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+上汽通用五菱 manu
+{'manu': ['上汽通用五菱']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 36/36] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:35:53 2019] POST /wechat?signature=4785e2cb4ac142962b904fa9c603bce3d35cb7e5&timestamp=1569483353&nonce=1392421009&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 636 bytes in 77 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+五菱宏光 vm
+{'vm': ['五菱宏光']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 37/37] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:36:04 2019] POST /wechat?signature=22866c4e257450f734635f408c203e8a3dacebfc&timestamp=1569483364&nonce=519146251&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1161 bytes in 152 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+五菱之光 vm
+{'vm': ['五菱之光']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 38/38] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:37:03 2019] POST /wechat?signature=b8b4d53d2293c3f7ad512569cb0fa2b9d555da0f&timestamp=1569483423&nonce=1596365154&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 321 bytes in 39 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+宝骏510 vm
+{'vm': ['宝骏510']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 39/39] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:37:13 2019] POST /wechat?signature=9c000e213b2c212e460e3c0f1081600a7ae22c57&timestamp=1569483433&nonce=859623465&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1071 bytes in 119 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+长安汽车 manu
+{'manu': ['长安汽车']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 40/40] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:37:47 2019] POST /wechat?signature=20cc45dc26f75e4b5dfc2315af6343013500a1b7&timestamp=1569483467&nonce=1410151698&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 556 bytes in 25 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+长安 manu
+cs55 eng
+{'manu': ['长安汽车']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 41/41] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:38:03 2019] POST /wechat?signature=0af7b09fd96c3614c632b3b399edde6ae7b84cb2&timestamp=1569483483&nonce=1412685446&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 556 bytes in 23 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+长安CS55 vm
+{'vm': ['长安CS55']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 42/42] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:38:18 2019] POST /wechat?signature=b66cf3423992aea6cc0f22c3d4a48f4035f158ab&timestamp=1569483498&nonce=629314485&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1092 bytes in 174 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+奔奔 vm
+{'vm': ['奔奔']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 43/43] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 15:38:31 2019] POST /wechat?signature=f858c843e4649b9e7ef1f3a7467ac657c91eff8e&timestamp=1569483511&nonce=1773834829&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 412 bytes in 57 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+一汽大众 manu
+捷达 vm
+{'manu': ['一汽-大众'], 'vm': ['捷达']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 44/44] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:38:56 2019] POST /wechat?signature=bce6bc94700c974f6e7c3cf138b1df814913454d&timestamp=1569483536&nonce=914320244&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 330 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+捷达 vm
+{'vm': ['捷达']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 45/45] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:38:59 2019] POST /wechat?signature=f994e8798eebb506ba2efe926d51d7d715829406&timestamp=1569483539&nonce=943721026&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 838 bytes in 62 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+大众 n
+捷达 vm
+{'vm': ['捷达']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 46/46] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 15:39:09 2019] POST /wechat?signature=00c7fb5785e679346ff1f2e372ae31df34a87259&timestamp=1569483549&nonce=625672242&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 838 bytes in 23 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+[pid: 7962|app: 0|req: 47/47] 183.192.179.16 () {40 vars in 656 bytes} [Thu Sep 26 16:24:35 2019] POST /provision/y000000000025.cfg => generated 232 bytes in 16 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 7961|app: 0|req: 1/48] 106.112.179.214 () {44 vars in 722 bytes} [Thu Sep 26 16:24:35 2019] POST /provision/y000000000025.cfg => generated 232 bytes in 4 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 7962|app: 0|req: 48/49] 182.254.52.17 () {40 vars in 655 bytes} [Thu Sep 26 16:52:11 2019] POST /yealink/2/y000000000025.cfg => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 7962|app: 0|req: 49/50] 45.182.159.5 () {32 vars in 463 bytes} [Thu Sep 26 16:55:38 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+哈弗 nr
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 50/51] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 16:59:07 2019] POST /wechat?signature=edde7eb8be58b7c44218f5640337a76a5229f027&timestamp=1569488347&nonce=912042692&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 321 bytes in 18 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+名爵 manu
+{'manu': ['名爵']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 51/52] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 16:59:14 2019] POST /wechat?signature=e8365dc61939a4afc1ada10bd3d9af82a3f44757&timestamp=1569488354&nonce=241357974&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 449 bytes in 64 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+名爵HS vm
+{'vm': ['名爵HS']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 7962|app: 0|req: 52/53] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 16:59:28 2019] POST /wechat?signature=7b0549a6e949c495e4de250d1ce58339abe32b34&timestamp=1569488368&nonce=656515596&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 885 bytes in 95 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+WEY eng
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 53/54] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 16:59:44 2019] POST /wechat?signature=d62b40d3a9b32e0b7f5883a225b000b0fabb68c3&timestamp=1569488384&nonce=1717232380&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 318 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+荣威 manu
+{'manu': ['荣威']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 54/55] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 17:00:15 2019] POST /wechat?signature=64c8fbf0c61e528beb3881b4edc028a7e5d6bf30&timestamp=1569488415&nonce=1859230166&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 504 bytes in 39 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+荣威 manu
+ei5 eng
+{'manu': ['荣威']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 55/56] 223.166.222.117 () {38 vars in 706 bytes} [Thu Sep 26 17:00:29 2019] POST /wechat?signature=bfb63afd3e9cdbd9d6599461c3aeb1b1052de6d4&timestamp=1569488429&nonce=662703892&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 504 bytes in 21 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+荣威 manu
+Ei5 eng
+{'manu': ['荣威']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 56/57] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 17:00:42 2019] POST /wechat?signature=68b457d104aa2d709cc80d0626588289cc8393e2&timestamp=1569488442&nonce=1600200302&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 504 bytes in 16 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+荣威 manu
+i5 eng
+{'manu': ['荣威']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 7962|app: 0|req: 57/58] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 17:01:00 2019] POST /wechat?signature=c9ddfde9cb12d2773faac01dc4d9d3e27a232906&timestamp=1569488460&nonce=1527068352&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 504 bytes in 25 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+[pid: 7962|app: 0|req: 58/59] 58.247.212.239 () {40 vars in 640 bytes} [Thu Sep 26 17:23:57 2019] POST /y/y000000000025.cfg => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+Gracefully killing worker 4 (pid: 7962)...
+Gracefully killing worker 3 (pid: 7961)...
+Gracefully killing worker 2 (pid: 7960)...
+Gracefully killing worker 1 (pid: 7959)...
+...gracefully killing workers...
+worker 1 buried after 2 seconds
+worker 2 buried after 2 seconds
+worker 3 buried after 2 seconds
+worker 4 buried after 2 seconds
+binary reloading uWSGI...
+chdir() to /home/ubuntu/workstudio/20190905_flasktest
+closing all non-uwsgi socket fds > 2 (max_fd = 1024)...
+found fd 3 mapped to socket 0 (/home/ubuntu/workstudio/20190905_flasktest/weixin_uwsgi.sock)
+running /home/ubuntu/.local/bin/uwsgi
+[uWSGI] getting INI configuration from weixin_uwsgi.ini
+*** Starting uWSGI 2.0.18 (64bit) on [Thu Sep 26 17:24:38 2019] ***
+compiled with version: 7.4.0 on 12 September 2019 13:49:51
+os: Linux-4.15.0-60-generic #67-Ubuntu SMP Thu Aug 22 16:55:30 UTC 2019
+nodename: VM-0-7-ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/workstudio/20190905_flasktest
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/ubuntu/workstudio/20190905_flasktest
+your processes number limit is 3697
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited UNIX address /home/ubuntu/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+Python version: 3.6.8 (default, Aug 20 2019, 17:12:48)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x558754021fa0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+/usr/lib/python3/dist-packages/requests/__init__.py:80: RequestsDependencyWarning: urllib3 (1.24.3) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.852 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 3 seconds on interpreter 0x558754021fa0 pid: 7946 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 7946)
+spawned uWSGI worker 1 (pid: 30160, cores: 1)
+spawned uWSGI worker 2 (pid: 30161, cores: 1)
+spawned uWSGI worker 3 (pid: 30162, cores: 1)
+spawned uWSGI worker 4 (pid: 30163, cores: 1)
+[pid: 30163|app: 0|req: 1/1] 59.36.132.240 () {40 vars in 655 bytes} [Thu Sep 26 17:45:49 2019] POST /yealink/2/y000000000025.cfg => generated 232 bytes in 6 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 2/2] 89.45.243.127 () {32 vars in 463 bytes} [Thu Sep 26 17:55:27 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 3/3] 104.199.152.2 () {36 vars in 440 bytes} [Thu Sep 26 18:14:18 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 4/4] 59.36.132.240 () {40 vars in 639 bytes} [Thu Sep 26 18:20:45 2019] POST /y/y000000000025.cfg => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 5/5] 104.199.152.2 () {28 vars in 307 bytes} [Thu Sep 26 18:22:09 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 6/6] 87.89.26.165 () {26 vars in 280 bytes} [Thu Sep 26 18:30:36 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.0 200) 2 headers in 79 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 7/7] 120.132.3.65 () {34 vars in 512 bytes} [Thu Sep 26 18:44:41 2019] GET /404/search_children.js => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 8/8] 147.30.23.209 () {26 vars in 281 bytes} [Thu Sep 26 19:13:58 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.0 200) 2 headers in 79 bytes (2 switches on core 0)
+荣威RX5 vm
+{'vm': ['荣威RX5']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+HTTPConnectionPool(host='localhost', port=3389): Max retries exceeded with url: /db/data/transaction/commit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc06b65c8d0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+[pid: 30163|app: 0|req: 9/9] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 19:18:07 2019] POST /wechat?signature=8834259b098f3e76c28b2c300ca9259d3eabb38f&timestamp=1569496687&nonce=1284258784&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 336 bytes in 229 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+荣威 manu
+i5 eng
+{'manu': ['荣威']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+HTTPConnectionPool(host='localhost', port=3389): Max retries exceeded with url: /db/data/transaction/commit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc06b65c8d0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+[pid: 30162|app: 0|req: 1/10] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 19:18:27 2019] POST /wechat?signature=bbf748044b232b58ef464d07b0a661477b59047e&timestamp=1569496707&nonce=1886801401&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 336 bytes in 161 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+名爵HS vm
+{'vm': ['名爵HS']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+HTTPConnectionPool(host='localhost', port=3389): Max retries exceeded with url: /db/data/transaction/commit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc06a0d7198>: Failed to establish a new connection: [Errno 111] Connection refused',))
+[pid: 30163|app: 0|req: 10/11] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 19:18:41 2019] POST /wechat?signature=c0fcbe3315d35f8456bbf995482bfcd0e7e55c8e&timestamp=1569496721&nonce=1964403268&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 336 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+捷达 vm
+{'vm': ['捷达']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+HTTPConnectionPool(host='localhost', port=3389): Max retries exceeded with url: /db/data/transaction/commit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc06a0d7978>: Failed to establish a new connection: [Errno 111] Connection refused',))
+[pid: 30162|app: 0|req: 2/12] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 19:18:53 2019] POST /wechat?signature=33ce15cc56e3c12ca84b744fcabba302450ede66&timestamp=1569496733&nonce=1470746710&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 336 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+你好 l
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 30163|app: 0|req: 11/13] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 19:18:57 2019] POST /wechat?signature=793ddb9c595b9adc36c1a1bd3ec803911c205d83&timestamp=1569496737&nonce=2141405473&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 333 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+上汽通用五菱 manu
+{'manu': ['上汽通用五菱']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+HTTPConnectionPool(host='localhost', port=3389): Max retries exceeded with url: /db/data/transaction/commit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc069b6bd30>: Failed to establish a new connection: [Errno 111] Connection refused',))
+[pid: 30162|app: 0|req: 3/14] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 19:19:13 2019] POST /wechat?signature=8fa5ea167a3663bfdfde6c7af8c5ffcda4417c89&timestamp=1569496753&nonce=1119647716&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 336 bytes in 14 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 12/15] 80.82.70.187 () {32 vars in 433 bytes} [Thu Sep 26 19:25:09 2019] GET /cache/global/img/gs.gif => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 13/16] 139.162.88.63 () {32 vars in 420 bytes} [Thu Sep 26 19:32:59 2019] GET /echo.php?info=1234567890 => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+你好 l
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 30163|app: 0|req: 14/17] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 20:28:02 2019] POST /wechat?signature=2d59c135d7423afc65d34531fab938cefacf94d1&timestamp=1569500882&nonce=1966025084&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 321 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+你 r
+怎么 r
+老 a
+出 v
+问题 n
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 30162|app: 0|req: 4/18] 223.166.222.117 () {38 vars in 708 bytes} [Thu Sep 26 20:28:09 2019] POST /wechat?signature=809ad0847ef5de33af05519c4de4329364205ce2&timestamp=1569500889&nonce=1269303836&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 345 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 15/19] 139.162.119.197 () {32 vars in 401 bytes} [Thu Sep 26 21:27:46 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 16/20] 104.199.152.2 () {38 vars in 478 bytes} [Thu Sep 26 23:00:44 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 17/21] 45.76.144.219 () {36 vars in 432 bytes} [Thu Sep 26 23:40:06 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 18/22] 78.186.41.129 () {32 vars in 470 bytes} [Fri Sep 27 01:51:08 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 19/23] 191.36.248.1 () {32 vars in 462 bytes} [Fri Sep 27 01:56:58 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 20/24] 58.247.212.239 () {40 vars in 650 bytes} [Fri Sep 27 02:01:39 2019] POST /phpmyadmin3333/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 1/25] 183.192.179.16 () {40 vars in 650 bytes} [Fri Sep 27 02:01:39 2019] POST /phpmyadmin3333/index.php => generated 232 bytes in 4 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 21/26] 59.36.132.240 () {40 vars in 649 bytes} [Fri Sep 27 02:01:42 2019] POST /phpmyadmin3333/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 1/27] 122.230.146.241 () {44 vars in 716 bytes} [Fri Sep 27 02:01:47 2019] POST /phpmyadmin3333/index.php => generated 232 bytes in 4 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 22/28] 59.36.132.240 () {40 vars in 637 bytes} [Fri Sep 27 02:12:11 2019] POST /phpAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 2/29] 59.36.132.240 () {40 vars in 637 bytes} [Fri Sep 27 02:12:12 2019] POST /phpAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 5/30] 183.192.179.16 () {40 vars in 638 bytes} [Fri Sep 27 02:12:18 2019] POST /phpAdmin/index.php => generated 232 bytes in 1 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 2/31] 58.247.212.239 () {40 vars in 616 bytes} [Fri Sep 27 02:12:18 2019] POST /cmv.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 23/32] 182.254.52.17 () {40 vars in 613 bytes} [Fri Sep 27 02:12:22 2019] POST /1x.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 3/33] 123.163.130.126 () {44 vars in 704 bytes} [Fri Sep 27 02:12:23 2019] POST /phpAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 24/34] 59.36.132.240 () {40 vars in 637 bytes} [Fri Sep 27 02:13:26 2019] POST /phpAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 4/35] 182.254.52.17 () {40 vars in 613 bytes} [Fri Sep 27 02:13:26 2019] POST /1x.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 3/36] 183.192.179.16 () {40 vars in 638 bytes} [Fri Sep 27 02:13:26 2019] POST /phpAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 6/37] 58.247.212.239 () {40 vars in 638 bytes} [Fri Sep 27 02:13:26 2019] POST /phpAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 5/38] 111.226.188.173 () {44 vars in 704 bytes} [Fri Sep 27 02:13:26 2019] POST /phpAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 7/39] 182.254.52.17 () {40 vars in 615 bytes} [Fri Sep 27 02:13:26 2019] POST /cmv.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 4/40] 183.192.179.16 () {40 vars in 638 bytes} [Fri Sep 27 02:13:33 2019] POST /phpAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 25/41] 111.226.188.173 () {44 vars in 704 bytes} [Fri Sep 27 02:13:33 2019] POST /phpAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 26/42] 58.247.212.239 () {40 vars in 640 bytes} [Fri Sep 27 02:17:33 2019] POST /admin/pma/index.php => generated 232 bytes in 1 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 8/43] 59.36.132.240 () {40 vars in 639 bytes} [Fri Sep 27 02:17:37 2019] POST /admin/pma/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 5/44] 222.85.101.115 () {44 vars in 705 bytes} [Fri Sep 27 02:17:40 2019] POST /admin/pma/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 27/45] 59.36.132.240 () {40 vars in 639 bytes} [Fri Sep 27 02:19:23 2019] POST /admin/pma/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 6/46] 58.247.212.239 () {40 vars in 640 bytes} [Fri Sep 27 02:19:23 2019] POST /admin/pma/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 9/47] 218.88.204.100 () {44 vars in 705 bytes} [Fri Sep 27 02:19:37 2019] POST /admin/pma/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 28/48] 182.254.52.17 () {40 vars in 631 bytes} [Fri Sep 27 02:23:07 2019] POST /muhstik-dpr.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 10/49] 182.254.52.17 () {40 vars in 631 bytes} [Fri Sep 27 02:23:10 2019] POST /muhstik-dpr.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 7/50] 144.52.203.242 () {44 vars in 697 bytes} [Fri Sep 27 02:23:17 2019] POST /muhstik-dpr.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 29/51] 116.128.128.41 () {40 vars in 632 bytes} [Fri Sep 27 02:25:19 2019] POST /muhstik-dpr.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 30/52] 59.36.132.240 () {40 vars in 651 bytes} [Fri Sep 27 02:28:22 2019] POST /myadmin/scripts/setup.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 8/53] 182.254.52.17 () {40 vars in 651 bytes} [Fri Sep 27 02:28:22 2019] POST /myadmin/scripts/setup.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 11/54] 182.254.52.17 () {40 vars in 651 bytes} [Fri Sep 27 02:28:22 2019] POST /myadmin/scripts/setup.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 31/55] 182.254.52.17 () {40 vars in 651 bytes} [Fri Sep 27 02:31:07 2019] POST /myadmin/scripts/setup.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 9/56] 116.128.128.41 () {40 vars in 652 bytes} [Fri Sep 27 02:31:07 2019] POST /myadmin/scripts/setup.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 12/57] 58.247.212.239 () {40 vars in 652 bytes} [Fri Sep 27 02:31:07 2019] POST /myadmin/scripts/setup.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 32/58] 59.36.132.240 () {40 vars in 625 bytes} [Fri Sep 27 02:33:31 2019] POST /muhstiks.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 6/59] 58.247.212.239 () {40 vars in 626 bytes} [Fri Sep 27 02:33:31 2019] POST /muhstiks.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 10/60] 182.254.52.17 () {40 vars in 637 bytes} [Fri Sep 27 02:33:31 2019] POST /phpadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 13/61] 106.112.179.138 () {44 vars in 692 bytes} [Fri Sep 27 02:33:31 2019] POST /muhstiks.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 7/62] 183.162.75.113 () {44 vars in 691 bytes} [Fri Sep 27 02:33:33 2019] POST /muhstiks.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 11/63] 183.192.179.16 () {40 vars in 628 bytes} [Fri Sep 27 02:33:35 2019] POST /pma/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 33/64] 223.145.229.242 () {44 vars in 704 bytes} [Fri Sep 27 02:33:47 2019] POST /phpadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 34/65] 59.36.132.240 () {40 vars in 637 bytes} [Fri Sep 27 02:36:50 2019] POST /phpadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 14/66] 58.247.212.239 () {40 vars in 628 bytes} [Fri Sep 27 02:36:56 2019] POST /pma/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 35/67] 59.36.132.240 () {40 vars in 621 bytes} [Fri Sep 27 02:39:11 2019] POST /db_pma.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 8/68] 59.36.132.240 () {40 vars in 641 bytes} [Fri Sep 27 02:39:11 2019] POST /phpMyAdmln/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 12/69] 59.36.132.240 () {40 vars in 641 bytes} [Fri Sep 27 02:39:12 2019] POST /phpMyAdmln/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 15/70] 182.254.52.17 () {40 vars in 653 bytes} [Fri Sep 27 02:39:12 2019] POST /admin/phpmyadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 16/71] 58.247.212.239 () {40 vars in 642 bytes} [Fri Sep 27 02:39:14 2019] POST /phpMyAdmln/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 13/72] 59.36.132.240 () {40 vars in 641 bytes} [Fri Sep 27 02:39:17 2019] POST /phpMyAdmln/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 36/73] 183.192.179.16 () {40 vars in 642 bytes} [Fri Sep 27 02:39:20 2019] POST /phpMyAdmln/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 9/74] 59.36.132.240 () {40 vars in 653 bytes} [Fri Sep 27 02:39:21 2019] POST /admin/phpmyadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 14/75] 111.76.152.127 () {44 vars in 687 bytes} [Fri Sep 27 02:39:22 2019] POST /db_pma.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 17/76] 119.132.88.105 () {44 vars in 707 bytes} [Fri Sep 27 02:39:30 2019] POST /phpMyAdmln/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 37/77] 116.128.128.41 () {40 vars in 622 bytes} [Fri Sep 27 02:43:05 2019] POST /db_pma.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 15/78] 58.247.212.239 () {40 vars in 642 bytes} [Fri Sep 27 02:43:05 2019] POST /phpMyAdmln/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 18/79] 59.36.132.240 () {40 vars in 641 bytes} [Fri Sep 27 02:43:05 2019] POST /phpMyAdmln/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 10/80] 59.36.132.240 () {40 vars in 653 bytes} [Fri Sep 27 02:43:05 2019] POST /admin/phpmyadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 11/81] 182.254.52.17 () {40 vars in 653 bytes} [Fri Sep 27 02:43:05 2019] POST /admin/phpmyadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 19/82] 58.247.212.239 () {40 vars in 642 bytes} [Fri Sep 27 02:43:11 2019] POST /phpMyAdmln/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 38/83] 59.36.132.240 () {40 vars in 641 bytes} [Fri Sep 27 02:43:14 2019] POST /phpMyAdmln/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 39/84] 58.247.212.239 () {40 vars in 644 bytes} [Fri Sep 27 02:45:02 2019] POST /phpiMyAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 16/85] 58.247.212.239 () {40 vars in 632 bytes} [Fri Sep 27 02:45:02 2019] POST /admin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 20/86] 183.192.179.16 () {40 vars in 642 bytes} [Fri Sep 27 02:45:02 2019] POST /mysqladmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 12/87] 183.192.179.16 () {40 vars in 644 bytes} [Fri Sep 27 02:45:02 2019] POST /mysql_admin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 13/88] 59.36.132.240 () {40 vars in 641 bytes} [Fri Sep 27 02:45:02 2019] POST /phpMyAdm1n/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 21/89] 59.36.132.240 () {40 vars in 643 bytes} [Fri Sep 27 02:45:02 2019] POST /mysql-admin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 40/90] 58.247.212.239 () {40 vars in 642 bytes} [Fri Sep 27 02:49:33 2019] POST /mysqladmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 14/91] 59.36.132.240 () {40 vars in 643 bytes} [Fri Sep 27 02:49:33 2019] POST /mysql_admin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 17/92] 182.254.52.17 () {40 vars in 643 bytes} [Fri Sep 27 02:49:33 2019] POST /mysql_admin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 22/93] 59.36.132.240 () {40 vars in 641 bytes} [Fri Sep 27 02:49:33 2019] POST /phpMyAdm1n/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 18/94] 116.128.128.41 () {40 vars in 632 bytes} [Fri Sep 27 02:49:33 2019] POST /admin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 15/95] 116.128.128.41 () {40 vars in 644 bytes} [Fri Sep 27 02:49:33 2019] POST /mysql-admin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 41/96] 182.254.52.17 () {40 vars in 643 bytes} [Fri Sep 27 02:49:34 2019] POST /mysql_admin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 23/97] 59.36.132.240 () {40 vars in 641 bytes} [Fri Sep 27 02:49:34 2019] POST /phpMyAdm1n/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 42/98] 59.36.132.240 () {40 vars in 637 bytes} [Fri Sep 27 02:50:46 2019] POST /shaAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 24/99] 116.128.128.41 () {40 vars in 628 bytes} [Fri Sep 27 02:50:47 2019] POST /wp-config.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 16/100] 116.128.128.41 () {40 vars in 628 bytes} [Fri Sep 27 02:50:47 2019] POST /wp-config.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 19/101] 116.128.128.41 () {40 vars in 638 bytes} [Fri Sep 27 02:50:47 2019] POST /shaAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 20/102] 59.36.132.240 () {40 vars in 627 bytes} [Fri Sep 27 02:50:47 2019] POST /wp-config.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 17/103] 182.254.52.17 () {40 vars in 621 bytes} [Fri Sep 27 02:50:47 2019] POST /root11.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 25/104] 182.254.52.17 () {40 vars in 633 bytes} [Fri Sep 27 02:50:47 2019] POST /phppma/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 43/105] 59.36.132.240 () {40 vars in 637 bytes} [Fri Sep 27 02:50:49 2019] POST /shaAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 21/106] 59.36.132.240 () {40 vars in 637 bytes} [Fri Sep 27 02:50:50 2019] POST /shaAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 18/107] 58.247.212.239 () {40 vars in 638 bytes} [Fri Sep 27 02:50:54 2019] POST /shaAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 44/108] 59.36.132.240 () {40 vars in 627 bytes} [Fri Sep 27 02:55:55 2019] POST /wp-config.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 22/109] 59.36.132.240 () {40 vars in 637 bytes} [Fri Sep 27 02:55:55 2019] POST /shaAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 26/110] 183.192.179.16 () {40 vars in 634 bytes} [Fri Sep 27 02:55:55 2019] POST /phppma/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 19/111] 59.36.132.240 () {40 vars in 637 bytes} [Fri Sep 27 02:55:55 2019] POST /shaAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 27/112] 58.247.212.239 () {40 vars in 638 bytes} [Fri Sep 27 02:55:56 2019] POST /shaAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 45/113] 182.254.52.17 () {40 vars in 621 bytes} [Fri Sep 27 02:55:57 2019] POST /root11.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 23/114] 116.128.128.41 () {40 vars in 638 bytes} [Fri Sep 27 02:55:57 2019] POST /shaAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 20/115] 114.101.252.180 () {44 vars in 704 bytes} [Fri Sep 27 02:56:04 2019] POST /shaAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 28/116] 111.76.129.213 () {44 vars in 687 bytes} [Fri Sep 27 02:56:08 2019] POST /root11.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 46/117] 116.8.114.169 () {44 vars in 702 bytes} [Fri Sep 27 02:56:21 2019] POST /shaAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 21/118] 59.36.132.240 () {40 vars in 631 bytes} [Fri Sep 27 02:56:26 2019] POST /desktop.ini.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 24/119] 59.36.132.240 () {40 vars in 628 bytes} [Fri Sep 27 02:56:26 2019] POST /lang.php?f%3D1 => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 29/120] 59.36.132.240 () {40 vars in 628 bytes} [Fri Sep 27 02:56:26 2019] POST /lang.php?f%3D1 => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 47/121] 58.247.212.239 () {40 vars in 632 bytes} [Fri Sep 27 02:56:28 2019] POST /desktop.ini.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 22/122] 182.254.52.17 () {40 vars in 643 bytes} [Fri Sep 27 02:56:28 2019] POST /php2MyAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 25/123] 58.247.212.239 () {40 vars in 632 bytes} [Fri Sep 27 02:56:33 2019] POST /desktop.ini.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 48/124] 182.254.52.17 () {40 vars in 643 bytes} [Fri Sep 27 02:56:35 2019] POST /php2MyAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 49/125] 182.254.52.17 () {40 vars in 617 bytes} [Fri Sep 27 03:01:47 2019] POST /knal.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 23/126] 182.254.52.17 () {40 vars in 643 bytes} [Fri Sep 27 03:01:47 2019] POST /phpMyAdmion/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 30/127] 182.254.52.17 () {40 vars in 637 bytes} [Fri Sep 27 03:01:48 2019] POST /myadmin2/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 26/128] 182.46.244.167 () {44 vars in 703 bytes} [Fri Sep 27 03:01:51 2019] POST /myadmin2/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 50/129] 58.247.212.239 () {40 vars in 638 bytes} [Fri Sep 27 03:01:52 2019] POST /myadmin2/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 24/130] 182.100.69.237 () {44 vars in 703 bytes} [Fri Sep 27 03:02:03 2019] POST /myadmin2/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 31/131] 183.192.179.16 () {40 vars in 629 bytes} [Fri Sep 27 03:02:11 2019] POST /lang.php?f%3D1 => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 27/132] 116.128.128.41 () {40 vars in 632 bytes} [Fri Sep 27 03:02:11 2019] POST /desktop.ini.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 25/133] 182.254.52.17 () {40 vars in 631 bytes} [Fri Sep 27 03:02:11 2019] POST /desktop.ini.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 32/134] 182.254.52.17 () {40 vars in 643 bytes} [Fri Sep 27 03:02:12 2019] POST /php2MyAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 51/135] 113.128.9.178 () {44 vars in 708 bytes} [Fri Sep 27 03:02:12 2019] POST /php2MyAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 28/136] 59.36.132.240 () {40 vars in 628 bytes} [Fri Sep 27 03:02:16 2019] POST /lang.php?f%3D1 => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 26/137] 182.46.244.167 () {44 vars in 689 bytes} [Fri Sep 27 03:02:17 2019] POST /lang.php?f%3D1 => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 52/138] 182.254.52.17 () {40 vars in 617 bytes} [Fri Sep 27 03:08:07 2019] POST /knal.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 29/139] 113.128.9.178 () {44 vars in 682 bytes} [Fri Sep 27 03:08:07 2019] POST /knal.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 33/140] 183.192.179.16 () {40 vars in 638 bytes} [Fri Sep 27 03:08:08 2019] POST /myadmin2/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 27/141] 59.36.132.240 () {40 vars in 637 bytes} [Fri Sep 27 03:08:08 2019] POST /myadmin2/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 30/142] 59.36.132.240 () {40 vars in 643 bytes} [Fri Sep 27 03:08:08 2019] POST /phpMyAdmion/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 28/143] 59.36.132.240 () {40 vars in 637 bytes} [Fri Sep 27 03:08:09 2019] POST /myadmin2/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 53/144] 183.192.179.16 () {40 vars in 638 bytes} [Fri Sep 27 03:08:10 2019] POST /myadmin2/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 54/145] 182.254.52.17 () {40 vars in 641 bytes} [Fri Sep 27 03:12:29 2019] POST /MySQLAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 31/146] 58.247.212.239 () {40 vars in 628 bytes} [Fri Sep 27 03:12:29 2019] POST /sql/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 29/147] 182.254.52.17 () {40 vars in 623 bytes} [Fri Sep 27 03:12:29 2019] POST /laravel.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 34/148] 58.247.212.239 () {40 vars in 637 bytes} [Fri Sep 27 03:12:29 2019] POST /?_%3D15626e45ceb31 => generated 178 bytes in 0 msecs (HTTP/1.1 405) 3 headers in 108 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 32/149] 59.36.132.240 () {40 vars in 649 bytes} [Fri Sep 27 03:12:30 2019] POST /phpMyadmin_bak/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 30/150] 182.254.52.17 () {40 vars in 617 bytes} [Fri Sep 27 03:12:31 2019] POST /home.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 55/151] 182.254.52.17 () {40 vars in 649 bytes} [Fri Sep 27 03:12:33 2019] POST /phpMyadmin_bak/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 35/152] 123.52.45.18 () {44 vars in 687 bytes} [Fri Sep 27 03:12:33 2019] POST /laravel.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 33/153] 123.52.103.44 () {44 vars in 706 bytes} [Fri Sep 27 03:12:33 2019] POST /MySQLAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 31/154] 59.36.132.240 () {40 vars in 627 bytes} [Fri Sep 27 03:12:34 2019] POST /sql/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 56/155] 59.36.132.240 () {40 vars in 619 bytes} [Fri Sep 27 03:12:36 2019] POST /phpdm.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 36/156] 123.180.69.196 () {44 vars in 685 bytes} [Fri Sep 27 03:12:40 2019] POST /phpdm.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 34/157] 219.131.189.86 () {44 vars in 683 bytes} [Fri Sep 27 03:12:41 2019] POST /home.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 57/158] 59.36.132.240 () {40 vars in 617 bytes} [Fri Sep 27 03:12:43 2019] POST /home.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 37/159] 218.88.204.37 () {44 vars in 682 bytes} [Fri Sep 27 03:12:43 2019] POST /home.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 32/160] 171.110.82.150 () {44 vars in 715 bytes} [Fri Sep 27 03:12:47 2019] POST /phpMyadmin_bak/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 58/161] 116.128.128.41 () {40 vars in 624 bytes} [Fri Sep 27 03:17:56 2019] POST /1/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 35/162] 58.247.212.239 () {40 vars in 624 bytes} [Fri Sep 27 03:17:56 2019] POST /1/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 38/163] 116.128.128.41 () {40 vars in 624 bytes} [Fri Sep 27 03:17:56 2019] POST /1/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 33/164] 59.36.132.240 () {40 vars in 623 bytes} [Fri Sep 27 03:17:56 2019] POST /1/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 36/165] 58.247.212.239 () {40 vars in 624 bytes} [Fri Sep 27 03:17:56 2019] POST /1/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 34/166] 182.254.52.17 () {40 vars in 623 bytes} [Fri Sep 27 03:17:56 2019] POST /1/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 39/167] 182.254.52.17 () {40 vars in 623 bytes} [Fri Sep 27 03:17:56 2019] POST /1/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 59/168] 123.52.103.44 () {44 vars in 688 bytes} [Fri Sep 27 03:18:12 2019] POST /1/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 60/169] 58.247.212.239 () {40 vars in 624 bytes} [Fri Sep 27 03:19:56 2019] POST /laravel.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 37/170] 58.247.212.239 () {40 vars in 628 bytes} [Fri Sep 27 03:19:56 2019] POST /sql/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 35/171] 58.247.212.239 () {40 vars in 618 bytes} [Fri Sep 27 03:19:56 2019] POST /home.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 40/172] 183.192.179.16 () {40 vars in 628 bytes} [Fri Sep 27 03:19:56 2019] POST /sql/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 36/173] 58.247.212.239 () {40 vars in 620 bytes} [Fri Sep 27 03:19:56 2019] POST /phpdm.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 41/174] 122.4.42.217 () {44 vars in 691 bytes} [Fri Sep 27 03:19:56 2019] POST /sql/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 38/175] 59.36.132.240 () {40 vars in 641 bytes} [Fri Sep 27 03:19:58 2019] POST /MySQLAdmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 61/176] 59.36.132.240 () {40 vars in 636 bytes} [Fri Sep 27 03:20:13 2019] POST /?_%3D15626e45ceb31 => generated 178 bytes in 0 msecs (HTTP/1.1 405) 3 headers in 108 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 37/177] 59.36.132.240 () {40 vars in 649 bytes} [Fri Sep 27 03:20:13 2019] POST /phpMyadmin_bak/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 42/178] 182.254.52.17 () {40 vars in 649 bytes} [Fri Sep 27 03:20:13 2019] POST /phpMyadmin_bak/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 39/179] 116.128.128.41 () {40 vars in 618 bytes} [Fri Sep 27 03:20:14 2019] POST /home.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 62/180] 115.221.118.98 () {44 vars in 697 bytes} [Fri Sep 27 03:20:15 2019] POST /?_%3D15626e45ceb31 => generated 178 bytes in 0 msecs (HTTP/1.1 405) 3 headers in 108 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 63/181] 183.192.179.16 () {40 vars in 614 bytes} [Fri Sep 27 03:23:27 2019] POST /dp.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 64/182] 58.247.212.239 () {40 vars in 624 bytes} [Fri Sep 27 03:25:56 2019] POST /1/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 40/183] 59.36.132.240 () {40 vars in 623 bytes} [Fri Sep 27 03:25:56 2019] POST /1/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 43/184] 59.36.132.240 () {40 vars in 623 bytes} [Fri Sep 27 03:25:56 2019] POST /1/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 38/185] 59.36.132.240 () {40 vars in 623 bytes} [Fri Sep 27 03:25:56 2019] POST /1/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 44/186] 59.36.132.240 () {40 vars in 623 bytes} [Fri Sep 27 03:25:56 2019] POST /1/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 39/187] 59.36.132.240 () {40 vars in 623 bytes} [Fri Sep 27 03:25:57 2019] POST /1/index.php => generated 232 bytes in 1 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 41/188] 59.36.132.240 () {40 vars in 623 bytes} [Fri Sep 27 03:25:57 2019] POST /1/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 65/189] 182.254.52.17 () {40 vars in 623 bytes} [Fri Sep 27 03:25:57 2019] POST /1/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 45/190] 183.192.179.16 () {40 vars in 624 bytes} [Fri Sep 27 03:25:57 2019] POST /1/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 42/191] 58.247.212.239 () {40 vars in 624 bytes} [Fri Sep 27 03:25:58 2019] POST /1/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 66/192] 220.189.116.223 () {44 vars in 690 bytes} [Fri Sep 27 03:26:06 2019] POST /1/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 46/193] 1.194.154.4 () {44 vars in 686 bytes} [Fri Sep 27 03:26:19 2019] POST /1/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 67/194] 116.128.128.41 () {40 vars in 614 bytes} [Fri Sep 27 03:29:07 2019] POST /99.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 47/195] 59.36.132.240 () {40 vars in 613 bytes} [Fri Sep 27 03:29:08 2019] POST /99.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 40/196] 183.192.179.16 () {40 vars in 614 bytes} [Fri Sep 27 03:29:08 2019] POST /99.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 43/197] 183.192.179.16 () {40 vars in 614 bytes} [Fri Sep 27 03:29:08 2019] POST /99.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 44/198] 59.36.132.240 () {40 vars in 613 bytes} [Fri Sep 27 03:29:08 2019] POST /99.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 68/199] 58.247.212.239 () {40 vars in 640 bytes} [Fri Sep 27 03:29:09 2019] POST /admin/PMA/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 41/200] 59.36.132.240 () {40 vars in 639 bytes} [Fri Sep 27 03:29:09 2019] POST /admin/PMA/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 48/201] 116.128.128.41 () {40 vars in 640 bytes} [Fri Sep 27 03:29:10 2019] POST /admin/PMA/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 45/202] 115.221.118.98 () {44 vars in 679 bytes} [Fri Sep 27 03:29:11 2019] POST /99.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 42/203] 218.88.205.129 () {44 vars in 679 bytes} [Fri Sep 27 03:29:15 2019] POST /99.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 69/204] 111.72.193.107 () {44 vars in 679 bytes} [Fri Sep 27 03:29:17 2019] POST /99.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 49/205] 1.198.13.85 () {44 vars in 676 bytes} [Fri Sep 27 03:29:25 2019] POST /99.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 70/206] 183.192.179.16 () {40 vars in 628 bytes} [Fri Sep 27 03:31:58 2019] POST /images/up.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 43/207] 59.36.132.240 () {40 vars in 631 bytes} [Fri Sep 27 03:31:58 2019] POST /mysql/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 46/208] 59.36.132.240 () {40 vars in 631 bytes} [Fri Sep 27 03:31:58 2019] POST /mysql/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 50/209] 59.36.132.240 () {40 vars in 631 bytes} [Fri Sep 27 03:32:01 2019] POST /mysql/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 44/210] 59.36.132.240 () {40 vars in 613 bytes} [Fri Sep 27 03:32:01 2019] POST /dp.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 71/211] 59.36.132.240 () {40 vars in 615 bytes} [Fri Sep 27 03:34:32 2019] POST /wpo.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 45/212] 59.36.132.240 () {40 vars in 619 bytes} [Fri Sep 27 03:34:32 2019] POST /xsser.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 51/213] 182.254.52.17 () {40 vars in 617 bytes} [Fri Sep 27 03:34:32 2019] POST /root.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 47/214] 58.247.212.239 () {40 vars in 620 bytes} [Fri Sep 27 03:34:32 2019] POST /xsser.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 72/215] 116.128.128.41 () {40 vars in 614 bytes} [Fri Sep 27 03:38:10 2019] POST /99.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 48/216] 183.192.179.16 () {40 vars in 614 bytes} [Fri Sep 27 03:38:10 2019] POST /99.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 46/217] 116.128.128.41 () {40 vars in 614 bytes} [Fri Sep 27 03:38:10 2019] POST /99.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 52/218] 116.128.128.41 () {40 vars in 640 bytes} [Fri Sep 27 03:38:10 2019] POST /admin/PMA/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 49/219] 59.36.132.240 () {40 vars in 639 bytes} [Fri Sep 27 03:38:10 2019] POST /admin/PMA/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 47/220] 116.128.128.41 () {40 vars in 640 bytes} [Fri Sep 27 03:38:11 2019] POST /admin/PMA/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 53/221] 123.163.133.13 () {44 vars in 705 bytes} [Fri Sep 27 03:38:11 2019] POST /admin/PMA/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 73/222] 121.56.39.147 () {44 vars in 704 bytes} [Fri Sep 27 03:38:13 2019] POST /admin/PMA/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 50/223] 113.128.121.79 () {44 vars in 679 bytes} [Fri Sep 27 03:38:19 2019] POST /99.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 48/224] 111.76.140.37 () {44 vars in 704 bytes} [Fri Sep 27 03:38:25 2019] POST /admin/PMA/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 74/225] 116.128.128.41 () {40 vars in 618 bytes} [Fri Sep 27 03:43:33 2019] POST /root.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 51/226] 116.128.128.41 () {40 vars in 620 bytes} [Fri Sep 27 03:43:33 2019] POST /xsser.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 54/227] 59.36.132.240 () {40 vars in 619 bytes} [Fri Sep 27 03:43:33 2019] POST /xsser.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 49/228] 218.88.205.142 () {44 vars in 683 bytes} [Fri Sep 27 03:43:33 2019] POST /root.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 55/229] 121.56.39.147 () {44 vars in 684 bytes} [Fri Sep 27 03:43:33 2019] POST /xsser.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 52/230] 113.128.121.79 () {44 vars in 685 bytes} [Fri Sep 27 03:43:33 2019] POST /xsser.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 75/231] 197.220.100.206 () {32 vars in 466 bytes} [Fri Sep 27 03:44:57 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 76/232] 58.247.212.239 () {40 vars in 662 bytes} [Fri Sep 27 03:55:20 2019] POST /MyAdmin/scripts/db___.init.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 56/233] 182.254.52.17 () {40 vars in 787 bytes} [Fri Sep 27 03:55:21 2019] POST /%2573%2565%2565%2579%256F%256E/%2568%2574%256D%256C%256F%2566%2566%2569%2563%2565%2573%2565%2572%2576%256C%2565%2574 => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 50/234] 120.35.189.38 () {44 vars in 726 bytes} [Fri Sep 27 03:55:21 2019] POST /MyAdmin/scripts/db___.init.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 77/235] 116.128.128.41 () {40 vars in 622 bytes} [Fri Sep 27 04:00:35 2019] POST /_query.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 51/236] 59.36.132.240 () {40 vars in 621 bytes} [Fri Sep 27 04:00:35 2019] POST /_query.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 57/237] 59.36.132.240 () {40 vars in 643 bytes} [Fri Sep 27 04:00:35 2019] POST /PMA/scripts/setup.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 53/238] 59.36.132.240 () {40 vars in 621 bytes} [Fri Sep 27 04:00:35 2019] POST /_query.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 54/239] 182.254.52.17 () {40 vars in 621 bytes} [Fri Sep 27 04:00:35 2019] POST /_query.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 52/240] 106.112.179.63 () {44 vars in 687 bytes} [Fri Sep 27 04:00:38 2019] POST /_query.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 78/241] 183.192.179.16 () {40 vars in 628 bytes} [Fri Sep 27 04:05:29 2019] POST /321/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 53/242] 59.36.132.240 () {40 vars in 627 bytes} [Fri Sep 27 04:05:29 2019] POST /321/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 55/243] 59.36.132.240 () {40 vars in 627 bytes} [Fri Sep 27 04:05:29 2019] POST /321/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 58/244] 182.254.52.17 () {40 vars in 627 bytes} [Fri Sep 27 04:05:29 2019] POST /321/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 56/245] 115.221.126.28 () {44 vars in 693 bytes} [Fri Sep 27 04:05:35 2019] POST /321/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 79/246] 59.36.132.240 () {40 vars in 617 bytes} [Fri Sep 27 04:10:48 2019] POST /text.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 54/247] 59.36.132.240 () {40 vars in 631 bytes} [Fri Sep 27 04:10:48 2019] POST /images/vuln.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 59/248] 182.254.52.17 () {40 vars in 617 bytes} [Fri Sep 27 04:10:48 2019] POST /text.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 57/249] 113.14.131.17 () {44 vars in 682 bytes} [Fri Sep 27 04:11:06 2019] POST /text.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 80/250] 58.247.212.239 () {40 vars in 616 bytes} [Fri Sep 27 04:15:36 2019] POST /lol.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 55/251] 59.36.132.240 () {40 vars in 621 bytes} [Fri Sep 27 04:15:36 2019] POST /db_cts.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 60/252] 218.73.136.119 () {44 vars in 681 bytes} [Fri Sep 27 04:15:36 2019] POST /lol.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 58/253] 182.254.52.17 () {40 vars in 615 bytes} [Fri Sep 27 04:15:36 2019] POST /lol.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 59/254] 182.254.52.17 () {40 vars in 621 bytes} [Fri Sep 27 04:15:36 2019] POST /db_cts.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 61/255] 182.254.52.17 () {40 vars in 625 bytes} [Fri Sep 27 04:15:36 2019] POST /baidoubi.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 81/256] 59.36.132.240 () {40 vars in 629 bytes} [Fri Sep 27 04:18:44 2019] POST /pmd_online.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 62/257] 220.189.70.170 () {44 vars in 695 bytes} [Fri Sep 27 04:18:50 2019] POST /pmd_online.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 82/258] 183.192.179.16 () {40 vars in 614 bytes} [Fri Sep 27 04:20:37 2019] POST /hd.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 60/259] 183.192.179.16 () {40 vars in 614 bytes} [Fri Sep 27 04:20:37 2019] POST /hd.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 63/260] 183.192.179.16 () {40 vars in 638 bytes} [Fri Sep 27 04:20:37 2019] POST /download/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 56/261] 59.36.132.240 () {40 vars in 637 bytes} [Fri Sep 27 04:20:37 2019] POST /download/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 61/262] 59.36.132.240 () {40 vars in 633 bytes} [Fri Sep 27 04:20:37 2019] POST /shopdb/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 83/263] 116.128.128.41 () {40 vars in 628 bytes} [Fri Sep 27 04:26:42 2019] POST /pwd/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 62/264] 59.36.132.240 () {40 vars in 627 bytes} [Fri Sep 27 04:26:42 2019] POST /pwd/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 64/265] 116.128.128.41 () {40 vars in 636 bytes} [Fri Sep 27 04:26:43 2019] POST /images/attari.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 57/266] 59.36.132.240 () {40 vars in 635 bytes} [Fri Sep 27 04:26:43 2019] POST /images/attari.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 58/267] 116.128.128.41 () {40 vars in 628 bytes} [Fri Sep 27 04:26:43 2019] POST /pwd/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 63/268] 182.254.52.17 () {40 vars in 635 bytes} [Fri Sep 27 04:26:43 2019] POST /images/attari.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 84/269] 220.189.70.170 () {44 vars in 693 bytes} [Fri Sep 27 04:26:46 2019] POST /pwd/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 65/270] 125.109.195.149 () {44 vars in 702 bytes} [Fri Sep 27 04:26:48 2019] POST /images/attari.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 64/271] 122.4.46.20 () {44 vars in 698 bytes} [Fri Sep 27 04:26:48 2019] POST /images/attari.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 59/272] 182.46.234.68 () {44 vars in 692 bytes} [Fri Sep 27 04:26:50 2019] POST /pwd/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 85/273] 59.36.132.240 () {40 vars in 613 bytes} [Fri Sep 27 04:32:06 2019] POST /yu.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 65/274] 113.128.8.91 () {44 vars in 677 bytes} [Fri Sep 27 04:32:06 2019] POST /yu.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 86/275] 120.79.208.204 () {30 vars in 364 bytes} [Fri Sep 27 04:32:56 2019] GET /ifixwebspace => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 60/276] 120.79.208.204 () {30 vars in 370 bytes} [Fri Sep 27 04:32:56 2019] GET /navigation.html => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 66/277] 120.79.208.204 () {30 vars in 423 bytes} [Fri Sep 27 04:32:56 2019] GET /fx_plcinf.html?CMD=Monitor%20Start&LANG=EN => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 66/278] 120.79.208.204 () {36 vars in 433 bytes} [Fri Sep 27 04:32:56 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 67/279] 120.79.208.204 () {30 vars in 340 bytes} [Fri Sep 27 04:32:56 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 61/280] 120.79.208.204 () {30 vars in 364 bytes} [Fri Sep 27 04:32:56 2019] GET /KingViewWeb/ => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 67/281] 120.79.208.204 () {30 vars in 366 bytes} [Fri Sep 27 04:32:56 2019] GET /webconfig.ini => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 87/282] 59.36.132.240 () {40 vars in 645 bytes} [Fri Sep 27 04:37:09 2019] POST /admin/mysql2/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 68/283] 183.192.179.16 () {40 vars in 664 bytes} [Fri Sep 27 04:37:09 2019] POST /phpmyadmin/phpmyadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 62/284] 58.247.212.239 () {40 vars in 664 bytes} [Fri Sep 27 04:37:09 2019] POST /phpmyadmin/phpmyadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 68/285] 58.247.212.239 () {40 vars in 634 bytes} [Fri Sep 27 04:37:09 2019] POST /123131/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 69/286] 58.247.212.239 () {40 vars in 664 bytes} [Fri Sep 27 04:37:09 2019] POST /phpmyadmin/phpmyadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 63/287] 58.247.212.239 () {40 vars in 646 bytes} [Fri Sep 27 04:37:09 2019] POST /admin/mysql2/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 88/288] 59.36.132.240 () {40 vars in 663 bytes} [Fri Sep 27 04:37:09 2019] POST /phpmyadmin/phpmyadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 69/289] 36.62.240.231 () {44 vars in 698 bytes} [Fri Sep 27 04:37:09 2019] POST /123131/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 70/290] 182.254.52.17 () {40 vars in 645 bytes} [Fri Sep 27 04:37:09 2019] POST /admin/mysql2/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 64/291] 182.254.52.17 () {40 vars in 663 bytes} [Fri Sep 27 04:37:09 2019] POST /phpmyadmin/phpmyadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 30162|app: 0|req: 70/292] 182.254.52.17 () {40 vars in 645 bytes} [Fri Sep 27 04:37:09 2019] POST /admin/mysql2/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 30163|app: 0|req: 89/293] 182.254.52.17 () {40 vars in 645 bytes} [Fri Sep 27 04:37:09 2019] POST /admin/mysql2/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 30161|app: 0|req: 71/294] 115.208.72.87 () {44 vars in 728 bytes} [Fri Sep 27 04:37:10 2019] POST /phpmyadmin/phpmyadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 65/295] 111.226.188.48 () {44 vars in 729 bytes} [Fri Sep 27 04:37:12 2019] POST /phpmyadmin/phpmyadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 71/296] 114.99.14.83 () {44 vars in 709 bytes} [Fri Sep 27 04:37:13 2019] POST /admin/mysql2/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 90/297] 222.85.100.41 () {44 vars in 728 bytes} [Fri Sep 27 04:37:15 2019] POST /phpmyadmin/phpmyadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 72/298] 123.180.69.196 () {44 vars in 729 bytes} [Fri Sep 27 04:37:16 2019] POST /phpmyadmin/phpmyadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 66/299] 220.161.79.151 () {44 vars in 711 bytes} [Fri Sep 27 04:37:19 2019] POST /admin/mysql2/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 72/300] 218.88.205.102 () {44 vars in 711 bytes} [Fri Sep 27 04:37:35 2019] POST /admin/mysql2/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 91/301] 182.254.52.17 () {40 vars in 639 bytes} [Fri Sep 27 04:42:24 2019] POST /phpmadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 73/302] 59.36.132.240 () {40 vars in 639 bytes} [Fri Sep 27 04:42:25 2019] POST /phpmadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 67/303] 182.254.52.17 () {40 vars in 649 bytes} [Fri Sep 27 04:42:25 2019] POST /phpmyadmin2222/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 73/304] 59.36.132.240 () {40 vars in 649 bytes} [Fri Sep 27 04:42:25 2019] POST /phpmyadmin2222/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 68/305] 59.36.132.240 () {40 vars in 643 bytes} [Fri Sep 27 04:42:25 2019] POST /pma/scripts/setup.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 92/306] 182.254.52.17 () {40 vars in 639 bytes} [Fri Sep 27 04:42:25 2019] POST /phpmadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 74/307] 182.254.52.17 () {40 vars in 639 bytes} [Fri Sep 27 04:42:25 2019] POST /phpmadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 74/308] 106.112.88.34 () {44 vars in 704 bytes} [Fri Sep 27 04:42:28 2019] POST /phpmadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 69/309] 114.107.243.228 () {44 vars in 710 bytes} [Fri Sep 27 04:42:30 2019] POST /pma/scripts/setup.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 93/310] 113.120.107.160 () {44 vars in 706 bytes} [Fri Sep 27 04:42:30 2019] POST /phpmadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 75/311] 116.8.114.76 () {44 vars in 713 bytes} [Fri Sep 27 04:42:58 2019] POST /phpmyadmin2222/index.php => generated 232 bytes in 1 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 94/312] 59.36.132.240 () {40 vars in 633 bytes} [Fri Sep 27 04:47:37 2019] POST /websql/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 70/313] 182.254.52.17 () {40 vars in 639 bytes} [Fri Sep 27 04:47:37 2019] POST /phpMyadmi/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 95/314] 116.128.128.41 () {40 vars in 640 bytes} [Fri Sep 27 04:53:22 2019] POST /phpMydmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 76/315] 116.128.128.41 () {40 vars in 660 bytes} [Fri Sep 27 04:53:22 2019] POST /plugins/weathermap/editor.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 75/316] 59.36.132.240 () {40 vars in 631 bytes} [Fri Sep 27 04:53:22 2019] POST /pmamy/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 71/317] 59.36.132.240 () {40 vars in 653 bytes} [Fri Sep 27 04:53:22 2019] POST /typo3/phpmyadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 72/318] 59.36.132.240 () {40 vars in 659 bytes} [Fri Sep 27 04:53:22 2019] POST /plugins/weathermap/editor.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 77/319] 182.254.52.17 () {40 vars in 659 bytes} [Fri Sep 27 04:53:22 2019] POST /plugins/weathermap/editor.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 76/320] 182.254.52.17 () {40 vars in 659 bytes} [Fri Sep 27 04:53:22 2019] POST /plugins/weathermap/editor.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 96/321] 106.46.232.100 () {44 vars in 705 bytes} [Fri Sep 27 04:53:32 2019] POST /phpMydmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 73/322] 119.132.143.239 () {44 vars in 726 bytes} [Fri Sep 27 04:53:32 2019] POST /plugins/weathermap/editor.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 77/323] 120.35.189.125 () {44 vars in 725 bytes} [Fri Sep 27 04:53:33 2019] POST /plugins/weathermap/editor.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 97/324] 58.247.212.239 () {40 vars in 642 bytes} [Fri Sep 27 04:58:28 2019] POST /phpmyadm1n/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 74/325] 183.192.179.16 () {40 vars in 642 bytes} [Fri Sep 27 04:58:28 2019] POST /phpmyadm1n/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 78/326] 183.192.179.16 () {40 vars in 642 bytes} [Fri Sep 27 04:58:28 2019] POST /phpmyadm1n/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 78/327] 182.254.52.17 () {40 vars in 641 bytes} [Fri Sep 27 04:58:28 2019] POST /phpmyadm1n/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 75/328] 182.254.52.17 () {40 vars in 641 bytes} [Fri Sep 27 04:58:28 2019] POST /phpmyadm1n/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 79/329] 182.254.52.17 () {40 vars in 641 bytes} [Fri Sep 27 04:58:28 2019] POST /phpmyadm1n/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 79/330] 123.180.71.245 () {44 vars in 707 bytes} [Fri Sep 27 04:58:28 2019] POST /phpmyadm1n/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 98/331] 111.226.188.75 () {44 vars in 707 bytes} [Fri Sep 27 04:58:30 2019] POST /phpmyadm1n/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 76/332] 124.112.214.36 () {44 vars in 707 bytes} [Fri Sep 27 04:58:33 2019] POST /phpmyadm1n/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 99/333] 80.82.70.187 () {32 vars in 433 bytes} [Fri Sep 27 05:27:25 2019] GET /cache/global/img/gs.gif => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 100/334] 159.203.201.210 () {34 vars in 395 bytes} [Fri Sep 27 06:09:30 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 101/335] 14.17.3.65 () {38 vars in 671 bytes} [Fri Sep 27 06:27:21 2019] GET /myadmin/scripts/setup.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 102/336] 182.101.207.194 () {38 vars in 2063 bytes} [Fri Sep 27 06:31:15 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 80/337] 182.101.207.194 () {38 vars in 2087 bytes} [Fri Sep 27 06:31:19 2019] GET /index.action => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 80/338] 182.101.207.194 () {38 vars in 2087 bytes} [Fri Sep 27 06:31:23 2019] GET /login.action => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 77/339] 182.101.207.194 () {38 vars in 2079 bytes} [Fri Sep 27 06:31:26 2019] GET /index.do => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 103/340] 182.101.207.194 () {38 vars in 2081 bytes} [Fri Sep 27 06:31:30 2019] GET /index.jsp => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 81/341] 182.101.207.194 () {38 vars in 2079 bytes} [Fri Sep 27 06:31:34 2019] GET /login.do => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 78/342] 182.101.207.194 () {38 vars in 2081 bytes} [Fri Sep 27 06:31:37 2019] GET /login.jsp => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 81/343] 182.101.207.194 () {38 vars in 2079 bytes} [Fri Sep 27 06:31:41 2019] GET /main.jsp => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 104/344] 182.101.207.194 () {38 vars in 2085 bytes} [Fri Sep 27 06:31:45 2019] GET /default.jsp => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 82/345] 182.101.207.194 () {38 vars in 2087 bytes} [Fri Sep 27 06:31:49 2019] GET /register.jsp => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 79/346] 182.101.207.194 () {38 vars in 2093 bytes} [Fri Sep 27 06:31:53 2019] GET /login/login.jsp => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 82/347] 182.101.207.194 () {38 vars in 2111 bytes} [Fri Sep 27 06:31:57 2019] GET /login/indexAction.action => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 105/348] 182.101.207.194 () {38 vars in 2099 bytes} [Fri Sep 27 06:32:01 2019] GET /indexAction.action => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 83/349] 182.101.207.194 () {40 vars in 551 bytes} [Fri Sep 27 06:32:05 2019] POST / => generated 178 bytes in 0 msecs (HTTP/1.1 405) 3 headers in 108 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 80/350] 182.101.207.194 () {40 vars in 575 bytes} [Fri Sep 27 06:32:09 2019] POST /index.action => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 106/351] 182.101.207.194 () {40 vars in 575 bytes} [Fri Sep 27 06:32:13 2019] POST /login.action => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 83/352] 182.101.207.194 () {40 vars in 551 bytes} [Fri Sep 27 06:32:22 2019] POST / => generated 178 bytes in 0 msecs (HTTP/1.1 405) 3 headers in 108 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 84/353] 182.101.207.194 () {40 vars in 551 bytes} [Fri Sep 27 06:32:35 2019] POST / => generated 178 bytes in 0 msecs (HTTP/1.1 405) 3 headers in 108 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 81/354] 182.101.207.194 () {38 vars in 1207 bytes} [Fri Sep 27 06:32:48 2019] GET //%28%23_memberAccess%3d@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS%29%3f(%23req%3d%40org.apache.struts2.ServletActionContext%40getRequest(),%23wr%3d%23context%5b%23parameters.obj%5b0%5d%5d.getWriter(),%23wr.println(%23req.getRealPath(%23parameters.pp%5B0%5D)),%23wr.flush(),%23wr.close()):xx.toString.json?&obj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&pp=%2f => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 84/355] 182.101.207.194 () {40 vars in 551 bytes} [Fri Sep 27 06:32:57 2019] POST / => generated 178 bytes in 0 msecs (HTTP/1.1 405) 3 headers in 108 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 107/356] 182.101.207.194 () {40 vars in 575 bytes} [Fri Sep 27 06:33:01 2019] POST /index.action => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 85/357] 182.101.207.194 () {40 vars in 575 bytes} [Fri Sep 27 06:33:05 2019] POST /login.action => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 82/358] 182.101.207.194 () {40 vars in 567 bytes} [Fri Sep 27 06:33:09 2019] POST /index.do => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 85/359] 182.101.207.194 () {40 vars in 569 bytes} [Fri Sep 27 06:33:12 2019] POST /index.jsp => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 108/360] 182.101.207.194 () {40 vars in 567 bytes} [Fri Sep 27 06:33:16 2019] POST /login.do => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 86/361] 182.101.207.194 () {40 vars in 569 bytes} [Fri Sep 27 06:33:19 2019] POST /login.jsp => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 83/362] 182.101.207.194 () {40 vars in 567 bytes} [Fri Sep 27 06:33:23 2019] POST /main.jsp => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 86/363] 182.101.207.194 () {40 vars in 573 bytes} [Fri Sep 27 06:33:26 2019] POST /default.jsp => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 109/364] 182.101.207.194 () {40 vars in 575 bytes} [Fri Sep 27 06:33:30 2019] POST /register.jsp => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 87/365] 182.101.207.194 () {40 vars in 581 bytes} [Fri Sep 27 06:33:34 2019] POST /login/login.jsp => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 110/366] 182.101.207.194 () {40 vars in 599 bytes} [Fri Sep 27 06:33:37 2019] POST /login/indexAction.action => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 84/367] 182.101.207.194 () {40 vars in 587 bytes} [Fri Sep 27 06:33:41 2019] POST /indexAction.action => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 87/368] 182.101.207.194 () {38 vars in 1328 bytes} [Fri Sep 27 06:33:44 2019] GET /?debug=browser&object=(%23_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS)%3f(%23context%5B%23parameters.rpsobj%5B0%5D%5D.getWriter().println(%23context%5B%23parameters.reqobj%5B0%5D%5D.getRealPath(%23parameters.pp%5B0%5D))):sb.toString.json&rpsobj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&command=Is-Struts2-Vul-URL&pp=%2f&reqobj=com.opensymphony.xwork2.dispatcher.HttpServletRequest => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 85/369] 182.101.207.194 () {38 vars in 1352 bytes} [Fri Sep 27 06:33:48 2019] GET /index.action?debug=browser&object=(%23_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS)%3f(%23context%5B%23parameters.rpsobj%5B0%5D%5D.getWriter().println(%23context%5B%23parameters.reqobj%5B0%5D%5D.getRealPath(%23parameters.pp%5B0%5D))):sb.toString.json&rpsobj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&command=Is-Struts2-Vul-URL&pp=%2f&reqobj=com.opensymphony.xwork2.dispatcher.HttpServletRequest => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 88/370] 182.101.207.194 () {38 vars in 1352 bytes} [Fri Sep 27 06:33:52 2019] GET /login.action?debug=browser&object=(%23_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS)%3f(%23context%5B%23parameters.rpsobj%5B0%5D%5D.getWriter().println(%23context%5B%23parameters.reqobj%5B0%5D%5D.getRealPath(%23parameters.pp%5B0%5D))):sb.toString.json&rpsobj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&command=Is-Struts2-Vul-URL&pp=%2f&reqobj=com.opensymphony.xwork2.dispatcher.HttpServletRequest => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 111/371] 182.101.207.194 () {38 vars in 1344 bytes} [Fri Sep 27 06:33:55 2019] GET /index.do?debug=browser&object=(%23_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS)%3f(%23context%5B%23parameters.rpsobj%5B0%5D%5D.getWriter().println(%23context%5B%23parameters.reqobj%5B0%5D%5D.getRealPath(%23parameters.pp%5B0%5D))):sb.toString.json&rpsobj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&command=Is-Struts2-Vul-URL&pp=%2f&reqobj=com.opensymphony.xwork2.dispatcher.HttpServletRequest => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 88/372] 182.101.207.194 () {38 vars in 1346 bytes} [Fri Sep 27 06:33:59 2019] GET /index.jsp?debug=browser&object=(%23_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS)%3f(%23context%5B%23parameters.rpsobj%5B0%5D%5D.getWriter().println(%23context%5B%23parameters.reqobj%5B0%5D%5D.getRealPath(%23parameters.pp%5B0%5D))):sb.toString.json&rpsobj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&command=Is-Struts2-Vul-URL&pp=%2f&reqobj=com.opensymphony.xwork2.dispatcher.HttpServletRequest => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 86/373] 182.101.207.194 () {38 vars in 1344 bytes} [Fri Sep 27 06:34:03 2019] GET /login.do?debug=browser&object=(%23_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS)%3f(%23context%5B%23parameters.rpsobj%5B0%5D%5D.getWriter().println(%23context%5B%23parameters.reqobj%5B0%5D%5D.getRealPath(%23parameters.pp%5B0%5D))):sb.toString.json&rpsobj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&command=Is-Struts2-Vul-URL&pp=%2f&reqobj=com.opensymphony.xwork2.dispatcher.HttpServletRequest => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 89/374] 182.101.207.194 () {38 vars in 1346 bytes} [Fri Sep 27 06:34:06 2019] GET /login.jsp?debug=browser&object=(%23_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS)%3f(%23context%5B%23parameters.rpsobj%5B0%5D%5D.getWriter().println(%23context%5B%23parameters.reqobj%5B0%5D%5D.getRealPath(%23parameters.pp%5B0%5D))):sb.toString.json&rpsobj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&command=Is-Struts2-Vul-URL&pp=%2f&reqobj=com.opensymphony.xwork2.dispatcher.HttpServletRequest => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 112/375] 182.101.207.194 () {38 vars in 1344 bytes} [Fri Sep 27 06:34:10 2019] GET /main.jsp?debug=browser&object=(%23_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS)%3f(%23context%5B%23parameters.rpsobj%5B0%5D%5D.getWriter().println(%23context%5B%23parameters.reqobj%5B0%5D%5D.getRealPath(%23parameters.pp%5B0%5D))):sb.toString.json&rpsobj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&command=Is-Struts2-Vul-URL&pp=%2f&reqobj=com.opensymphony.xwork2.dispatcher.HttpServletRequest => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 89/376] 182.101.207.194 () {38 vars in 1350 bytes} [Fri Sep 27 06:34:14 2019] GET /default.jsp?debug=browser&object=(%23_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS)%3f(%23context%5B%23parameters.rpsobj%5B0%5D%5D.getWriter().println(%23context%5B%23parameters.reqobj%5B0%5D%5D.getRealPath(%23parameters.pp%5B0%5D))):sb.toString.json&rpsobj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&command=Is-Struts2-Vul-URL&pp=%2f&reqobj=com.opensymphony.xwork2.dispatcher.HttpServletRequest => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 87/377] 182.101.207.194 () {38 vars in 1352 bytes} [Fri Sep 27 06:34:17 2019] GET /register.jsp?debug=browser&object=(%23_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS)%3f(%23context%5B%23parameters.rpsobj%5B0%5D%5D.getWriter().println(%23context%5B%23parameters.reqobj%5B0%5D%5D.getRealPath(%23parameters.pp%5B0%5D))):sb.toString.json&rpsobj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&command=Is-Struts2-Vul-URL&pp=%2f&reqobj=com.opensymphony.xwork2.dispatcher.HttpServletRequest => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 90/378] 182.101.207.194 () {38 vars in 1358 bytes} [Fri Sep 27 06:34:21 2019] GET /login/login.jsp?debug=browser&object=(%23_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS)%3f(%23context%5B%23parameters.rpsobj%5B0%5D%5D.getWriter().println(%23context%5B%23parameters.reqobj%5B0%5D%5D.getRealPath(%23parameters.pp%5B0%5D))):sb.toString.json&rpsobj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&command=Is-Struts2-Vul-URL&pp=%2f&reqobj=com.opensymphony.xwork2.dispatcher.HttpServletRequest => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 113/379] 182.101.207.194 () {38 vars in 1376 bytes} [Fri Sep 27 06:34:25 2019] GET /login/indexAction.action?debug=browser&object=(%23_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS)%3f(%23context%5B%23parameters.rpsobj%5B0%5D%5D.getWriter().println(%23context%5B%23parameters.reqobj%5B0%5D%5D.getRealPath(%23parameters.pp%5B0%5D))):sb.toString.json&rpsobj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&command=Is-Struts2-Vul-URL&pp=%2f&reqobj=com.opensymphony.xwork2.dispatcher.HttpServletRequest => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 90/380] 182.101.207.194 () {38 vars in 1364 bytes} [Fri Sep 27 06:34:29 2019] GET /indexAction.action?debug=browser&object=(%23_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS)%3f(%23context%5B%23parameters.rpsobj%5B0%5D%5D.getWriter().println(%23context%5B%23parameters.reqobj%5B0%5D%5D.getRealPath(%23parameters.pp%5B0%5D))):sb.toString.json&rpsobj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&command=Is-Struts2-Vul-URL&pp=%2f&reqobj=com.opensymphony.xwork2.dispatcher.HttpServletRequest => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 88/381] 58.251.121.186 () {38 vars in 673 bytes} [Fri Sep 27 06:35:56 2019] GET /phpMyadmin_bak/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 114/382] 95.104.21.211 () {26 vars in 281 bytes} [Fri Sep 27 06:56:21 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.0 200) 2 headers in 79 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 115/383] 116.128.128.41 () {40 vars in 662 bytes} [Fri Sep 27 07:08:37 2019] POST /MyAdmin/scripts/db___.init.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 91/384] 182.254.52.17 () {40 vars in 787 bytes} [Fri Sep 27 07:08:41 2019] POST /%2573%2565%2565%2579%256F%256E/%2568%2574%256D%256C%256F%2566%2566%2569%2563%2565%2573%2565%2572%2576%256C%2565%2574 => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 91/385] 171.12.227.184 () {44 vars in 853 bytes} [Fri Sep 27 07:08:50 2019] POST /%2573%2565%2565%2579%256F%256E/%2568%2574%256D%256C%256F%2566%2566%2569%2563%2565%2573%2565%2572%2576%256C%2565%2574 => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 116/386] 103.205.245.170 () {32 vars in 472 bytes} [Fri Sep 27 07:11:43 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 117/387] 58.251.121.185 () {38 vars in 625 bytes} [Fri Sep 27 07:30:44 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 118/388] 101.91.62.11 () {38 vars in 685 bytes} [Fri Sep 27 07:43:22 2019] GET /phpmyadmin/phpmyadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 119/389] 58.251.121.184 () {38 vars in 639 bytes} [Fri Sep 27 07:50:03 2019] GET /lol.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 120/390] 59.36.132.240 () {40 vars in 651 bytes} [Fri Sep 27 08:10:17 2019] POST /yealink/y000000000038.cfg => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 121/391] 59.36.119.227 () {38 vars in 656 bytes} [Fri Sep 27 08:25:29 2019] GET /123131/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 92/392] 58.251.121.186 () {38 vars in 651 bytes} [Fri Sep 27 08:25:29 2019] GET /webconfig.ini => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 92/393] 101.91.62.109 () {38 vars in 662 bytes} [Fri Sep 27 08:25:30 2019] GET /phpmadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 122/394] 59.36.119.227 () {38 vars in 650 bytes} [Fri Sep 27 08:28:15 2019] GET /pwd/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 123/395] 198.211.120.8 () {34 vars in 478 bytes} [Fri Sep 27 08:30:15 2019] GET /wp-login.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 124/396] 183.192.179.16 () {40 vars in 652 bytes} [Fri Sep 27 08:57:40 2019] POST /yealink/y000000000034.cfg => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30162|app: 0|req: 93/397] 182.254.52.17 () {40 vars in 651 bytes} [Fri Sep 27 08:57:40 2019] POST /yealink/y000000000034.cfg => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 89/398] 182.254.52.17 () {40 vars in 651 bytes} [Fri Sep 27 08:57:40 2019] POST /yealink/y000000000034.cfg => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30161|app: 0|req: 93/399] 122.4.28.252 () {44 vars in 715 bytes} [Fri Sep 27 08:57:42 2019] POST /yealink/y000000000034.cfg => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 125/400] 106.42.60.191 () {44 vars in 716 bytes} [Fri Sep 27 08:57:45 2019] POST /yealink/y000000000034.cfg => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 126/401] 103.122.34.202 () {32 vars in 465 bytes} [Fri Sep 27 08:58:58 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 127/402] 58.247.212.239 () {40 vars in 656 bytes} [Fri Sep 27 09:13:10 2019] POST /provision/y000000000038.cfg => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30160|app: 0|req: 90/403] 116.128.128.41 () {40 vars in 656 bytes} [Fri Sep 27 09:13:10 2019] POST /provision/y000000000038.cfg => generated 232 bytes in 1 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+你好 l
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 30161|app: 0|req: 94/404] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 09:30:34 2019] POST /wechat?signature=8759d07542191efa625c9a08a1aaa2104036ba72&timestamp=1569547834&nonce=786800416&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 321 bytes in 604 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+潍坊 city
+  x
+朗逸 vm
+{'city': ['潍坊'], 'vm': ['朗逸']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 1, 'area': 0, 'vm': 1, 'kd': 0}
+潍坊 city
+  x
+朗逸 vm
+{'city': ['潍坊'], 'vm': ['朗逸']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 1, 'area': 0, 'vm': 1, 'kd': 0}
+潍坊 city
+  x
+朗逸 vm
+{'city': ['潍坊'], 'vm': ['朗逸']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 1, 'area': 0, 'vm': 1, 'kd': 0}
+Fri Sep 27 09:33:16 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wechat?signature=3e7d817093b13c661bede420f40005c8b70cbccb&timestamp=1569547842&nonce=331836677&openid=omYsE042yRQIAxmq9Z0pYsv8hveE (ip 223.166.222.117) !!!
+Fri Sep 27 09:33:16 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wechat?signature=3e7d817093b13c661bede420f40005c8b70cbccb&timestamp=1569547842&nonce=331836677&openid=omYsE042yRQIAxmq9Z0pYsv8hveE (ip 223.166.222.117) !!!
+Fri Sep 27 09:33:16 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during POST /wechat?signature=3e7d817093b13c661bede420f40005c8b70cbccb&timestamp=1569547842&nonce=331836677&openid=omYsE042yRQIAxmq9Z0pYsv8hveE (223.166.222.117)
+Fri Sep 27 09:33:16 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during POST /wechat?signature=3e7d817093b13c661bede420f40005c8b70cbccb&timestamp=1569547842&nonce=331836677&openid=omYsE042yRQIAxmq9Z0pYsv8hveE (223.166.222.117)
+Fri Sep 27 09:33:16 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wechat?signature=3e7d817093b13c661bede420f40005c8b70cbccb&timestamp=1569547842&nonce=331836677&openid=omYsE042yRQIAxmq9Z0pYsv8hveE (ip 223.166.222.117) !!!
+Fri Sep 27 09:33:16 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during POST /wechat?signature=3e7d817093b13c661bede420f40005c8b70cbccb&timestamp=1569547842&nonce=331836677&openid=omYsE042yRQIAxmq9Z0pYsv8hveE (223.166.222.117)
+潍坊 city
+  x
+上汽大众 manu
+{'city': ['潍坊'], 'manu': ['上汽大众']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 1, 'area': 0, 'vm': 0, 'kd': 0}
+HTTPConnectionPool(host='localhost', port=3389): Max retries exceeded with url: /db/data/transaction/commit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc06b65c8d0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+Fri Sep 27 09:34:07 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wechat?signature=907b825315a711834bf4ac089ca352cfc798d3fb&timestamp=1569547983&nonce=1114249847&openid=omYsE042yRQIAxmq9Z0pYsv8hveE (ip 223.166.222.117) !!!
+Fri Sep 27 09:34:07 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during POST /wechat?signature=907b825315a711834bf4ac089ca352cfc798d3fb&timestamp=1569547983&nonce=1114249847&openid=omYsE042yRQIAxmq9Z0pYsv8hveE (223.166.222.117)
+OSError: write error
+[pid: 30162|app: 0|req: 94/405] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 09:30:52 2019] POST /wechat?signature=3e7d817093b13c661bede420f40005c8b70cbccb&timestamp=1569547842&nonce=331836677&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 0 bytes in 195510 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+OSError: write error
+[pid: 30163|app: 0|req: 128/406] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 09:30:47 2019] POST /wechat?signature=3e7d817093b13c661bede420f40005c8b70cbccb&timestamp=1569547842&nonce=331836677&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 0 bytes in 200505 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+OSError: write error
+[pid: 30161|app: 0|req: 95/407] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 09:30:42 2019] POST /wechat?signature=3e7d817093b13c661bede420f40005c8b70cbccb&timestamp=1569547842&nonce=331836677&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 0 bytes in 205588 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Fri Sep 27 09:34:07 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 200.29.10.34) !!!
+Fri Sep 27 09:34:07 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (200.29.10.34)
+OSError: write error
+[pid: 30161|app: 0|req: 96/408] 200.29.10.34 () {32 vars in 462 bytes} [Fri Sep 27 09:34:07 2019] GET / => generated 0 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+潍坊 city
+  x
+上汽大众 manu
+{'city': ['潍坊'], 'manu': ['上汽大众']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 1, 'area': 0, 'vm': 0, 'kd': 0}
+潍坊 city
+  x
+上汽大众 manu
+{'city': ['潍坊'], 'manu': ['上汽大众']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 1, 'area': 0, 'vm': 0, 'kd': 0}
+HTTPConnectionPool(host='localhost', port=3389): Max retries exceeded with url: /db/data/transaction/commit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc06a34cc50>: Failed to establish a new connection: [Errno 111] Connection refused',))
+Fri Sep 27 09:34:08 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wechat?signature=907b825315a711834bf4ac089ca352cfc798d3fb&timestamp=1569547983&nonce=1114249847&openid=omYsE042yRQIAxmq9Z0pYsv8hveE (ip 223.166.222.117) !!!
+Fri Sep 27 09:34:08 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during POST /wechat?signature=907b825315a711834bf4ac089ca352cfc798d3fb&timestamp=1569547983&nonce=1114249847&openid=omYsE042yRQIAxmq9Z0pYsv8hveE (223.166.222.117)
+OSError: write error
+[pid: 30162|app: 0|req: 95/409] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 09:34:07 2019] POST /wechat?signature=907b825315a711834bf4ac089ca352cfc798d3fb&timestamp=1569547983&nonce=1114249847&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 0 bytes in 41 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+HTTPConnectionPool(host='localhost', port=3389): Max retries exceeded with url: /db/data/transaction/commit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc06a45e828>: Failed to establish a new connection: [Errno 111] Connection refused',))
+Fri Sep 27 09:34:08 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wechat?signature=907b825315a711834bf4ac089ca352cfc798d3fb&timestamp=1569547983&nonce=1114249847&openid=omYsE042yRQIAxmq9Z0pYsv8hveE (ip 223.166.222.117) !!!
+Fri Sep 27 09:34:08 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during POST /wechat?signature=907b825315a711834bf4ac089ca352cfc798d3fb&timestamp=1569547983&nonce=1114249847&openid=omYsE042yRQIAxmq9Z0pYsv8hveE (223.166.222.117)
+OSError: write error
+[pid: 30163|app: 0|req: 129/410] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 09:34:07 2019] POST /wechat?signature=907b825315a711834bf4ac089ca352cfc798d3fb&timestamp=1569547983&nonce=1114249847&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 0 bytes in 43 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+OSError: write error
+[pid: 30160|app: 0|req: 91/411] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 09:33:03 2019] POST /wechat?signature=907b825315a711834bf4ac089ca352cfc798d3fb&timestamp=1569547983&nonce=1114249847&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 0 bytes in 64163 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+[pid: 30163|app: 0|req: 130/412] 58.247.212.239 () {40 vars in 622 bytes} [Fri Sep 27 09:39:49 2019] POST /_query.php => generated 232 bytes in 59 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 30163|app: 0|req: 131/416] 59.36.132.240 () {40 vars in 643 bytes} [Fri Sep 27 09:39:49 2019] POST /PMA/scripts/setup.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 30163|app: 0|req: 132/417] 59.36.132.240 () {40 vars in 621 bytes} [Fri Sep 27 09:39:49 2019] POST /_query.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 30161|app: 0|req: 97/413] 183.192.179.16 () {40 vars in 622 bytes} [Fri Sep 27 09:39:49 2019] POST /_query.php => generated 232 bytes in 60 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 30162|app: 0|req: 96/414] 59.36.132.240 () {40 vars in 621 bytes} [Fri Sep 27 09:39:49 2019] POST /_query.php => generated 232 bytes in 60 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 30160|app: 0|req: 92/415] 116.128.128.41 () {40 vars in 622 bytes} [Fri Sep 27 09:39:49 2019] POST /_query.php => generated 232 bytes in 60 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 30162|app: 0|req: 97/418] 182.254.52.17 () {40 vars in 621 bytes} [Fri Sep 27 09:39:49 2019] POST /_query.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 30161|app: 0|req: 98/419] 114.103.169.202 () {44 vars in 710 bytes} [Fri Sep 27 09:39:49 2019] POST /PMA/scripts/setup.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 30160|app: 0|req: 93/420] 120.35.100.129 () {44 vars in 687 bytes} [Fri Sep 27 09:39:49 2019] POST /_query.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 30160|app: 0|req: 94/421] 182.46.248.153 () {44 vars in 687 bytes} [Fri Sep 27 09:39:49 2019] POST /_query.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 30162|app: 0|req: 98/422] 171.8.9.14 () {44 vars in 683 bytes} [Fri Sep 27 09:39:49 2019] POST /_query.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 30161|app: 0|req: 99/423] 222.85.100.191 () {44 vars in 687 bytes} [Fri Sep 27 09:39:49 2019] POST /_query.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 30163|app: 0|req: 133/424] 222.85.100.191 () {44 vars in 687 bytes} [Fri Sep 27 09:39:49 2019] POST /_query.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 30163|app: 0|req: 134/425] 58.251.121.184 () {38 vars in 643 bytes} [Fri Sep 27 09:44:55 2019] GET /login.jsp => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 135/426] 5.201.175.194 () {32 vars in 463 bytes} [Fri Sep 27 09:52:58 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+潍坊 city
+  x
+帕萨特 vm
+{'city': ['潍坊'], 'vm': ['帕萨特']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 1, 'area': 0, 'vm': 1, 'kd': 0}
+HTTPConnectionPool(host='localhost', port=3389): Max retries exceeded with url: /db/data/transaction/commit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc06adaefd0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+[pid: 30163|app: 0|req: 136/427] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 09:58:28 2019] POST /wechat?signature=cd9999446c3f354f0669c292cbaf31d8c4acafb3&timestamp=1569549508&nonce=1352286740&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 336 bytes in 48 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+帕萨特 vm
+{'vm': ['帕萨特']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+HTTPConnectionPool(host='localhost', port=3389): Max retries exceeded with url: /db/data/transaction/commit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc06a4afa20>: Failed to establish a new connection: [Errno 111] Connection refused',))
+[pid: 30162|app: 0|req: 99/428] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 09:58:32 2019] POST /wechat?signature=1645777f28ac75b486a2123f03361477da6d65b7&timestamp=1569549512&nonce=151286077&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 336 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 137/429] 58.247.212.239 () {40 vars in 616 bytes} [Fri Sep 27 10:01:51 2019] POST /98k.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+你 r
+怎么 r
+又 d
+出 v
+问题 n
+了 ul
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 30163|app: 0|req: 138/430] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 10:04:18 2019] POST /wechat?signature=2a4231ac3cad5827bf24c0a9d29896fae63eb59a&timestamp=1569549858&nonce=128923614&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 348 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+爷们 r
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 30162|app: 0|req: 100/431] 223.166.222.117 () {38 vars in 704 bytes} [Fri Sep 27 10:04:20 2019] POST /wechat?signature=cd29a07a288a6d8aab6a06d7d584099e13b07511&timestamp=1569549860&nonce=61459796&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 318 bytes in 12 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+[pid: 30163|app: 0|req: 139/432] 58.251.121.186 () {38 vars in 647 bytes} [Fri Sep 27 10:05:18 2019] GET /default.jsp => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+DAMN ! worker 1 (pid: 30160) died, killed by signal 9 :( trying respawn ...
+Respawned uWSGI worker 1 (new pid: 15853)
+Fri Sep 27 10:18:07 2019 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Fri Sep 27 10:18:07 2019 - uWSGI worker 4 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Fri Sep 27 10:18:07 2019 - uWSGI worker 3 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Fri Sep 27 10:18:07 2019 - uWSGI worker 2 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Sep 27 10:19:00 2019] ***
+compiled with version: 7.4.0 on 12 September 2019 13:49:51
+os: Linux-4.15.0-60-generic #67-Ubuntu SMP Thu Aug 22 16:55:30 UTC 2019
+nodename: VM-0-7-ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/workstudio/20190905_flasktest
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/ubuntu/workstudio/20190905_flasktest
+your processes number limit is 3697
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/ubuntu/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+Python version: 3.6.8 (default, Aug 20 2019, 17:12:48)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x562ef2cf10b0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+/usr/lib/python3/dist-packages/requests/__init__.py:80: RequestsDependencyWarning: urllib3 (1.24.3) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.856 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 3 seconds on interpreter 0x562ef2cf10b0 pid: 16025 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 16025)
+spawned uWSGI worker 1 (pid: 16047, cores: 1)
+spawned uWSGI worker 2 (pid: 16048, cores: 1)
+spawned uWSGI worker 3 (pid: 16049, cores: 1)
+spawned uWSGI worker 4 (pid: 16050, cores: 1)
+[pid: 16050|app: 0|req: 1/1] 182.254.52.17 () {40 vars in 613 bytes} [Fri Sep 27 10:19:34 2019] POST /nb.php => generated 232 bytes in 7 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 16049|app: 0|req: 1/2] 116.128.128.41 () {40 vars in 632 bytes} [Fri Sep 27 10:19:35 2019] POST /ganzhuolang.php => generated 232 bytes in 4 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+你好 l
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 16050|app: 0|req: 2/3] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 10:23:55 2019] POST /wechat?signature=45765a638155b52a00d474325d81496681b9e61e&timestamp=1569551035&nonce=1800147999&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 348 bytes in 229 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+潍坊 city
+  x
+帕萨特 vm
+{'city': ['潍坊'], 'vm': ['帕萨特']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 1, 'area': 0, 'vm': 1, 'kd': 0}
+HTTPConnectionPool(host='localhost', port=3389): Max retries exceeded with url: /db/data/transaction/commit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f255b3cfd68>: Failed to establish a new connection: [Errno 111] Connection refused',))
+[pid: 16049|app: 0|req: 2/4] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 10:24:05 2019] POST /wechat?signature=af249e253738c0dca927d7442c022394d848af25&timestamp=1569551045&nonce=1511466597&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 336 bytes in 169 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+[pid: 16050|app: 0|req: 3/5] 116.128.128.41 () {40 vars in 616 bytes} [Fri Sep 27 10:28:24 2019] POST /mjx.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 16050|app: 0|req: 4/6] 192.141.5.56 () {32 vars in 463 bytes} [Fri Sep 27 10:30:52 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /home/ubuntu/workstudio/20190905_flasktest/weixin_uwsgi.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Sep 27 10:36:20 2019] ***
+compiled with version: 7.4.0 on 12 September 2019 13:49:51
+os: Linux-4.15.0-60-generic #67-Ubuntu SMP Thu Aug 22 16:55:30 UTC 2019
+nodename: VM-0-7-ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/workstudio/20190905_flasktest
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/ubuntu/workstudio/20190905_flasktest
+your processes number limit is 3697
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/ubuntu/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+Python version: 3.6.8 (default, Aug 20 2019, 17:12:48)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x562c403940b0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+/usr/lib/python3/dist-packages/requests/__init__.py:80: RequestsDependencyWarning: urllib3 (1.24.3) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.824 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 2 seconds on interpreter 0x562c403940b0 pid: 19083 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 19083)
+spawned uWSGI worker 1 (pid: 19099, cores: 1)
+spawned uWSGI worker 2 (pid: 19100, cores: 1)
+spawned uWSGI worker 3 (pid: 19101, cores: 1)
+spawned uWSGI worker 4 (pid: 19102, cores: 1)
+你好 l
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 19102|app: 0|req: 1/1] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 10:37:09 2019] POST /wechat?signature=1de34a1bf54c3537e6caa303d0b3d29bf65f8704&timestamp=1569551829&nonce=378436867&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 321 bytes in 235 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+潍坊 city
+  x
+帕萨特 vm
+{'city': ['潍坊'], 'vm': ['帕萨特']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 1, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 19102|app: 0|req: 2/2] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 10:37:14 2019] POST /wechat?signature=05cba6c6c461a4e52822c5567690ea9958860bd0&timestamp=1569551834&nonce=1623222527&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1120 bytes in 1815 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+青州 area
+  x
+凯美瑞 vm
+{'area': ['青州'], 'vm': ['凯美瑞']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 1, 'vm': 1, 'kd': 0}
+[pid: 19102|app: 0|req: 3/3] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 10:37:28 2019] POST /wechat?signature=b608b8927d9b39a4193c11e201a16cb5e8700a66&timestamp=1569551848&nonce=834362782&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1040 bytes in 1049 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+哈哈哈 o
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 19102|app: 0|req: 4/4] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 10:37:41 2019] POST /wechat?signature=5b39c5a88d4f0bd550fbc9d5d929a0c072ad0109&timestamp=1569551861&nonce=2073673509&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 333 bytes in 12 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+你 r
+又 d
+活 v
+了 ul
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 19102|app: 0|req: 5/5] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 10:37:46 2019] POST /wechat?signature=8f863b1e9a6e924d06ae53ce2f979bd592fc8e0b&timestamp=1569551866&nonce=408195091&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 333 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+哈弗 nr
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 19102|app: 0|req: 6/6] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 10:38:12 2019] POST /wechat?signature=c0b42348aa5f7bce8edf07e59d120b582252f1b8&timestamp=1569551892&nonce=734229313&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 321 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+WEY eng
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 19102|app: 0|req: 7/7] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 10:38:18 2019] POST /wechat?signature=babc4bb3b84755822f7e5c093c0686d5d61039e0&timestamp=1569551898&nonce=1761524074&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 318 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)

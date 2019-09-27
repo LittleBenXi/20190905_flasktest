@@ -24,7 +24,8 @@ class searchCarInNeo4j():
         self.dict_area = dict_synonym['area']
         self.dict_manu = dict_synonym['manu']
         self.mark_list = ['ci','vm','vi','ri','city','area','manu','kd']
-        self.kg = Graph("http://localhost:3389", username="neo4j", password="123456")
+        self.kg = Graph("bolt://localhost:7687", auth=('neo4j', '123456'))
+        #self.kg = Graph("http://localhost:3389", username="neo4j", password="123456")
         self.introduction = {'CI':'配件','RI':'限制','VI':'车型信息','LO1':'city','LO2':'area','DE':'经销商','VM':'车型','KD':'品牌'}
 
     def searchOneComp(self,carmodel,entity):
