@@ -7371,3 +7371,404 @@ spawned uWSGI worker 4 (pid: 19102, cores: 1)
 WEY eng
 {} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
 [pid: 19102|app: 0|req: 7/7] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 10:38:18 2019] POST /wechat?signature=babc4bb3b84755822f7e5c093c0686d5d61039e0&timestamp=1569551898&nonce=1761524074&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 318 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+荣威EI5 vm
+{'vm': ['荣威Ei5']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 19102|app: 0|req: 8/8] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 10:42:34 2019] POST /wechat?signature=434b977011e34f0276ce011dffb9ac8acd099f55&timestamp=1569552154&nonce=169675760&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 615 bytes in 290 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 4 seconds
+worker 2 buried after 4 seconds
+worker 3 buried after 4 seconds
+worker 4 buried after 4 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /home/ubuntu/workstudio/20190905_flasktest/weixin_uwsgi.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Sep 27 10:51:14 2019] ***
+compiled with version: 7.4.0 on 12 September 2019 13:49:51
+os: Linux-4.15.0-60-generic #67-Ubuntu SMP Thu Aug 22 16:55:30 UTC 2019
+nodename: VM-0-7-ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/workstudio/20190905_flasktest
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/ubuntu/workstudio/20190905_flasktest
+your processes number limit is 3697
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/ubuntu/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+Python version: 3.6.8 (default, Aug 20 2019, 17:12:48)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x5625c8b5e0b0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+/usr/lib/python3/dist-packages/requests/__init__.py:80: RequestsDependencyWarning: urllib3 (1.24.3) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.821 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 3 seconds on interpreter 0x5625c8b5e0b0 pid: 21652 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 21652)
+spawned uWSGI worker 1 (pid: 21662, cores: 1)
+spawned uWSGI worker 2 (pid: 21663, cores: 1)
+spawned uWSGI worker 3 (pid: 21664, cores: 1)
+spawned uWSGI worker 4 (pid: 21665, cores: 1)
+你好 l
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 21665|app: 0|req: 1/1] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 10:51:54 2019] POST /wechat?signature=e3dad2d9f2b5fe76139c3d16a7db9054546f6b39&timestamp=1569552714&nonce=241635441&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 348 bytes in 211 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+荣威EI5 vm
+{'vm': ['荣威Ei5']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+Failed to establish connection to ('127.0.0.1', 7687) (reason [Errno 111] Connection refused)
+[pid: 21664|app: 0|req: 1/2] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 10:52:00 2019] POST /wechat?signature=e00798a3edc59ddbf81050b4ab60e7ed6cfe86c0&timestamp=1569552720&nonce=832276085&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 336 bytes in 166 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+荣威EI5 vm
+{'vm': ['荣威Ei5']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 21665|app: 0|req: 2/3] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 10:53:33 2019] POST /wechat?signature=5c177e4f3e1b20c343eeb27f9a0c2c321f6445e4&timestamp=1569552813&nonce=785981205&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 615 bytes in 1090 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+哈哈 o
+， x
+你 r
+又 d
+好 a
+了 ul
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 21665|app: 0|req: 3/4] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 10:53:44 2019] POST /wechat?signature=906ad402fe36f89ce81294e859cb8a616a4c04c3&timestamp=1569552824&nonce=1300010724&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 348 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+荣威 manu
+{'manu': ['荣威']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 21665|app: 0|req: 4/5] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 10:53:48 2019] POST /wechat?signature=59f35b8ec8ffa2df7e02595aa35f684395d8483d&timestamp=1569552828&nonce=726777290&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 504 bytes in 181 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+哈弗 manu
+{'manu': ['哈弗']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 21665|app: 0|req: 5/6] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 10:53:55 2019] POST /wechat?signature=1dd941c5c801dc3a5758a05cfd59481db7859a0a&timestamp=1569552835&nonce=2076672206&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 479 bytes in 63 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+WEY manu
+{'manu': ['WEY']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 21665|app: 0|req: 6/7] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 10:54:04 2019] POST /wechat?signature=be670c2ddf277a89a8c72b24c224b3dce410b6a4&timestamp=1569552844&nonce=1611958340&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 374 bytes in 125 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+VV7 vm
+{'vm': ['WEYVV7']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 21665|app: 0|req: 7/8] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 10:54:11 2019] POST /wechat?signature=b788441508f7a066c0bef82165a7aab70bcece1e&timestamp=1569552851&nonce=1883570682&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 594 bytes in 292 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+VV7 vm
+有 v
+自动泊车 ci
+吗 y
+{'vm': ['WEYVV7'], 'ci': ['自动泊车入位']} {'ci': 1, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 21665|app: 0|req: 8/9] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 10:54:47 2019] POST /wechat?signature=c50cd521a3a29e3d9e3cb1c46537df5a67b3d581&timestamp=1569552887&nonce=347488988&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 415 bytes in 98 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+VV7 vm
+有 v
+儿童座椅接口 ci
+吗 y
+{'vm': ['WEYVV7'], 'ci': ['ISOFIX儿童座椅接口']} {'ci': 1, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 21665|app: 0|req: 9/10] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 10:55:01 2019] POST /wechat?signature=fcb6b542f7e78405fe2bb887ba6427fc325e814d&timestamp=1569552901&nonce=535567912&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 585 bytes in 74 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+VV7 vm
+带 v
+自动泊车 ci
+的 uj
+多 m
+钱 n
+{'vm': ['WEYVV7'], 'ci': ['自动泊车入位']} {'ci': 1, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 21665|app: 0|req: 10/11] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 10:55:19 2019] POST /wechat?signature=bd6ab0cb89995216a2416036ad32c802f613d399&timestamp=1569552919&nonce=475433449&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 415 bytes in 49 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+VV7 vm
+带 v
+自动泊车 ci
+的 uj
+多少钱 vi
+{'vm': ['WEYVV7'], 'ci': ['自动泊车入位'], 'vi': ['厂商指导价(万元)']} {'ci': 1, 'vi': 1, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+VV7 vm
+带 v
+自动泊车 ci
+的 uj
+多少钱 vi
+{'vm': ['WEYVV7'], 'ci': ['自动泊车入位'], 'vi': ['厂商指导价(万元)']} {'ci': 1, 'vi': 1, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+Fri Sep 27 10:55:34 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wechat?signature=7d1a612c2a62f9f99b0465c0aba67e3a131b7572&timestamp=1569552928&nonce=1682808764&openid=omYsE042yRQIAxmq9Z0pYsv8hveE (ip 223.166.222.117) !!!
+Fri Sep 27 10:55:34 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during POST /wechat?signature=7d1a612c2a62f9f99b0465c0aba67e3a131b7572&timestamp=1569552928&nonce=1682808764&openid=omYsE042yRQIAxmq9Z0pYsv8hveE (223.166.222.117)
+[pid: 21664|app: 0|req: 2/12] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 10:55:34 2019] POST /wechat?signature=7d1a612c2a62f9f99b0465c0aba67e3a131b7572&timestamp=1569552928&nonce=1682808764&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 451 bytes in 765 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+OSError: write error
+[pid: 21665|app: 0|req: 11/13] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 10:55:29 2019] POST /wechat?signature=7d1a612c2a62f9f99b0465c0aba67e3a131b7572&timestamp=1569552928&nonce=1682808764&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 0 bytes in 6047 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+
+[pid: 21662|app: 0|req: 1/14] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 10:56:14 2019] POST /wechat?signature=cba3163f884b49b69800b840e5251d2c40df85d3&timestamp=1569552974&nonce=1278594170&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 336 bytes in 4128 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+路虎 manu
+{'manu': ['奇瑞捷豹路虎']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 21664|app: 0|req: 3/15] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 11:01:46 2019] POST /wechat?signature=5c104c60df1e80d17cef7b97b2d4c3415b09ef03&timestamp=1569553306&nonce=2042455129&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 422 bytes in 4980 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+
+路虎 manu
+{'manu': ['奇瑞捷豹路虎']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 21662|app: 0|req: 2/16] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 11:01:57 2019] POST /wechat?signature=5c104c60df1e80d17cef7b97b2d4c3415b09ef03&timestamp=1569553306&nonce=2042455129&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 336 bytes in 4299 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+Fri Sep 27 11:02:19 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wechat?signature=5c104c60df1e80d17cef7b97b2d4c3415b09ef03&timestamp=1569553306&nonce=2042455129&openid=omYsE042yRQIAxmq9Z0pYsv8hveE (ip 223.166.222.117) !!!
+Fri Sep 27 11:02:19 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during POST /wechat?signature=5c104c60df1e80d17cef7b97b2d4c3415b09ef03&timestamp=1569553306&nonce=2042455129&openid=omYsE042yRQIAxmq9Z0pYsv8hveE (223.166.222.117)
+OSError: write error
+[pid: 21664|app: 0|req: 4/17] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 11:01:52 2019] POST /wechat?signature=5c104c60df1e80d17cef7b97b2d4c3415b09ef03&timestamp=1569553306&nonce=2042455129&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 0 bytes in 179729 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Fri Sep 27 11:17:58 2019 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Fri Sep 27 11:17:58 2019 - uWSGI worker 3 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Fri Sep 27 11:17:58 2019 - uWSGI worker 2 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Fri Sep 27 11:17:58 2019 - uWSGI worker 4 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Sep 27 13:02:23 2019] ***
+compiled with version: 7.4.0 on 12 September 2019 13:49:51
+os: Linux-4.15.0-60-generic #67-Ubuntu SMP Thu Aug 22 16:55:30 UTC 2019
+nodename: VM-0-7-ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/workstudio/20190905_flasktest
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/ubuntu/workstudio/20190905_flasktest
+your processes number limit is 3697
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/ubuntu/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+Python version: 3.6.8 (default, Aug 20 2019, 17:12:48)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x5595216f00b0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+/usr/lib/python3/dist-packages/requests/__init__.py:80: RequestsDependencyWarning: urllib3 (1.24.3) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/jieba.cache
+Loading model cost 1.105 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 3 seconds on interpreter 0x5595216f00b0 pid: 11894 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 11894)
+spawned uWSGI worker 1 (pid: 11930, cores: 1)
+spawned uWSGI worker 2 (pid: 11931, cores: 1)
+spawned uWSGI worker 3 (pid: 11932, cores: 1)
+spawned uWSGI worker 4 (pid: 11933, cores: 1)
+路虎 manu
+{'manu': ['奇瑞捷豹路虎']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 1/1] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:03:38 2019] POST /wechat?signature=b398275aba77502549c276659891bb03d4d159e9&timestamp=1569560618&nonce=1993849013&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 422 bytes in 1123 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+捷豹XFL vm
+{'vm': ['捷豹XFL']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 11933|app: 0|req: 2/2] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:03:56 2019] POST /wechat?signature=997d5be787f9f50cc2592ebb52beb5b63f210c32&timestamp=1569560636&nonce=1863134420&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1181 bytes in 510 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+你 r
+能 v
+一直 d
+这样 r
+正常 d
+下去 t
+吗 y
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 3/3] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 13:04:13 2019] POST /wechat?signature=f4c0c4f0a6cb1c5f17272915d4beef7c9acca857&timestamp=1569560653&nonce=660414485&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 348 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+青岛 city
+  x
+路虎 manu
+{'city': ['青岛'], 'manu': ['奇瑞捷豹路虎']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 1, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 4/4] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:04:24 2019] POST /wechat?signature=91c4ce768ec5f9a2219be810c96e745949b68101&timestamp=1569560664&nonce=1767187702&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 803 bytes in 569 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+青岛 city
+  x
+路虎进口 manu
+{'city': ['青岛'], 'manu': ['路虎(进口)']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 1, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 5/5] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:04:38 2019] POST /wechat?signature=aae53ffc725f78a1dc7704e527f844eddf8a407c&timestamp=1569560678&nonce=1856238149&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 803 bytes in 111 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+青岛 city
+  x
+捷豹 manu
+{'city': ['青岛'], 'manu': ['捷豹']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 1, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 6/6] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 13:05:12 2019] POST /wechat?signature=77039e0a11551be17839bb318fd8486de06e084e&timestamp=1569560712&nonce=853229235&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 803 bytes in 230 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+吉利 manu
+{'manu': ['吉利汽车']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 7/7] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:05:17 2019] POST /wechat?signature=b4e2b8c38694516ac72fce9cd76e3bfb3df52f72&timestamp=1569560717&nonce=1456556049&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 613 bytes in 107 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+远景 vm
+{'vm': ['远景']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 11933|app: 0|req: 8/8] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:05:34 2019] POST /wechat?signature=7053e0cdc2dc19e7cc9125097b5f6f41e85b9102&timestamp=1569560734&nonce=1394021751&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 981 bytes in 301 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+东风日产 manu
+{'manu': ['东风日产']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 9/9] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 13:05:56 2019] POST /wechat?signature=266d3a5cdeb46ebe2e2c9ea505b2591eaf36b122&timestamp=1569560756&nonce=281369721&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 470 bytes in 38 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+楼兰 vm
+{'vm': ['楼兰']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 11933|app: 0|req: 10/10] 223.166.222.117 () {38 vars in 704 bytes} [Fri Sep 27 13:06:02 2019] POST /wechat?signature=8ea06cb46f880e2abefa2a648aaabd15e5f496e3&timestamp=1569560762&nonce=67359966&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 911 bytes in 144 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+奇骏 vm
+{'vm': ['奇骏']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 11933|app: 0|req: 11/11] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:06:22 2019] POST /wechat?signature=c81f793df9eee735163a50864ce3d8f266a9f977&timestamp=1569560782&nonce=1594831282&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1068 bytes in 145 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+东风标致 manu
+{'manu': ['东风标致']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 12/12] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 13:06:31 2019] POST /wechat?signature=f92197cbc0ddbc66294ae4f2ab66fbab5e6f589d&timestamp=1569560791&nonce=168021356&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 444 bytes in 36 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+东风雪铁龙 manu
+{'manu': ['东风雪铁龙']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 13/13] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:06:49 2019] POST /wechat?signature=eaf3cd1d7ed8c6fe9aeac1018a2f2476810e780a&timestamp=1569560809&nonce=1491276603&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 448 bytes in 87 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+云逸 vm
+{'vm': ['云逸']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 11933|app: 0|req: 14/14] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:06:57 2019] POST /wechat?signature=f449284613997b887409f8745919e4051739e9e8&timestamp=1569560817&nonce=1753523738&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 991 bytes in 81 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+天逸 vm
+{'vm': ['天逸']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 11933|app: 0|req: 15/15] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:07:07 2019] POST /wechat?signature=40a5e662ee8d4229ca93a7a042d82d82e98045ff&timestamp=1569560827&nonce=1720015530&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 792 bytes in 106 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+雪铁龙C4L vm
+{'vm': ['雪铁龙C4L']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 11933|app: 0|req: 16/16] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 13:07:33 2019] POST /wechat?signature=ec38247866eebfdf27a81831f697dfeb910e554a&timestamp=1569560853&nonce=179157122&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 749 bytes in 154 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+青州 area
+  x
+雪铁龙 nz
+{'area': ['青州']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 1, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 17/17] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 13:07:45 2019] POST /wechat?signature=1b089bfa045d0384de2f02a3ce22c9a2d96fa6c6&timestamp=1569560865&nonce=663238012&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 330 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+青州 area
+  x
+云逸 vm
+{'area': ['青州'], 'vm': ['云逸']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 1, 'vm': 1, 'kd': 0}
+[pid: 11933|app: 0|req: 18/18] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 13:07:53 2019] POST /wechat?signature=6a0eba4c74108cc9cf4f49a84ce33fd30e003023&timestamp=1569560873&nonce=330065638&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 543 bytes in 602 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+[pid: 11933|app: 0|req: 19/19] 183.192.179.16 () {40 vars in 618 bytes} [Fri Sep 27 13:08:04 2019] POST /text.php => generated 232 bytes in 11 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 11930|app: 0|req: 1/20] 59.36.132.240 () {40 vars in 617 bytes} [Fri Sep 27 13:08:04 2019] POST /text.php => generated 232 bytes in 12 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 11932|app: 0|req: 1/21] 59.36.132.240 () {40 vars in 635 bytes} [Fri Sep 27 13:08:04 2019] POST /myadmin/index.php => generated 232 bytes in 9 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 11933|app: 0|req: 20/22] 123.180.68.88 () {44 vars in 682 bytes} [Fri Sep 27 13:08:04 2019] POST /text.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 11931|app: 0|req: 1/23] 123.180.71.89 () {44 vars in 700 bytes} [Fri Sep 27 13:08:04 2019] POST /myadmin/index.php => generated 232 bytes in 4 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 11933|app: 0|req: 21/24] 183.192.179.16 () {40 vars in 632 bytes} [Fri Sep 27 13:08:04 2019] POST /images/vuln.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 11933|app: 0|req: 22/25] 123.180.69.212 () {44 vars in 683 bytes} [Fri Sep 27 13:08:08 2019] POST /text.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+长安标致雪铁龙 manu
+{'manu': ['长安标致雪铁龙']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 23/26] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:08:49 2019] POST /wechat?signature=6e8b8fecff57323c8fd2753e2cf77f4ae03e00c1&timestamp=1569560929&nonce=1273441492&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 389 bytes in 65 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+特斯拉 manu
+{'manu': ['特斯拉中国']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 24/27] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:09:42 2019] POST /wechat?signature=7e63f5d237d3a6a1c8a98d8d7357bbb98ee2c5a3&timestamp=1569560982&nonce=1547822393&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 363 bytes in 23 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+特斯拉 manu
+（ x
+进口 vn
+） x
+{'manu': ['特斯拉中国']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 25/28] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 13:09:57 2019] POST /wechat?signature=1e413349237ef585a9eb9a7e6d15d4bd098aadef&timestamp=1569560997&nonce=290081808&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 363 bytes in 15 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+特斯拉 manu
+( x
+进口 vn
+) x
+{'manu': ['特斯拉中国']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 26/29] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:10:10 2019] POST /wechat?signature=dcdb95770eaf3e168d4e612d116e16408fac1fd4&timestamp=1569561010&nonce=1400157266&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 363 bytes in 14 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+进口讴歌 manu
+{'manu': ['讴歌(进口)']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 27/30] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 13:10:49 2019] POST /wechat?signature=6a0d2faaf0832260d15369aca538cf987dae2ad1&timestamp=1569561049&nonce=521158770&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 376 bytes in 26 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+法拉利 manu
+{'manu': ['法拉利']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 28/31] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:10:55 2019] POST /wechat?signature=f0f1dc5baa32f5181e58a79298a5c99e1114d097&timestamp=1569561055&nonce=1519180397&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 416 bytes in 57 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+迈巴赫 manu
+{'manu': ['梅赛德斯-迈巴赫']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 29/32] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:11:06 2019] POST /wechat?signature=6a5e0ff961822d7021f34bde1cf5be7d61f9c001&timestamp=1569561066&nonce=2082807700&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 377 bytes in 61 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+迈巴赫S级 vm
+{'vm': ['迈巴赫S级']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 11933|app: 0|req: 30/33] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:11:26 2019] POST /wechat?signature=68a71705bb96e0ad856340625d4ad10e9af1a9d8&timestamp=1569561086&nonce=1757669831&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 963 bytes in 103 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+阿斯顿 nr
+马丁 nr
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 31/34] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:11:47 2019] POST /wechat?signature=78f110618582013541a0053ffe8a586fbbab4446&timestamp=1569561107&nonce=1303978524&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 321 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+兰博基尼 manu
+{'manu': ['兰博基尼']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 32/35] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 13:12:13 2019] POST /wechat?signature=74b1c6c4e9ec93b8ec7c318f6e8b195d106da007&timestamp=1569561133&nonce=705853397&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 379 bytes in 22 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+AVENTADOR vm
+{'vm': ['Aventador']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 11933|app: 0|req: 33/36] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 13:12:24 2019] POST /wechat?signature=55263ee5b62ba7cf082f82405de5b89f29f8b8ed&timestamp=1569561144&nonce=588528641&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 557 bytes in 146 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+AVENTADOR vm
+  x
+青岛 city
+{'vm': ['Aventador'], 'city': ['青岛']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 1, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 11933|app: 0|req: 34/37] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:12:44 2019] POST /wechat?signature=2018caeaa2c098c35fbddb6c73f167b705f0b9be&timestamp=1569561164&nonce=1401565130&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 321 bytes in 189 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+AVENTADOR vm
+  x
+济南 city
+{'vm': ['Aventador'], 'city': ['济南']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 1, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 11933|app: 0|req: 35/38] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 13:12:53 2019] POST /wechat?signature=347181578aede61c217fa20fcbc62726c76a2675&timestamp=1569561173&nonce=412781764&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 321 bytes in 40 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+AVENTADOR vm
+  x
+上海 city
+{'vm': ['Aventador'], 'city': ['上海']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 1, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 11933|app: 0|req: 36/39] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:12:58 2019] POST /wechat?signature=e8213eb5f44ed8c3958e0f38a0c5d1ff98a497d1&timestamp=1569561178&nonce=1982389397&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 510 bytes in 74 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+AVENTADOR vm
+  x
+北京 city
+{'vm': ['Aventador'], 'city': ['北京']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 1, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 11933|app: 0|req: 37/40] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 13:13:08 2019] POST /wechat?signature=c4186140f09a7f25b38f0ec73f72c6b54db8b86d&timestamp=1569561188&nonce=386256282&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 630 bytes in 63 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+AVENTADOR vm
+  x
+上海 city
+  x
+杨浦区 area
+{'vm': ['Aventador'], 'city': ['上海'], 'area': ['杨浦']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 1, 'area': 1, 'vm': 1, 'kd': 0}
+[pid: 11933|app: 0|req: 38/41] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 13:13:33 2019] POST /wechat?signature=6407c94e6c4379fb36e46ef5619076f384c7cb9a&timestamp=1569561213&nonce=589004506&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 600 bytes in 278 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+还 d
+不错 a
+， x
+希望 v
+你 r
+能 v
+坚持 v
+住 v
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 39/42] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:15:50 2019] POST /wechat?signature=bb33265c09f6ba5b164dfd84f535d41db7f4a753&timestamp=1569561350&nonce=1970833301&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 360 bytes in 12 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+[pid: 11933|app: 0|req: 40/43] 59.36.132.240 () {40 vars in 621 bytes} [Fri Sep 27 13:16:30 2019] POST /789056.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 11932|app: 0|req: 2/44] 59.36.132.240 () {40 vars in 621 bytes} [Fri Sep 27 13:16:30 2019] POST /789056.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+大众CC vm
+{'vm': ['一汽-大众CC']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 11933|app: 0|req: 41/45] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:21:57 2019] POST /wechat?signature=c56e610fc56dbee5173c024f941d545ec8b0bd3d&timestamp=1569561717&nonce=1088919531&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 679 bytes in 169 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+哎 e
+呦 e
+  x
+不错 a
+哦 zg
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 42/46] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:22:47 2019] POST /wechat?signature=ebe4138564b954ab87638438d977498027f9fd9c&timestamp=1569561767&nonce=1684429057&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 360 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+换 nz
+一句 m
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 43/47] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:22:52 2019] POST /wechat?signature=66fc6a2117672d516efb85edcc23cb8a935d788a&timestamp=1569561772&nonce=2075890687&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 360 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+你 r
+就 d
+会 v
+这 r
+一句 m
+？ x
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 44/48] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:22:57 2019] POST /wechat?signature=9f4d495f9a6958b5287fe4ddf773976211fa8928&timestamp=1569561777&nonce=1026272480&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 321 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+就是 d
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 45/49] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 13:23:02 2019] POST /wechat?signature=182c0c00f510c57d6cc1e12a4d8c5862e1b73747&timestamp=1569561782&nonce=894323868&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 321 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+不好 d
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11932|app: 0|req: 3/50] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:23:06 2019] POST /wechat?signature=43907e4edf77bba15e0b42842deec9501951e784&timestamp=1569561786&nonce=1315075682&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 348 bytes in 258 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+青州 area
+  x
+奔驰 manu
+{'area': ['青州'], 'manu': ['北京奔驰']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 1, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 46/51] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:25:50 2019] POST /wechat?signature=1c0f39e9f6881b45e558e55c73b5fdbb1bbe4ef5&timestamp=1569561950&nonce=2018861291&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1005 bytes in 359 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+青州 area
+  x
+进口奔驰 manu
+{'area': ['青州'], 'manu': ['奔驰(进口)']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 1, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 47/52] 223.166.222.117 () {38 vars in 704 bytes} [Fri Sep 27 13:26:08 2019] POST /wechat?signature=d2e6607ce89b583d5432831f01cbefaff032a628&timestamp=1569561968&nonce=48896654&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1005 bytes in 304 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+青岛 city
+  x
+奥迪 manu
+SPORT eng
+{'city': ['青岛'], 'manu': ['一汽-大众奥迪']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 1, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 48/53] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 13:26:25 2019] POST /wechat?signature=f81a434bd7f4e0804cd1115dc8e6813146273105&timestamp=1569561985&nonce=335757028&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1100 bytes in 130 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+青岛 city
+  x
+奥迪 manu
+{'city': ['青岛'], 'manu': ['一汽-大众奥迪']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 1, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 49/54] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 13:26:41 2019] POST /wechat?signature=e380bbc0f45549b29a362f88d29b2fe7d1610e48&timestamp=1569562001&nonce=2017257518&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1100 bytes in 21 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+[pid: 11933|app: 0|req: 50/55] 59.36.132.240 () {40 vars in 613 bytes} [Fri Sep 27 13:36:06 2019] POST /yj.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 11933|app: 0|req: 51/56] 182.254.52.17 () {40 vars in 613 bytes} [Fri Sep 27 13:36:07 2019] POST /yj.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[pid: 11933|app: 0|req: 52/57] 106.9.170.15 () {44 vars in 677 bytes} [Fri Sep 27 13:36:21 2019] POST /yj.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+你 r
+还好 v
+吗 y
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 53/58] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 14:00:19 2019] POST /wechat?signature=2f98ff5f8b705d9ec288ce3e8eefa0c245bacba9&timestamp=1569564019&nonce=562487912&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 321 bytes in 18 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+青州 area
+  x
+奥迪 manu
+{'area': ['青州'], 'manu': ['一汽-大众奥迪']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 1, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 54/59] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 14:00:27 2019] POST /wechat?signature=152f1262f197c0b53662276753505c61ff0b8d1c&timestamp=1569564027&nonce=709288566&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1021 bytes in 240 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+奥迪 manu
+{'manu': ['一汽-大众奥迪']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 55/60] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 14:03:06 2019] POST /wechat?signature=aa94d11973443ff6eb022ff56bfb64b11520aaac&timestamp=1569564186&nonce=994487350&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 443 bytes in 28 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+[pid: 11933|app: 0|req: 56/61] 185.118.12.163 () {32 vars in 471 bytes} [Fri Sep 27 14:03:09 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+进口奥迪 manu
+{'manu': ['奥迪(进口)']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 57/62] 223.166.222.117 () {38 vars in 706 bytes} [Fri Sep 27 14:03:15 2019] POST /wechat?signature=38f96bd02ce98290740985ad58c658bb7af9d411&timestamp=1569564195&nonce=319040295&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 529 bytes in 24 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+奥迪Q7 vm
+{'vm': ['奥迪Q7']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0}
+[pid: 11933|app: 0|req: 58/63] 223.166.222.117 () {38 vars in 708 bytes} [Fri Sep 27 14:03:26 2019] POST /wechat?signature=b6631f5d2dedb3b63aadfb5642d2d0c791119342&timestamp=1569564206&nonce=1683826733&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 716 bytes in 145 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+奥迪 manu
+  x
+青州 area
+{'manu': ['一汽-大众奥迪'], 'area': ['青州']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 1, 'vm': 0, 'kd': 0}
+[pid: 11933|app: 0|req: 59/64] 223.166.222.117 () {38 vars in 704 bytes} [Fri Sep 27 14:03:43 2019] POST /wechat?signature=9d3ae4ad3a99b857956843c7ca640d565b4ed67a&timestamp=1569564223&nonce=55679548&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1021 bytes in 77 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
