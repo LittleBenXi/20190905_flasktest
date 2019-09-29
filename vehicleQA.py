@@ -275,7 +275,6 @@ class searchCarInNeo4j():
         result = '小柯基为您找到如下相关信息：'
         result_list = self.kg.run("MATCH (a:carmodel {carmodel:'"+carmodel+"'})-->(b:car)-->(c:ci {name:'厂商指导价(万元)'}) WHERE c.value='"+price+
         "万' RETURN b.carname").data()
-        #print(list(result_list))
         if result_list == []:
             answer.append(self.result_non)
             return answer
@@ -288,17 +287,16 @@ class searchCarInNeo4j():
                     node_name = i['b.carname']
         a=self.kg.nodes.match('car',carname=node_name).first()
         if a == None:
-            #print('None')
             answer.append(self.result_non)
         else:
-            #print(list(a))
             answer.append(result)
             answer.append('车款：' + node_name)
             for i in self.list_ci:
-                #print(i)
                 if i in a:
-                    answer.append(i+':'+str(a[i]))
-        #print(answer)
+                    if type(a[i]) == float:
+                        answer.append(i+':'+str(round(a[i],2)))
+                    else:    
+                        answer.append(i+':'+str(a[i]))
         return answer
 
     def entityRecoByJieba(self, message):
