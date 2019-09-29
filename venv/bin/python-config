@@ -4,6 +4,7 @@ import sys
 import getopt
 import sysconfig
 
+
 valid_opts = ['prefix', 'exec-prefix', 'includes', 'libs', 'cflags',
               'ldflags', 'help']
 

@@ -10,6 +10,9 @@ import json
 import jieba
 jieba.load_userdict("./data/usr_dict.txt")
 import jieba.posseg as pseg
+import sys  
+reload(sys)  
+sys.setdefaultencoding('utf8')  
 
 class searchCarInNeo4j():
 

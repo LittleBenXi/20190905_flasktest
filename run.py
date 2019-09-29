@@ -8,6 +8,9 @@ import time
 import re
 import xml.etree.ElementTree as ET
 from vehicleQA import searchCarInNeo4j
+import sys  
+reload(sys)  
+sys.setdefaultencoding('utf8')  
 
 app = Flask(__name__)
 

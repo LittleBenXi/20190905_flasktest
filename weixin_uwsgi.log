@@ -7772,3 +7772,722 @@ SPORT eng
 青州 area
 {'manu': ['一汽-大众奥迪'], 'area': ['青州']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 0, 'area': 1, 'vm': 0, 'kd': 0}
 [pid: 11933|app: 0|req: 59/64] 223.166.222.117 () {38 vars in 704 bytes} [Fri Sep 27 14:03:43 2019] POST /wechat?signature=9d3ae4ad3a99b857956843c7ca640d565b4ed67a&timestamp=1569564223&nonce=55679548&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1021 bytes in 77 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Sep 27 17:38:01 2019] ***
+compiled with version: 7.4.0 on 27 September 2019 08:54:48
+os: Linux-4.15.0-52-generic #56-Ubuntu SMP Tue Jun 4 22:49:08 UTC 2019
+nodename: ecs-s3-xlarge-2-linux-20190927161328
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/workstudio/20190905_flasktest
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/workstudio/20190905_flasktest
+your processes number limit is 31659
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.15+ (default, Jul  9 2019, 16:51:35)  [GCC 7.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55f83a0d1770
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+Traceback (most recent call last):
+  File "./run.py", line 2, in <module>
+    from flask import Flask
+ImportError: No module named flask
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 21400)
+spawned uWSGI worker 1 (pid: 21401, cores: 1)
+spawned uWSGI worker 2 (pid: 21402, cores: 1)
+spawned uWSGI worker 3 (pid: 21403, cores: 1)
+spawned uWSGI worker 4 (pid: 21404, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /home/workstudio/20190905_flasktest/weixin_uwsgi.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Sep 27 17:44:24 2019] ***
+compiled with version: 7.4.0 on 27 September 2019 08:54:48
+os: Linux-4.15.0-52-generic #56-Ubuntu SMP Tue Jun 4 22:49:08 UTC 2019
+nodename: ecs-s3-xlarge-2-linux-20190927161328
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/workstudio/20190905_flasktest
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/workstudio/20190905_flasktest
+your processes number limit is 31659
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.15+ (default, Jul  9 2019, 16:51:35)  [GCC 7.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x5637cbcee770
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.201 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x5637cbcee770 pid: 21628 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 21628)
+spawned uWSGI worker 1 (pid: 21630, cores: 1)
+spawned uWSGI worker 2 (pid: 21631, cores: 1)
+spawned uWSGI worker 3 (pid: 21632, cores: 1)
+spawned uWSGI worker 4 (pid: 21633, cores: 1)
+Gracefully killing worker 4 (pid: 21633)...
+Gracefully killing worker 1 (pid: 21630)...
+...gracefully killing workers...
+Gracefully killing worker 2 (pid: 21631)...
+Gracefully killing worker 3 (pid: 21632)...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /home/workstudio/20190905_flasktest
+closing all non-uwsgi socket fds > 2 (max_fd = 65535)...
+found fd 3 mapped to socket 0 (/home/workstudio/20190905_flasktest/weixin_uwsgi.sock)
+running /usr/local/bin/uwsgi
+[uWSGI] getting INI configuration from weixin_uwsgi.ini
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Sep 27 17:47:24 2019] ***
+compiled with version: 7.4.0 on 27 September 2019 08:54:48
+os: Linux-4.15.0-52-generic #56-Ubuntu SMP Tue Jun 4 22:49:08 UTC 2019
+nodename: ecs-s3-xlarge-2-linux-20190927161328
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/workstudio/20190905_flasktest
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/workstudio/20190905_flasktest
+your processes number limit is 31659
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited UNIX address /home/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.15+ (default, Jul  9 2019, 16:51:35)  [GCC 7.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55d6e80f85d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.192 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x55d6e80f85d0 pid: 21628 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 21628)
+spawned uWSGI worker 1 (pid: 21807, cores: 1)
+spawned uWSGI worker 2 (pid: 21808, cores: 1)
+spawned uWSGI worker 3 (pid: 21809, cores: 1)
+spawned uWSGI worker 4 (pid: 21810, cores: 1)
+Sat Sep 28 17:50:46 2019 - uWSGI worker 3 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sat Sep 28 17:50:46 2019 - uWSGI worker 4 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sat Sep 28 17:50:46 2019 - uWSGI worker 2 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sat Sep 28 17:50:46 2019 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+*** Starting uWSGI 2.0.18 (64bit) on [Sat Sep 28 18:11:19 2019] ***
+compiled with version: 7.4.0 on 27 September 2019 08:54:48
+os: Linux-4.15.0-52-generic #56-Ubuntu SMP Tue Jun 4 22:49:08 UTC 2019
+nodename: ecs-s3-xlarge-2-linux-20190927161328
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/workstudio/20190905_flasktest
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/workstudio/20190905_flasktest
+your processes number limit is 31659
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.15+ (default, Jul  9 2019, 16:51:35)  [GCC 7.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x5638cdf12740
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.184 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x5638cdf12740 pid: 24204 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 24204)
+spawned uWSGI worker 1 (pid: 24206, cores: 1)
+spawned uWSGI worker 2 (pid: 24207, cores: 1)
+spawned uWSGI worker 3 (pid: 24208, cores: 1)
+spawned uWSGI worker 4 (pid: 24209, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /home/workstudio/20190905_flasktest/weixin_uwsgi.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Sat Sep 28 18:14:51 2019] ***
+compiled with version: 7.4.0 on 27 September 2019 08:54:48
+os: Linux-4.15.0-52-generic #56-Ubuntu SMP Tue Jun 4 22:49:08 UTC 2019
+nodename: ecs-s3-xlarge-2-linux-20190927161328
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/workstudio/20190905_flasktest
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/workstudio/20190905_flasktest
+your processes number limit is 31659
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.15+ (default, Jul  9 2019, 16:51:35)  [GCC 7.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x56031de3d740
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.193 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x56031de3d740 pid: 24360 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 24360)
+spawned uWSGI worker 1 (pid: 24362, cores: 1)
+spawned uWSGI worker 2 (pid: 24363, cores: 1)
+spawned uWSGI worker 3 (pid: 24364, cores: 1)
+spawned uWSGI worker 4 (pid: 24365, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /home/workstudio/20190905_flasktest/weixin_uwsgi.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Sep 29 09:48:13 2019] ***
+compiled with version: 7.4.0 on 27 September 2019 08:54:48
+os: Linux-4.15.0-52-generic #56-Ubuntu SMP Tue Jun 4 22:49:08 UTC 2019
+nodename: ecs-s3-xlarge-2-linux-20190927161328
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/workstudio/20190905_flasktest
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/workstudio/20190905_flasktest
+your processes number limit is 31659
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.15+ (default, Jul  9 2019, 16:51:35)  [GCC 7.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x5583e3b87760
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.191 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x5583e3b87760 pid: 25545 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 25545)
+spawned uWSGI worker 1 (pid: 25547, cores: 1)
+spawned uWSGI worker 2 (pid: 25548, cores: 1)
+spawned uWSGI worker 3 (pid: 25549, cores: 1)
+spawned uWSGI worker 4 (pid: 25550, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /home/workstudio/20190905_flasktest/weixin_uwsgi.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Sep 29 09:53:32 2019] ***
+compiled with version: 7.4.0 on 27 September 2019 08:54:48
+os: Linux-4.15.0-52-generic #56-Ubuntu SMP Tue Jun 4 22:49:08 UTC 2019
+nodename: ecs-s3-xlarge-2-linux-20190927161328
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/workstudio/20190905_flasktest
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/workstudio/20190905_flasktest
+your processes number limit is 31659
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.15+ (default, Jul  9 2019, 16:51:35)  [GCC 7.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x56057125f770
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.207 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x56057125f770 pid: 25571 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 25571)
+spawned uWSGI worker 1 (pid: 25573, cores: 1)
+spawned uWSGI worker 2 (pid: 25574, cores: 1)
+spawned uWSGI worker 3 (pid: 25575, cores: 1)
+spawned uWSGI worker 4 (pid: 25576, cores: 1)
+[pid: 25575|app: 0|req: 1/1] 180.169.89.242 () {40 vars in 716 bytes} [Sun Sep 29 10:01:22 2019] GET / => generated 12 bytes in 2 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 25576|app: 0|req: 1/2] 180.169.89.242 () {40 vars in 660 bytes} [Sun Sep 29 10:01:22 2019] GET /favicon.ico => generated 232 bytes in 2 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+(u'\u4f60\u597d', u'l')
+({}, {'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 25573|app: 0|req: 1/3] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 10:01:54 2019] POST /wechat?signature=82b692e5cffbb7241262c51b89b9b268323c7f69&timestamp=1569722514&nonce=442658094&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 348 bytes in 244 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+(u'\u6f4d\u574a', u'city')
+(u' ', u'x')
+(u'\u5965\u8fea', u'manu')
+({u'city': [u'\u6f4d\u574a'], u'manu': [u'\u4e00\u6c7d-\u5927\u4f17\u5965\u8fea']}, {'city': 1, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+Failed to establish connection to ('127.0.1.1', 7687) (reason [Errno 111] Connection refused)
+[pid: 25576|app: 0|req: 2/4] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 10:02:00 2019] POST /wechat?signature=ac449d26341197171ceb747c19355aab9b6296cc&timestamp=1569722520&nonce=1274746478&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 336 bytes in 270 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u4f60\u597d', u'l')
+({}, {'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 25576|app: 0|req: 3/5] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 10:05:44 2019] POST /wechat?signature=284e423113509ca7355c36c38a84fcc712caf0d2&timestamp=1569722744&nonce=1202963060&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 348 bytes in 20 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u6f4d\u574a', u'city')
+(u' ', u'x')
+(u'\u5965\u8fea', u'manu')
+({u'city': [u'\u6f4d\u574a'], u'manu': [u'\u4e00\u6c7d-\u5927\u4f17\u5965\u8fea']}, {'city': 1, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+'NoneType' object has no attribute 'split'
+[pid: 25576|app: 0|req: 4/6] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 10:05:49 2019] POST /wechat?signature=92df5bf54e5fec7b3e92e9f7de5c9b553eca19c5&timestamp=1569722749&nonce=1365165584&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 336 bytes in 104 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /home/workstudio/20190905_flasktest/weixin_uwsgi.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Sep 29 10:39:41 2019] ***
+compiled with version: 7.4.0 on 27 September 2019 08:54:48
+os: Linux-4.15.0-52-generic #56-Ubuntu SMP Tue Jun 4 22:49:08 UTC 2019
+nodename: ecs-s3-xlarge-2-linux-20190927161328
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/workstudio/20190905_flasktest
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/workstudio/20190905_flasktest
+your processes number limit is 31659
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.15+ (default, Jul  9 2019, 16:51:35)  [GCC 7.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55676e57f770
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.189 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x55676e57f770 pid: 26526 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 26526)
+spawned uWSGI worker 1 (pid: 26528, cores: 1)
+spawned uWSGI worker 2 (pid: 26529, cores: 1)
+spawned uWSGI worker 3 (pid: 26530, cores: 1)
+spawned uWSGI worker 4 (pid: 26531, cores: 1)
+(u'\u4f60\u597d', u'l')
+({}, {'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 26531|app: 0|req: 1/1] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 10:40:29 2019] POST /wechat?signature=58f4678750c22d6c5ab0e9c1913662c9e1066e7c&timestamp=1569724829&nonce=2047849881&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 360 bytes in 187 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u6f4d\u574a', u'city')
+(u' ', u'x')
+(u'\u5965\u8fea', u'manu')
+({u'city': [u'\u6f4d\u574a'], u'manu': [u'\u4e00\u6c7d-\u5927\u4f17\u5965\u8fea']}, {'city': 1, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+The client has provided incorrect authentication details too many times in a row.
+[pid: 26530|app: 0|req: 1/2] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 10:41:08 2019] POST /wechat?signature=3104c4fd47e954edf04f66f622a337ccf6ae3a3b&timestamp=1569724868&nonce=1237733184&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 336 bytes in 202 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 26531|app: 0|req: 2/3] 183.129.160.229 () {34 vars in 458 bytes} [Sun Sep 29 10:52:03 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+[pid: 26531|app: 0|req: 3/4] 159.203.201.94 () {34 vars in 416 bytes} [Sun Sep 29 10:52:29 2019] GET /manager/html => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+Sun Sep 29 10:59:01 2019 - uWSGI worker 4 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Sep 29 10:59:01 2019 - uWSGI worker 3 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Sep 29 10:59:01 2019 - uWSGI worker 2 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Sep 29 10:59:01 2019 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Sep 29 11:00:00 2019] ***
+compiled with version: 7.4.0 on 27 September 2019 08:54:48
+os: Linux-4.15.0-52-generic #56-Ubuntu SMP Tue Jun 4 22:49:08 UTC 2019
+nodename: ecs-s3-xlarge-2-linux-20190927161328
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/workstudio/20190905_flasktest
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/workstudio/20190905_flasktest
+your processes number limit is 31659
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.15+ (default, Jul  9 2019, 16:51:35)  [GCC 7.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x56435e66c770
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.229 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x56435e66c770 pid: 26917 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 26917)
+spawned uWSGI worker 1 (pid: 26919, cores: 1)
+spawned uWSGI worker 2 (pid: 26920, cores: 1)
+spawned uWSGI worker 3 (pid: 26921, cores: 1)
+spawned uWSGI worker 4 (pid: 26922, cores: 1)
+(u'\u4f60\u597d', u'l')
+({}, {'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 26919|app: 0|req: 1/1] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 11:01:25 2019] POST /wechat?signature=d0a5b1799525d3a3b83acd19ab7a92c1029d942d&timestamp=1569726085&nonce=1491796862&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 360 bytes in 184 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+(u'\u6f4d\u574a', u'city')
+(u' ', u'x')
+(u'\u5965\u8fea', u'manu')
+({u'city': [u'\u6f4d\u574a'], u'manu': [u'\u4e00\u6c7d-\u5927\u4f17\u5965\u8fea']}, {'city': 1, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+CredentialsExpired: Read operations are not allowed for user 'neo4j' with CREDENTIALS_EXPIRED.
+
+The credentials you provided were valid, but must be changed before you can use this instance. If this is the first time you are using Neo4j, this is to ensure you are not using the default credentials in production. If you are not using default credentials, you are getting this message because an administrator requires a password change.
+Changing your password is easy to do via the Neo4j Browser.
+If you are connecting via a shell or programmatically via a driver, just issue a `CALL dbms.changePassword('new password')` statement in the current session, and then restart your driver with the new password configured.
+[pid: 26921|app: 0|req: 1/2] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 11:01:29 2019] POST /wechat?signature=9e5348e03c713c8916e494c96bbe9d741783adb2&timestamp=1569726089&nonce=1178783010&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 336 bytes in 496 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+Sun Sep 29 12:15:15 2019 - uWSGI worker 3 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Sep 29 12:15:15 2019 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Sep 29 12:15:15 2019 - uWSGI worker 4 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Sep 29 12:15:15 2019 - uWSGI worker 2 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Sep 29 12:34:20 2019] ***
+compiled with version: 7.4.0 on 27 September 2019 08:54:48
+os: Linux-4.15.0-52-generic #56-Ubuntu SMP Tue Jun 4 22:49:08 UTC 2019
+nodename: ecs-s3-xlarge-2-linux-20190927161328
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/workstudio/20190905_flasktest
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/workstudio/20190905_flasktest
+your processes number limit is 31659
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.15+ (default, Jul  9 2019, 16:51:35)  [GCC 7.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x558e3b0a3770
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.196 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 2 seconds on interpreter 0x558e3b0a3770 pid: 28464 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 28464)
+spawned uWSGI worker 1 (pid: 28466, cores: 1)
+spawned uWSGI worker 2 (pid: 28467, cores: 1)
+spawned uWSGI worker 3 (pid: 28468, cores: 1)
+spawned uWSGI worker 4 (pid: 28469, cores: 1)
+(u'\u4f60\u597d', u'l')
+({}, {'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28467|app: 0|req: 1/1] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 12:35:06 2019] POST /wechat?signature=7a9185843361196acceefef42a322521514c500a&timestamp=1569731706&nonce=175819320&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 333 bytes in 186 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u6f4d\u574a', u'city')
+(u' ', u'x')
+(u'\u5965\u8fea', u'manu')
+({u'city': [u'\u6f4d\u574a'], u'manu': [u'\u4e00\u6c7d-\u5927\u4f17\u5965\u8fea']}, {'city': 1, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28468|app: 0|req: 1/2] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 12:35:09 2019] POST /wechat?signature=9f936a2338d084bb3fe1c88da6300617884d004e&timestamp=1569731709&nonce=834795075&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 931 bytes in 376 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u6211', u'r')
+(u'\u9760', u'v')
+(u'\uff0c', u'x')
+(u'\u4f60', u'r')
+(u'\u7ec8\u4e8e', u'd')
+(u'\u597d', u'a')
+(u'\u4e86', u'ul')
+({}, {'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28469|app: 0|req: 1/3] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 12:35:21 2019] POST /wechat?signature=9233cc28538d985cbd698de1b3eed189517c914e&timestamp=1569731721&nonce=1070537154&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 360 bytes in 190 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u9752\u5dde', u'area')
+(u' ', u'x')
+(u'\u5965\u8fea', u'manu')
+({u'manu': [u'\u4e00\u6c7d-\u5927\u4f17\u5965\u8fea'], u'area': [u'\u9752\u5dde']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 1, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28469|app: 0|req: 2/4] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 12:35:29 2019] POST /wechat?signature=87aeaa5e0f648cebe900a09cbb4aba51e25af158&timestamp=1569731729&nonce=1836848557&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1021 bytes in 271 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+Gracefully killing worker 4 (pid: 28469)...
+Gracefully killing worker 2 (pid: 28467)...
+Gracefully killing worker 3 (pid: 28468)...
+Gracefully killing worker 1 (pid: 28466)...
+...gracefully killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /home/workstudio/20190905_flasktest
+closing all non-uwsgi socket fds > 2 (max_fd = 65535)...
+found fd 3 mapped to socket 0 (/home/workstudio/20190905_flasktest/weixin_uwsgi.sock)
+running /usr/local/bin/uwsgi
+[uWSGI] getting INI configuration from weixin_uwsgi.ini
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Sep 29 12:35:48 2019] ***
+compiled with version: 7.4.0 on 27 September 2019 08:54:48
+os: Linux-4.15.0-52-generic #56-Ubuntu SMP Tue Jun 4 22:49:08 UTC 2019
+nodename: ecs-s3-xlarge-2-linux-20190927161328
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/workstudio/20190905_flasktest
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/workstudio/20190905_flasktest
+your processes number limit is 31659
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited UNIX address /home/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.15+ (default, Jul  9 2019, 16:51:35)  [GCC 7.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x5567b63305d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.188 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x5567b63305d0 pid: 28464 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 28464)
+spawned uWSGI worker 1 (pid: 28562, cores: 1)
+spawned uWSGI worker 2 (pid: 28563, cores: 1)
+spawned uWSGI worker 3 (pid: 28564, cores: 1)
+spawned uWSGI worker 4 (pid: 28565, cores: 1)
+(u'\u4f60\u597d', u'l')
+({}, {'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 1/1] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 12:36:02 2019] POST /wechat?signature=951cac39d0214e66532395fb80a9d4db83b62386&timestamp=1569731762&nonce=718898414&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 345 bytes in 240 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u54c8\u5f17', u'manu')
+({u'manu': [u'\u54c8\u5f17']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28564|app: 0|req: 1/2] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 12:50:56 2019] POST /wechat?signature=ac22dedc0da04b971fa5e6ee282baafa46091e27&timestamp=1569732656&nonce=291486772&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 479 bytes in 217 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u5927\u4f17', u'n')
+({}, {'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28563|app: 0|req: 1/3] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 12:51:08 2019] POST /wechat?signature=ec3cd36303358f464a6ac44449ac3f7585505fbb&timestamp=1569732668&nonce=793446871&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 345 bytes in 188 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u4e00\u6c7d\u5927\u4f17', u'manu')
+({u'manu': [u'\u4e00\u6c7d-\u5927\u4f17']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 2/4] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 12:51:13 2019] POST /wechat?signature=8306c01e9874f8853fbb7b89025a8f3ce5358740&timestamp=1569732673&nonce=1633559289&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 468 bytes in 40 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u4e00\u6c7d\u4e30\u7530', u'manu')
+({u'manu': [u'\u4e00\u6c7d\u4e30\u7530']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 3/5] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 12:51:18 2019] POST /wechat?signature=d10b81f6e999c38260deedff03151c72efcfb3c6&timestamp=1569732678&nonce=1049858595&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 466 bytes in 38 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u534e\u6668\u5b9d\u9a6c', u'manu')
+({u'manu': [u'\u534e\u6668\u5b9d\u9a6c']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28564|app: 0|req: 2/6] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 12:51:22 2019] POST /wechat?signature=4acbb0b8f8521257f661199e30165cfeeb371a15&timestamp=1569732682&nonce=1626679076&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 480 bytes in 22 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u5317\u4eac\u6c7d\u8f66', u'manu')
+({u'manu': [u'\u5317\u4eac\u6c7d\u8f66']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 4/7] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 12:51:31 2019] POST /wechat?signature=3b545a7549350d435f827bd3bbfcff858cd42791&timestamp=1569732691&nonce=300315872&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 567 bytes in 20 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'WEY', u'manu')
+({u'manu': [u'WEY']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 5/8] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 12:51:42 2019] POST /wechat?signature=3b6e7188347f0ffe83508c7e5378e10e9dcbe1ef&timestamp=1569732702&nonce=1506742409&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 374 bytes in 32 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u5409\u5229', u'manu')
+({u'manu': [u'\u5409\u5229\u6c7d\u8f66']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28564|app: 0|req: 3/9] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 12:51:53 2019] POST /wechat?signature=9b4c04b713e23a0bd780fce47edf6db37a5874b1&timestamp=1569732713&nonce=1598979008&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 613 bytes in 21 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u4e0a\u6d77\u5927\u4f17', u'nt')
+({}, {'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 6/10] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 12:52:03 2019] POST /wechat?signature=645257f05700f0d27bc9ee23d705ced2f3b43da4&timestamp=1569732723&nonce=1947813431&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 321 bytes in 13 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+(u'\u4e0a\u6c7d\u5927\u4f17', u'manu')
+({u'manu': [u'\u4e0a\u6c7d\u5927\u4f17']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 7/11] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 12:52:10 2019] POST /wechat?signature=48f5776b292becddb0fa958ae9228acd09905f42&timestamp=1569732730&nonce=1891998498&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 508 bytes in 20 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u4e0a\u6c7d', u'manu')
+(u'\u901a\u7528', u'v')
+({u'manu': [u'\u4e0a\u6c7d\u96c6\u56e2']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 8/12] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 12:52:18 2019] POST /wechat?signature=fb1016421a7d73665c773a51e1861e0454014b18&timestamp=1569732738&nonce=2092303419&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 321 bytes in 19 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u96ea\u4f5b\u5170', u'manu')
+({u'manu': [u'\u4e0a\u6c7d\u901a\u7528\u96ea\u4f5b\u5170']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 9/13] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 12:52:27 2019] POST /wechat?signature=4223ae384973ee96652b3c373ef3f35ac126b5a8&timestamp=1569732747&nonce=461203303&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 478 bytes in 34 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u522b\u514b', u'manu')
+({u'manu': [u'\u4e0a\u6c7d\u901a\u7528\u522b\u514b']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 10/14] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 12:52:32 2019] POST /wechat?signature=db84388a6a5276c58252b4323b93ead0d25f94a7&timestamp=1569732752&nonce=568817992&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 473 bytes in 35 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u51ef\u8fea\u62c9\u514b', u'manu')
+({u'manu': [u'\u4e0a\u6c7d\u901a\u7528\u51ef\u8fea\u62c9\u514b']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28564|app: 0|req: 4/15] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 12:52:36 2019] POST /wechat?signature=ee2e2c3c2d774996cbfa9287305a88e1218aabc3&timestamp=1569732755&nonce=926269030&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 468 bytes in 32 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u798f\u7279', u'ns')
+({}, {'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28564|app: 0|req: 5/16] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 12:52:45 2019] POST /wechat?signature=d2bd8eebb350ee0a43f00439a8bb0d8af0fdc18c&timestamp=1569732765&nonce=542256490&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 345 bytes in 12 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u957f\u5b89\u798f\u7279', u'manu')
+({u'manu': [u'\u957f\u5b89\u798f\u7279']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 11/17] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 12:52:49 2019] POST /wechat?signature=914d0638a2907957a3335ca07b379870707cd2c9&timestamp=1569732769&nonce=1464243699&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 457 bytes in 20 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u957f\u5b89\u9a6c\u81ea\u8fbe', u'manu')
+({u'manu': [u'\u957f\u5b89\u9a6c\u81ea\u8fbe']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 12/18] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 12:52:59 2019] POST /wechat?signature=e7046a616b74cc8c960830fe7588a142070299ef&timestamp=1569732779&nonce=1080380981&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 397 bytes in 19 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u4e00\u6c7d\u9a6c\u81ea\u8fbe', u'manu')
+({u'manu': [u'\u4e00\u6c7d\u9a6c\u81ea\u8fbe']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 13/19] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 12:53:04 2019] POST /wechat?signature=0036e59dbbaa566063a2a72a6b2f519477b11431&timestamp=1569732784&nonce=254106728&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 381 bytes in 19 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u4e1c\u98ce\u672c\u7530', u'manu')
+({u'manu': [u'\u4e1c\u98ce\u672c\u7530']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28563|app: 0|req: 2/20] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 12:53:13 2019] POST /wechat?signature=d6f8144880d335a7b03d37726d532e3943cdab51&timestamp=1569732793&nonce=1505637675&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 460 bytes in 23 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u5e7f\u6c7d\u672c\u7530', u'manu')
+({u'manu': [u'\u5e7f\u6c7d\u672c\u7530']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 14/21] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 12:53:17 2019] POST /wechat?signature=102284a754c4e3a4531bb939c83af32c39a8617a&timestamp=1569732797&nonce=978289627&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 423 bytes in 20 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u4e1c\u98ce\u65e5\u4ea7', u'manu')
+({u'manu': [u'\u4e1c\u98ce\u65e5\u4ea7']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28563|app: 0|req: 3/22] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 12:53:23 2019] POST /wechat?signature=de888af8f488e043e03d2e92a8814bac2891fc5f&timestamp=1569732803&nonce=165041873&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 470 bytes in 19 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u4e1c\u98ce\u6807\u81f4', u'manu')
+({u'manu': [u'\u4e1c\u98ce\u6807\u81f4']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 15/23] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 12:53:32 2019] POST /wechat?signature=735bccc710af2e0e4ab42cffa0d920c202e8a7af&timestamp=1569732812&nonce=503937022&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 444 bytes in 19 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u4e1c\u98ce\u96ea\u94c1\u9f99', u'manu')
+({u'manu': [u'\u4e1c\u98ce\u96ea\u94c1\u9f99']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 16/24] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 12:53:40 2019] POST /wechat?signature=b2ab2986cd7e47cfc90c2a6b77007f06363c1a73&timestamp=1569732820&nonce=964086769&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 448 bytes in 19 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u4e1c\u98ce\u6807\u81f4', u'manu')
+(u'\u96ea\u94c1\u9f99', u'nz')
+({u'manu': [u'\u4e1c\u98ce\u6807\u81f4']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 17/25] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 12:53:49 2019] POST /wechat?signature=6c2a76cedeca305205f0e5f3e3185373878a6047&timestamp=1569732829&nonce=705683992&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 444 bytes in 15 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'DS', u'eng')
+({}, {'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28564|app: 0|req: 6/26] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 12:53:57 2019] POST /wechat?signature=0db2f81702dfae465f94ef54545e223ed77b58f6&timestamp=1569732837&nonce=2072857219&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 318 bytes in 12 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u5e7f\u6c7d\u4e30\u7530', u'manu')
+({u'manu': [u'\u5e7f\u6c7d\u4e30\u7530']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28563|app: 0|req: 4/27] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 12:54:06 2019] POST /wechat?signature=6be46c441252ffb0f77067227930f433706eadaa&timestamp=1569732846&nonce=272229458&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 449 bytes in 19 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u6c83\u5c14\u6c83', u'nr')
+({}, {'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28564|app: 0|req: 7/28] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 12:54:20 2019] POST /wechat?signature=30903133e7985ca46e133700f2270ee8c64866cf&timestamp=1569732860&nonce=332040469&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 318 bytes in 13 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u6c83\u5c14\u6c83\u4e9a\u592a', u'manu')
+({u'manu': [u'\u6c83\u5c14\u6c83\u4e9a\u592a']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 18/29] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 12:54:31 2019] POST /wechat?signature=fda52f0a6291e522e571c9cd7323a3513dd3d16c&timestamp=1569732871&nonce=2051230564&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 485 bytes in 19 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u957f\u5b89', u'manu')
+(u'\u6c83\u5c14\u6c83', u'nr')
+({u'manu': [u'\u957f\u5b89\u6c7d\u8f66']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28564|app: 0|req: 8/30] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 12:54:41 2019] POST /wechat?signature=f51a7e8c1002f60b5e69777e71bca9bb0fd1b889&timestamp=1569732881&nonce=1024324508&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 556 bytes in 23 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u96ea\u4f5b\u5170', u'manu')
+(u' ', u'x')
+(u'\u9752\u5dde', u'area')
+({u'manu': [u'\u4e0a\u6c7d\u901a\u7528\u96ea\u4f5b\u5170'], u'area': [u'\u9752\u5dde']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 1, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 19/31] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 12:55:04 2019] POST /wechat?signature=47422b1e35300b4957b967012133248d70c327b6&timestamp=1569732904&nonce=1535705715&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 457 bytes in 24 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+Sun Sep 29 13:24:28 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 46.4.33.48) !!!
+Sun Sep 29 13:24:28 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (46.4.33.48)
+IOError: write error
+[pid: 28564|app: 0|req: 9/32] 46.4.33.48 () {32 vars in 409 bytes} [Sun Sep 29 13:24:28 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
