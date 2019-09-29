@@ -67,11 +67,15 @@ def weixin():
             if result == []:
                 answer = '小柯基没找到相关信息，Sorry啦。'
             else:
+                for i in result:
+                    answer += i + '\n'
+                '''
                 for i in range(len(result)):
                     if i == len(result)-1:
                         answer += result[i] + '\n'
                     else:
                         answer += result[i] + '\n\n'                
+                '''           
             return reply_text(fromUser, toUser, answer)
         else:
             return reply_text(fromUser, toUser, "我只懂文字")

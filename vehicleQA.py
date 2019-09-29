@@ -11,8 +11,8 @@ import jieba
 jieba.load_userdict("./data/usr_dict.txt")
 import jieba.posseg as pseg
 import sys  
-reload(sys)  
-sys.setdefaultencoding('utf8')  
+#reload(sys)  
+#sys.setdefaultencoding('utf8')  
 
 class searchCarInNeo4j():
 
@@ -26,10 +26,12 @@ class searchCarInNeo4j():
         self.dict_city = dict_synonym['city']
         self.dict_area = dict_synonym['area']
         self.dict_manu = dict_synonym['manu']
-        self.mark_list = ['ci','vm','vi','ri','city','area','manu','kd']
-        self.kg = Graph("bolt://localhost:7687", auth=('neo4j', '123456'))
-        #self.kg = Graph("http://localhost:3389", username="neo4j", password="123456")
-        self.introduction = {'CI':'配件','RI':'限制','VI':'车型信息','LO1':'city','LO2':'area','DE':'经销商','VM':'车型','KD':'品牌'}
+        self.list_ci = ['厂商指导价(万元)','厂商','上市时间','排量(L)','燃油标号','轴距(mm)','发动机型号','变速箱','发动机','长*宽*高(mm)','官方0-100km/h加速(s)','工信部综合油耗(L/100km)']
+        self.result_non = '抱歉，小柯基没有找到相关信息。'
+        self.mark_list = ['ci','vm','vi','ri','city','area','manu','kd','pr','date']
+        #self.kg = Graph("bolt://localhost:7687", auth=('neo4j', '123456'))
+        self.kg = Graph("http://localhost:7474", username="neo4j", password="123456")
+        self.introduction = {'ci':'配件','ri':'限制','vi':'车型信息','city':'city','area':'area','DE':'经销商','vm':'车型','manu':'品牌','pr':'price','data':'上市日期'}
 
     def searchOneComp(self,carmodel,entity):
         answer = []
@@ -41,12 +43,12 @@ class searchCarInNeo4j():
             answer.append(result)
             for i in result_list:
                 if '国VI' in i['b.carname']:
-                    result = i['b.carname']+'--'+i['c.value']+'--'+entity[0]
+                    result = i['b.carname'] + '--' + i['c.value'] + '--' + entity[0] + '\n'
                     answer.append(result)
                 elif '国V' in i['b.carname']:
                     pass
                 else:
-                    result = i['b.carname']+'--'+i['c.value']+'--'+entity[0]
+                    result = i['b.carname'] + '--' + i['c.value'] + '--' + entity[0] + '\n'
                     answer.append(result)
         return answer
 
@@ -61,12 +63,12 @@ class searchCarInNeo4j():
             answer.append(result)
             for i in result_list:
                 if '国VI' in i['b.carname']:
-                    result = i['b.carname']+'的'+entity[0]+'是'+i['c.value']
+                    result = i['b.carname']+'的'+entity[0]+'是'+i['c.value'] + '\n'
                     answer.append(result)
                 elif '国V' in i['b.carname']:
                     pass
                 else:
-                    result = i['b.carname']+'的'+entity[0]+'是'+i['c.value']
+                    result = i['b.carname']+'的'+entity[0]+'是'+i['c.value'] + '\n'
                     answer.append(result)
         return answer
 
@@ -80,7 +82,7 @@ class searchCarInNeo4j():
         else:
             answer.append(result)
             for i in result_list:
-                result =  i['c.dealer']+'\n地区：'+i['c.city']+' '+i['c.area']+'\n电话：'+i['c.phone']+'\n地址：'+i['c.address']
+                result =  i['c.dealer']+'\n地区：'+i['c.city']+' '+i['c.area']+'\n电话：'+i['c.phone']+'\n地址：'+i['c.address'] + '\n'
                 answer.append(result)
         return answer
 
@@ -97,7 +99,7 @@ class searchCarInNeo4j():
         else:
             answer.append(result)
             for i in result_list:
-                result =  i['c.dealer']+'\n地区：'+i['c.city']+' '+i['c.area']+'\n电话：'+i['c.phone']+'\n地址：'+i['c.address']
+                result =  i['c.dealer']+'\n地区：'+i['c.city']+' '+i['c.area']+'\n电话：'+i['c.phone']+'\n地址：'+i['c.address'] + '\n'
                 answer.append(result)
         return answer
 
@@ -114,7 +116,7 @@ class searchCarInNeo4j():
         else:
             answer.append(result)
             for i in result_list:
-                result =  i['c.dealer']+'\n地区：'+i['c.city']+' '+i['c.area']+'\n电话：'+i['c.phone']+'\n地址：'+i['c.address']
+                result =  i['c.dealer']+'\n地区：'+i['c.city']+' '+i['c.area']+'\n电话：'+i['c.phone']+'\n地址：'+i['c.address'] + '\n'
                 answer.append(result)
         return answer
 
@@ -128,7 +130,7 @@ class searchCarInNeo4j():
         else:
             answer.append(result)
             for i in result_list:
-                result =  i['c.dealer']+'\n地区：'+i['c.city']+' '+i['c.area']+'\n电话：'+i['c.phone']+'\n地址：'+i['c.address']
+                result =  i['c.dealer']+'\n地区：'+i['c.city']+' '+i['c.area']+'\n电话：'+i['c.phone']+'\n地址：'+i['c.address'] + '\n'
                 answer.append(result)
         return answer
     
@@ -145,7 +147,7 @@ class searchCarInNeo4j():
         else:
             answer.append(result)
             for i in result_list:
-                result =  i['c.dealer']+'\n地区：'+i['c.city']+' '+i['c.area']+'\n电话：'+i['c.phone']+'\n地址：'+i['c.address']
+                result =  i['c.dealer']+'\n地区：'+i['c.city']+' '+i['c.area']+'\n电话：'+i['c.phone']+'\n地址：'+i['c.address'] + '\n'
                 answer.append(result)
         return answer
 
@@ -161,12 +163,12 @@ class searchCarInNeo4j():
             answer.append(result)
             for i in result_list:
                 if '国VI' in i['b.carname']:
-                    result =  i['b.carname']+' '+i['c.value']+' '+entity[0]+' '+i['d.value']+' '+entity[1]
+                    result =  i['b.carname']+' '+i['c.value']+' '+entity[0]+' '+i['d.value']+' '+entity[1] + '\n'
                     answer.append(result)
                 elif '国V' in i['b.carname']:
                     pass
                 else:
-                    result =  i['b.carname']+' '+i['c.value']+' '+entity[0]+' '+i['d.value']+' '+entity[1]
+                    result =  i['b.carname']+' '+i['c.value']+' '+entity[0]+' '+i['d.value']+' '+entity[1] + '\n'
                     answer.append(result)
         return answer
 
@@ -182,12 +184,12 @@ class searchCarInNeo4j():
             answer.append(result)
             for i in result_list:
                 if '国VI' in i['b.carname']:
-                    result =  i['b.carname']+'的'+entity[0]+'是'+i['c.value']+';'+entity[1]+'是'+i['d.value']
+                    result =  i['b.carname']+'的'+entity[0]+'是'+i['c.value']+';'+entity[1]+'是'+i['d.value'] + '\n'
                     answer.append(result)
                 elif '国V' in i['b.carname']:
                     pass
                 else:
-                    result =  i['b.carname']+'的'+entity[0]+'是'+i['c.value']+';'+entity[1]+'是'+i['d.value']
+                    result =  i['b.carname']+'的'+entity[0]+'是'+i['c.value']+';'+entity[1]+'是'+i['d.value'] + '\n'
                     answer.append(result)
         return answer
 
@@ -203,12 +205,12 @@ class searchCarInNeo4j():
             answer.append(result)
             for i in result_list:
                 if '国VI' in i['b.carname']:
-                    result =  i['b.carname']+'的'+entity1[0]+'是'+i['c.value']+';'+i['d.value']+'--'+entity2[0]
+                    result =  i['b.carname']+'的'+entity1[0]+'是'+i['c.value']+';'+i['d.value']+'--'+entity2[0] + '\n'
                     answer.append(result)
                 elif '国V' in i['b.carname']:
                     pass
                 else:
-                    result =  i['b.carname']+'的'+entity1[0]+'是'+i['c.value']+';'+i['d.value']+'--'+entity2[0]
+                    result =  i['b.carname']+'的'+entity1[0]+'是'+i['c.value']+';'+i['d.value']+'--'+entity2[0] + '\n'
                     answer.append(result)
         return answer
     
@@ -225,7 +227,7 @@ class searchCarInNeo4j():
         else:
             answer.append(result)
             for i in result_list:
-                result =  i['c.dealer']+'\n地区：'+i['c.city']+' '+i['c.area']+'\n电话：'+i['c.phone']+'\n地址：'+i['c.address']
+                result =  i['c.dealer']+'\n地区：'+i['c.city']+' '+i['c.area']+'\n电话：'+i['c.phone']+'\n地址：'+i['c.address'] + '\n'
                 answer.append(result)
         return answer
 
@@ -244,32 +246,65 @@ class searchCarInNeo4j():
                 answer.append(result)
         return answer
 
-    def countParaNum(self,result):
-        num_CI, num_VI, num_RI, num_MANU, num_LO1, num_LO2, num_VM, num_KD = 0, 0, 0, 0, 0, 0, 0, 0
-        for key,value in result.items():
-            if key == 'ci':
-                num_CI = len(value)
-            if key == 'vi':
-                num_VI = len(value)
-            if key == 'ri':
-                num_RI = len(value)
-            if key == 'manu':
-                num_MANU = len(value)
-            if key == 'vm':
-                num_VM = len(value)
-            if key == 'kd':
-                num_KD = len(value)
-            if key == 'city':
-                num_LO1 = len(value)
-            if key == 'area':
-                num_LO2 = len(value)
-        return num_CI, num_RI, num_VI, num_MANU, num_LO1, num_LO2,num_VM, num_KD
+    def searchVMPR(self,carmodel,price):
+        answer = []
+        result = '小柯基为您找到如下相关信息：'
+        result_list = self.kg.run("MATCH (a:carmodel {carmodel:'"+carmodel+"'})-->(b:car)-->(c:ci {name:'厂商指导价(万元)'}) WHERE c.value='"+price+
+        "万' RETURN b.carname").data()
+        #print(list(result_list))
+        if result_list == []:
+            answer.append(self.result_non)
+            return answer
+        if len(result_list) == 1:
+            node_name = result_list[0]['b.carname']
+        else:
+            node_name = result_list[0]['b.carname']
+            for i in result_list:
+                if '国VI' in i['b.carname']:
+                    node_name = i['b.carname']
+        a=self.kg.nodes.match('car',carname=node_name).first()
+        if a == None:
+            answer.append(self.result_non)
+        else:
+            answer.append(result)
+            answer.append('车款：' + node_name)
+            for i in self.list_ci:
+                if i in a:
+                    answer.append(i+':'+str(a[i]))
+        return answer
+
+    def searchVMPRDate(self,carmodel,price,date):
+        answer = []
+        result = '小柯基为您找到如下相关信息：'
+        result_list = self.kg.run("MATCH (a:carmodel {carmodel:'"+carmodel+"'})-->(b:car)-->(c:ci {name:'厂商指导价(万元)'}) WHERE c.value='"+price+
+        "万' RETURN b.carname").data()
+        #print(list(result_list))
+        if result_list == []:
+            answer.append(self.result_non)
+            return answer
+        if len(result_list) == 1:
+            node_name = result_list[0]['b.carname']
+        else:
+            node_name = result_list[0]['b.carname']
+            for i in result_list:
+                if date in i['b.carname']:
+                    node_name = i['b.carname']
+        a=self.kg.nodes.match('car',carname=node_name).first()
+        if a == None:
+            answer.append(self.result_non)
+        else:
+            answer.append(result)
+            answer.append('车款：' + node_name)
+            for i in self.list_ci:
+                if i in a:
+                    answer.append(i+':'+str(a[i]))
+        return answer
 
     def entityRecoByJieba(self, message):
         words = pseg.cut(message)
         result = {}
         counter = {}
-        num_CI, num_VI, num_RI, num_manu, num_city, num_area, num_VM, num_KD = 0, 0, 0, 0, 0, 0, 0, 0
+        num_CI, num_VI, num_RI, num_manu, num_city, num_area, num_VM, num_KD,num_pr, num_date = 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
         for word, flag in words:
             print(word,flag)
             if flag == 'ci':
@@ -290,10 +325,16 @@ class searchCarInNeo4j():
             elif flag == 'manu':
                 result.setdefault(flag, []).append(self.dict_manu[word])
                 num_manu += 1
+            elif flag == 'pr':
+                result.setdefault(flag, []).append(word)
+                num_pr +=1
+            elif flag == 'date':
+                result.setdefault(flag, []).append(word)
+                num_date +=1
             else:
                 pass
-        counter = {'ci':num_CI, 'vi':num_VI, 'ri':num_RI, 'manu':num_manu, 'city':num_city, 'area':num_area, 'vm':num_VM, 'kd':num_KD}
-        total_num = num_CI + num_VI + num_RI + num_manu + num_city + num_area + num_VM + num_KD
+        counter = {'ci':num_CI, 'vi':num_VI, 'ri':num_RI, 'manu':num_manu, 'city':num_city, 'area':num_area, 'vm':num_VM, 'kd':num_KD, 'pr':num_pr, 'date':num_date}
+        total_num = num_CI + num_VI + num_RI + num_manu + num_city + num_area + num_VM + num_KD + num_pr + num_date
         return result,counter,total_num     
 
     def search(self, message):
@@ -327,6 +368,8 @@ class searchCarInNeo4j():
                     answer = self.searchVMLODE(result['vm'][0],result['city'])
                 elif counter_jieba['area'] == 1:
                     answer = self.searchVMArea(result['vm'][0],result['area'])
+                elif counter_jieba['pr'] == 1:
+                    answer = self.searchVMPR(result['vm'][0],result['pr'][0])
                 else:
                     pass
             elif counter_jieba['manu'] == 1:
@@ -350,6 +393,8 @@ class searchCarInNeo4j():
                     answer = self.searchVMArea(result['vm'][0],result['area'])
                 elif counter_jieba['manu'] == 1 and counter_jieba['city'] == 1:
                     answer = self.searchVMLODE(result['vm'][0],result['city'])
+                elif counter_jieba['date'] == 1 and counter_jieba['pr'] ==1:
+                    answer = self.searchVMPRDate(result['vm'][0],result['pr'][0],result['date'][0])
                 else:
                     pass
             elif counter_jieba['manu'] == 1 and counter_jieba['city'] == 1 and counter_jieba['area'] == 1:
