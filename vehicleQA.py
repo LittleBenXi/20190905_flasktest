@@ -10,9 +10,6 @@ import json
 import jieba
 jieba.load_userdict("./data/usr_dict.txt")
 import jieba.posseg as pseg
-import sys  
-#reload(sys)  
-#sys.setdefaultencoding('utf8')  
 
 class searchCarInNeo4j():
 
@@ -29,8 +26,8 @@ class searchCarInNeo4j():
         self.list_ci = ['厂商指导价(万元)','厂商','上市时间','排量(L)','燃油标号','轴距(mm)','发动机型号','变速箱','发动机','长*宽*高(mm)','官方0-100km/h加速(s)','工信部综合油耗(L/100km)']
         self.result_non = '抱歉，小柯基没有找到相关信息。'
         self.mark_list = ['ci','vm','vi','ri','city','area','manu','kd','pr','date']
-        #self.kg = Graph("bolt://localhost:7687", auth=('neo4j', '123456'))
-        self.kg = Graph("http://localhost:7474", username="neo4j", password="123456")
+        self.kg = Graph("bolt://localhost:7687", auth=('neo4j', '123456'))
+        #self.kg = Graph("http://localhost:7474", username="neo4j", password="123456")
         self.introduction = {'ci':'配件','ri':'限制','vi':'车型信息','city':'city','area':'area','DE':'经销商','vm':'车型','manu':'品牌','pr':'price','data':'上市日期'}
 
     def searchOneComp(self,carmodel,entity):
@@ -291,13 +288,17 @@ class searchCarInNeo4j():
                     node_name = i['b.carname']
         a=self.kg.nodes.match('car',carname=node_name).first()
         if a == None:
+            #print('None')
             answer.append(self.result_non)
         else:
+            #print(list(a))
             answer.append(result)
             answer.append('车款：' + node_name)
             for i in self.list_ci:
+                #print(i)
                 if i in a:
                     answer.append(i+':'+str(a[i]))
+        #print(answer)
         return answer
 
     def entityRecoByJieba(self, message):

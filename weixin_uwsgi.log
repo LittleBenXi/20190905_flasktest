@@ -8491,3 +8491,541 @@ Sun Sep 29 13:24:28 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably
 Sun Sep 29 13:24:28 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (46.4.33.48)
 IOError: write error
 [pid: 28564|app: 0|req: 9/32] 46.4.33.48 () {32 vars in 409 bytes} [Sun Sep 29 13:24:28 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+(u'\u96ea\u4f5b\u5170', u'manu')
+(u' ', u'x')
+(u'\u9ad8\u5bc6', u'area')
+({u'manu': [u'\u4e0a\u6c7d\u901a\u7528\u96ea\u4f5b\u5170'], u'area': [u'\u9ad8\u5bc6']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 1, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 20/33] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 13:37:28 2019] POST /wechat?signature=aa77bdb060f1816058f61972cd901dfdb992e38f&timestamp=1569735448&nonce=708383842&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1117 bytes in 55 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+(u'\u96ea\u4f5b\u5170', u'manu')
+(u' ', u'x')
+(u'\u5bff\u5149', u'area')
+({u'manu': [u'\u4e0a\u6c7d\u901a\u7528\u96ea\u4f5b\u5170'], u'area': [u'\u5bff\u5149']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 1, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 21/34] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 13:37:38 2019] POST /wechat?signature=06dda52e7cc89f4519802420ce95ccb899db205a&timestamp=1569735458&nonce=247817497&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 477 bytes in 23 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u96ea\u4f5b\u5170', u'manu')
+(u' ', u'x')
+(u'\u8bf8\u57ce', u'area')
+({u'manu': [u'\u4e0a\u6c7d\u901a\u7528\u96ea\u4f5b\u5170'], u'area': [u'\u8bf8\u57ce']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 1, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 22/35] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 13:37:44 2019] POST /wechat?signature=05de659c1d042ed722c21e2ab5fb6551bbea0c52&timestamp=1569735464&nonce=1287092087&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1117 bytes in 50 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+(u'\u96ea\u4f5b\u5170', u'manu')
+(u' ', u'x')
+(u'\u660c\u4e50', u'area')
+({u'manu': [u'\u4e0a\u6c7d\u901a\u7528\u96ea\u4f5b\u5170'], u'area': [u'\u660c\u4e50']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 1, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 23/36] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 13:37:54 2019] POST /wechat?signature=01b3cce8052938019e70ee338bc4cfc545891e13&timestamp=1569735474&nonce=1092534723&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1117 bytes in 78 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+(u'\u96ea\u4f5b\u5170', u'manu')
+(u' ', u'x')
+(u'\u4e34\u6710', u'area')
+({u'manu': [u'\u4e0a\u6c7d\u901a\u7528\u96ea\u4f5b\u5170'], u'area': [u'\u4e34\u6710']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 1, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28564|app: 0|req: 10/37] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 13:38:03 2019] POST /wechat?signature=77a32722780ef43c948ecabcfc7ee1eeb248ca2f&timestamp=1569735483&nonce=279814644&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1117 bytes in 45 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+(u'\u4e00\u6c7d\u6377\u8fbe', u'manu')
+({u'manu': [u'\u4e00\u6c7d-\u5927\u4f17\u6377\u8fbe']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28562|app: 0|req: 1/38] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 13:56:59 2019] POST /wechat?signature=1313a0d0f4ddc8138e7c31994c32d3ebac2416c4&timestamp=1569736619&nonce=276190627&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 370 bytes in 203 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+(u'\u4e00\u6c7d\u6377\u8fbe', u'manu')
+(u' ', u'x')
+(u'\u9752\u5dde', u'area')
+({u'manu': [u'\u4e00\u6c7d-\u5927\u4f17\u6377\u8fbe'], u'area': [u'\u9752\u5dde']}, {'city': 0, 'ci': 0, 'manu': 1, 'area': 1, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 24/39] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 13:57:11 2019] POST /wechat?signature=d4bdf2b1e4a89c6d10a1315974eeb8f0267df2aa&timestamp=1569736631&nonce=1563499585&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 463 bytes in 22 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u6377\u8fbeVS5', u'vm')
+({u'vm': [u'\u6377\u8fbeVS5']}, {'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 1})
+[pid: 28564|app: 0|req: 11/40] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 13:57:27 2019] POST /wechat?signature=d573fdcf4fb50fd018ea0a726eb15cbe1b00dddf&timestamp=1569736647&nonce=1388043874&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 732 bytes in 50 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u4e0a\u6d77', u'city')
+(u' ', u'x')
+(u'\u96f7\u514b\u8428\u65af', u'manu')
+({u'city': [u'\u4e0a\u6d77'], u'manu': [u'\u96f7\u514b\u8428\u65af']}, {'city': 1, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 25/41] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 13:59:08 2019] POST /wechat?signature=9bde7c6810a6b2d55b87702bcb97713e326787d7&timestamp=1569736748&nonce=1649578142&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1132 bytes in 59 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+(u'\u4e0a\u6d77', u'city')
+(u' ', u'x')
+(u'\u5361\u7f57\u62c9', u'vm')
+({u'city': [u'\u4e0a\u6d77'], u'vm': [u'\u5361\u7f57\u62c9']}, {'city': 1, 'ci': 0, 'manu': 0, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 1})
+[pid: 28562|app: 0|req: 2/42] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 13:59:58 2019] POST /wechat?signature=4020ce4bff0cbe4b5feb0a4414751feefa58dec3&timestamp=1569736798&nonce=1817321240&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 2156 bytes in 97 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+(u'\u6f4d\u574a', u'city')
+(u' ', u'x')
+(u'\u5361\u7f57\u62c9', u'vm')
+({u'city': [u'\u6f4d\u574a'], u'vm': [u'\u5361\u7f57\u62c9']}, {'city': 1, 'ci': 0, 'manu': 0, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 1})
+[pid: 28565|app: 0|req: 26/43] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 14:00:09 2019] POST /wechat?signature=868c2307d98df5516f3dc178def6e17968fa52c2&timestamp=1569736809&nonce=1101409590&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1036 bytes in 28 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+(u'\u9752\u5c9b', u'city')
+(u' ', u'x')
+(u'\u4fdd\u65f6\u6377', u'manu')
+({u'city': [u'\u9752\u5c9b'], u'manu': [u'\u4fdd\u65f6\u6377']}, {'city': 1, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 27/44] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 14:00:55 2019] POST /wechat?signature=18b33433bf5e98121e3b4c55f7d3bce8a8bdf1c0&timestamp=1569736855&nonce=806438080&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 461 bytes in 53 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u6f4d\u574a', u'city')
+(u' ', u'x')
+(u'\u4fdd\u65f6\u6377', u'manu')
+({u'city': [u'\u6f4d\u574a'], u'manu': [u'\u4fdd\u65f6\u6377']}, {'city': 1, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 28/45] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 14:01:03 2019] POST /wechat?signature=56a96e399dd91bc72bae0006fd3213f5b37e10c0&timestamp=1569736863&nonce=1121109773&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 463 bytes in 22 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u6d4e\u5357', u'city')
+(u' ', u'x')
+(u'\u4fdd\u65f6\u6377', u'manu')
+({u'city': [u'\u6d4e\u5357'], u'manu': [u'\u4fdd\u65f6\u6377']}, {'city': 1, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 29/46] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 14:01:14 2019] POST /wechat?signature=3a55a13bf1ec5c8b82a2436ac197b4d6d50b4afe&timestamp=1569736874&nonce=1841805784&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 463 bytes in 23 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 28564|app: 0|req: 12/47] 1.53.145.243 () {26 vars in 279 bytes} [Sun Sep 29 14:35:24 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.0 200) 2 headers in 79 bytes (1 switches on core 0)
+(u'\u6d4e\u5357', u'city')
+(u' ', u'x')
+(u'\u4fdd\u65f6\u6377', u'manu')
+({u'city': [u'\u6d4e\u5357'], u'manu': [u'\u4fdd\u65f6\u6377']}, {'city': 1, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 30/48] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 15:09:49 2019] POST /wechat?signature=64174a6c72462f18e87fce76caf094a39a523663&timestamp=1569740989&nonce=2124162698&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 463 bytes in 15 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u4f60', u'r')
+(u'\u8fd8\u597d', u'v')
+(u'\u5417', u'y')
+({}, {'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28563|app: 0|req: 5/49] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 15:09:55 2019] POST /wechat?signature=7ea061cfeef1d872e0078c906f6115d57c4be019&timestamp=1569740995&nonce=1811916440&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 360 bytes in 12 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u5965\u8fea', u'manu')
+(u' ', u'x')
+(u'\u6210\u90fd', u'city')
+({u'city': [u'\u6210\u90fd'], u'manu': [u'\u4e00\u6c7d-\u5927\u4f17\u5965\u8fea']}, {'city': 1, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 31/50] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 15:17:44 2019] POST /wechat?signature=1c2b1e051fd4d9e6720ca1fb60e320bd39dba796&timestamp=1569741464&nonce=285865032&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1785 bytes in 103 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+(u'\u6210\u90fd\u5e02', u'city')
+(u'\u53cc\u6d41\u533a', u'area')
+(u' ', u'x')
+(u'\u4fdd\u65f6\u6377', u'manu')
+({u'city': [u'\u6210\u90fd'], u'manu': [u'\u4fdd\u65f6\u6377'], u'area': [u'\u53cc\u6d41']}, {'city': 1, 'ci': 0, 'manu': 1, 'area': 1, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 32/51] 223.166.222.117 () {38 vars in 700 bytes} [Sun Sep 29 15:18:16 2019] POST /wechat?signature=7e05672e58b639092813dea8cec2225aba40220b&timestamp=1569741496&nonce=6612321&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 821 bytes in 98 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u6d4e\u5357', u'city')
+(u' ', u'x')
+(u'\u4fdd\u65f6\u6377', u'manu')
+({u'city': [u'\u6d4e\u5357'], u'manu': [u'\u4fdd\u65f6\u6377']}, {'city': 1, 'ci': 0, 'manu': 1, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 33/52] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 15:18:28 2019] POST /wechat?signature=6ae4946741a65b3c6fecc5421a01a7b17d53914a&timestamp=1569741508&nonce=1387978816&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 463 bytes in 17 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 28565|app: 0|req: 34/53] 121.7.25.97 () {28 vars in 326 bytes} [Sun Sep 29 15:25:16 2019] GET /v1/agent/self => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+(u'\u4f60', u'r')
+(u'\u8fd8', u'd')
+(u'\u6d3b\u7740', u'v')
+(u'\u5417', u'y')
+({}, {'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 28565|app: 0|req: 35/54] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 15:29:31 2019] POST /wechat?signature=55a3b1fa5c5d71af6f8d6a8168f293e01780c11c&timestamp=1569742171&nonce=1128996505&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 333 bytes in 13 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+Sun Sep 29 16:04:08 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 36.99.136.135) !!!
+Sun Sep 29 16:04:08 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (36.99.136.135)
+IOError: write error
+[pid: 28565|app: 0|req: 36/55] 36.99.136.135 () {38 vars in 669 bytes} [Sun Sep 29 16:04:08 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+[pid: 28565|app: 0|req: 37/56] 80.82.70.187 () {32 vars in 432 bytes} [Sun Sep 29 16:51:44 2019] GET /cache/global/img/gs.gif => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+(u'\u5e15\u8428\u7279', u'vm')
+({u'vm': [u'\u5e15\u8428\u7279']}, {'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 1})
+[pid: 28564|app: 0|req: 13/57] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 17:09:31 2019] POST /wechat?signature=7f5def2086a8022ab3a9fcb6443481a5892cc27b&timestamp=1569748171&nonce=1161630132&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1050 bytes in 43 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+Sun Sep 29 17:20:29 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 45.93.20.4) !!!
+Sun Sep 29 17:20:29 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (45.93.20.4)
+[pid: 28565|app: 0|req: 38/58] 45.93.20.4 () {32 vars in 457 bytes} [Sun Sep 29 17:20:29 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 17:20:30 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /forum/ (ip 45.93.20.4) !!!
+Sun Sep 29 17:20:30 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /forum/ (45.93.20.4)
+[pid: 28564|app: 0|req: 14/59] 45.93.20.4 () {32 vars in 469 bytes} [Sun Sep 29 17:20:30 2019] HEAD /forum/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 17:20:31 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /forums/ (ip 45.93.20.4) !!!
+Sun Sep 29 17:20:31 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /forums/ (45.93.20.4)
+[pid: 28564|app: 0|req: 15/60] 45.93.20.4 () {32 vars in 471 bytes} [Sun Sep 29 17:20:31 2019] HEAD /forums/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 17:20:33 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /vb/ (ip 45.93.20.4) !!!
+Sun Sep 29 17:20:33 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /vb/ (45.93.20.4)
+[pid: 28565|app: 0|req: 39/61] 45.93.20.4 () {32 vars in 463 bytes} [Sun Sep 29 17:20:33 2019] HEAD /vb/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 17:20:34 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /vbulletin/ (ip 45.93.20.4) !!!
+Sun Sep 29 17:20:34 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /vbulletin/ (45.93.20.4)
+[pid: 28565|app: 0|req: 40/62] 45.93.20.4 () {32 vars in 477 bytes} [Sun Sep 29 17:20:34 2019] HEAD /vbulletin/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 17:20:36 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /vb5/ (ip 45.93.20.4) !!!
+Sun Sep 29 17:20:36 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /vb5/ (45.93.20.4)
+[pid: 28565|app: 0|req: 41/63] 45.93.20.4 () {32 vars in 465 bytes} [Sun Sep 29 17:20:36 2019] HEAD /vb5/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 17:20:37 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /vbulletin5/ (ip 45.93.20.4) !!!
+Sun Sep 29 17:20:37 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /vbulletin5/ (45.93.20.4)
+[pid: 28565|app: 0|req: 42/64] 45.93.20.4 () {32 vars in 479 bytes} [Sun Sep 29 17:20:37 2019] HEAD /vbulletin5/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 17:29:12 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 144.139.17.141) !!!
+Sun Sep 29 17:29:12 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (144.139.17.141)
+IOError: write error
+[pid: 28564|app: 0|req: 16/65] 144.139.17.141 () {26 vars in 281 bytes} [Sun Sep 29 17:29:12 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.0 200) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 17:44:44 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 45.93.20.4) !!!
+Sun Sep 29 17:44:44 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (45.93.20.4)
+[pid: 28565|app: 0|req: 43/66] 45.93.20.4 () {32 vars in 458 bytes} [Sun Sep 29 17:44:44 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 17:44:45 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /forum/ (ip 45.93.20.4) !!!
+Sun Sep 29 17:44:45 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /forum/ (45.93.20.4)
+[pid: 28565|app: 0|req: 44/67] 45.93.20.4 () {32 vars in 470 bytes} [Sun Sep 29 17:44:45 2019] HEAD /forum/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 17:44:46 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /forums/ (ip 45.93.20.4) !!!
+Sun Sep 29 17:44:46 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /forums/ (45.93.20.4)
+[pid: 28565|app: 0|req: 45/68] 45.93.20.4 () {32 vars in 472 bytes} [Sun Sep 29 17:44:46 2019] HEAD /forums/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 17:44:47 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /vb/ (ip 45.93.20.4) !!!
+Sun Sep 29 17:44:47 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /vb/ (45.93.20.4)
+[pid: 28565|app: 0|req: 46/69] 45.93.20.4 () {32 vars in 464 bytes} [Sun Sep 29 17:44:47 2019] HEAD /vb/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 17:44:48 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /vbulletin/ (ip 45.93.20.4) !!!
+Sun Sep 29 17:44:48 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /vbulletin/ (45.93.20.4)
+[pid: 28565|app: 0|req: 47/70] 45.93.20.4 () {32 vars in 478 bytes} [Sun Sep 29 17:44:48 2019] HEAD /vbulletin/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 17:44:50 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /vb5/ (ip 45.93.20.4) !!!
+Sun Sep 29 17:44:50 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /vb5/ (45.93.20.4)
+[pid: 28565|app: 0|req: 48/71] 45.93.20.4 () {32 vars in 466 bytes} [Sun Sep 29 17:44:50 2019] HEAD /vb5/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 17:44:51 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /vbulletin5/ (ip 45.93.20.4) !!!
+Sun Sep 29 17:44:51 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /vbulletin5/ (45.93.20.4)
+[pid: 28564|app: 0|req: 17/72] 45.93.20.4 () {32 vars in 480 bytes} [Sun Sep 29 17:44:51 2019] HEAD /vbulletin5/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+[pid: 28565|app: 0|req: 49/73] 47.104.181.108 () {34 vars in 499 bytes} [Sun Sep 29 17:50:26 2019] GET /TP/public/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 28562|app: 0|req: 3/74] 47.104.181.108 () {34 vars in 464 bytes} [Sun Sep 29 17:50:44 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+(u'\u96c5\u9601', u'vm')
+({u'vm': [u'\u96c5\u9601']}, {'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 1})
+[pid: 28565|app: 0|req: 50/75] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 17:55:41 2019] POST /wechat?signature=de13eef818e173851aa96548f076189207e982f5&timestamp=1569750941&nonce=978768612&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1073 bytes in 53 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+Sun Sep 29 18:04:33 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 45.93.20.4) !!!
+Sun Sep 29 18:04:33 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (45.93.20.4)
+[pid: 28562|app: 0|req: 4/76] 45.93.20.4 () {32 vars in 458 bytes} [Sun Sep 29 18:04:33 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Sun Sep 29 18:04:34 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /forum/ (ip 45.93.20.4) !!!
+Sun Sep 29 18:04:34 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /forum/ (45.93.20.4)
+[pid: 28562|app: 0|req: 5/77] 45.93.20.4 () {32 vars in 470 bytes} [Sun Sep 29 18:04:34 2019] HEAD /forum/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (1 switches on core 0)
+Sun Sep 29 18:04:35 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /forums/ (ip 45.93.20.4) !!!
+Sun Sep 29 18:04:35 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /forums/ (45.93.20.4)
+[pid: 28565|app: 0|req: 51/78] 45.93.20.4 () {32 vars in 472 bytes} [Sun Sep 29 18:04:35 2019] HEAD /forums/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 18:04:36 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /vb/ (ip 45.93.20.4) !!!
+Sun Sep 29 18:04:36 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /vb/ (45.93.20.4)
+[pid: 28563|app: 0|req: 6/79] 45.93.20.4 () {32 vars in 464 bytes} [Sun Sep 29 18:04:36 2019] HEAD /vb/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 18:04:38 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /vbulletin/ (ip 45.93.20.4) !!!
+Sun Sep 29 18:04:38 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /vbulletin/ (45.93.20.4)
+[pid: 28565|app: 0|req: 52/80] 45.93.20.4 () {32 vars in 478 bytes} [Sun Sep 29 18:04:38 2019] HEAD /vbulletin/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 18:04:39 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /vb5/ (ip 45.93.20.4) !!!
+Sun Sep 29 18:04:39 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /vb5/ (45.93.20.4)
+[pid: 28565|app: 0|req: 53/81] 45.93.20.4 () {32 vars in 466 bytes} [Sun Sep 29 18:04:39 2019] HEAD /vb5/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 18:04:41 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /vbulletin5/ (ip 45.93.20.4) !!!
+Sun Sep 29 18:04:41 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /vbulletin5/ (45.93.20.4)
+[pid: 28562|app: 0|req: 6/82] 45.93.20.4 () {32 vars in 480 bytes} [Sun Sep 29 18:04:41 2019] HEAD /vbulletin5/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (1 switches on core 0)
+Sun Sep 29 18:16:16 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 45.93.20.4) !!!
+Sun Sep 29 18:16:16 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (45.93.20.4)
+[pid: 28565|app: 0|req: 54/83] 45.93.20.4 () {30 vars in 419 bytes} [Sun Sep 29 18:16:16 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+[pid: 28564|app: 0|req: 18/84] 45.93.20.4 () {30 vars in 425 bytes} [Sun Sep 29 18:16:17 2019] HEAD /wp/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (0 switches on core 0)
+Sun Sep 29 18:16:21 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wordpress/ (ip 45.93.20.4) !!!
+Sun Sep 29 18:16:21 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /wordpress/ (45.93.20.4)
+[pid: 28565|app: 0|req: 55/85] 45.93.20.4 () {30 vars in 439 bytes} [Sun Sep 29 18:16:21 2019] HEAD /wordpress/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 18:16:23 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /blog/ (ip 45.93.20.4) !!!
+Sun Sep 29 18:16:23 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /blog/ (45.93.20.4)
+[pid: 28564|app: 0|req: 19/86] 45.93.20.4 () {30 vars in 429 bytes} [Sun Sep 29 18:16:23 2019] HEAD /blog/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+[pid: 28564|app: 0|req: 20/87] 191.7.136.37 () {32 vars in 460 bytes} [Sun Sep 29 18:17:02 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 28565|app: 0|req: 56/88] 81.110.91.124 () {28 vars in 305 bytes} [Sun Sep 29 18:18:20 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+Sun Sep 29 18:32:04 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 45.93.20.4) !!!
+Sun Sep 29 18:32:04 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (45.93.20.4)
+[pid: 28565|app: 0|req: 57/89] 45.93.20.4 () {30 vars in 420 bytes} [Sun Sep 29 18:32:04 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 18:32:05 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wp/ (ip 45.93.20.4) !!!
+Sun Sep 29 18:32:05 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /wp/ (45.93.20.4)
+[pid: 28565|app: 0|req: 58/90] 45.93.20.4 () {30 vars in 426 bytes} [Sun Sep 29 18:32:05 2019] HEAD /wp/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 18:32:06 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wordpress/ (ip 45.93.20.4) !!!
+Sun Sep 29 18:32:06 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /wordpress/ (45.93.20.4)
+[pid: 28562|app: 0|req: 7/91] 45.93.20.4 () {30 vars in 440 bytes} [Sun Sep 29 18:32:06 2019] HEAD /wordpress/ => generated 0 bytes in 1 msecs (HTTP/1.1 404) 2 headers in 0 bytes (1 switches on core 0)
+Sun Sep 29 18:32:07 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /blog/ (ip 45.93.20.4) !!!
+Sun Sep 29 18:32:07 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /blog/ (45.93.20.4)
+[pid: 28565|app: 0|req: 59/92] 45.93.20.4 () {30 vars in 430 bytes} [Sun Sep 29 18:32:07 2019] HEAD /blog/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (1 switches on core 0)
+Sun Sep 29 18:44:57 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 45.93.20.4) !!!
+Sun Sep 29 18:44:57 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (45.93.20.4)
+[pid: 28565|app: 0|req: 60/93] 45.93.20.4 () {30 vars in 420 bytes} [Sun Sep 29 18:44:57 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Sun Sep 29 18:45:01 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wp/ (ip 45.93.20.4) !!!
+Sun Sep 29 18:45:01 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /wp/ (45.93.20.4)
+[pid: 28565|app: 0|req: 61/94] 45.93.20.4 () {30 vars in 426 bytes} [Sun Sep 29 18:45:01 2019] HEAD /wp/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 18:45:02 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wordpress/ (ip 45.93.20.4) !!!
+Sun Sep 29 18:45:02 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /wordpress/ (45.93.20.4)
+[pid: 28564|app: 0|req: 21/95] 45.93.20.4 () {30 vars in 440 bytes} [Sun Sep 29 18:45:02 2019] HEAD /wordpress/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 18:45:02 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /blog/ (ip 45.93.20.4) !!!
+Sun Sep 29 18:45:02 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /blog/ (45.93.20.4)
+[pid: 28564|app: 0|req: 22/96] 45.93.20.4 () {30 vars in 430 bytes} [Sun Sep 29 18:45:02 2019] HEAD /blog/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+[pid: 28564|app: 0|req: 23/97] 95.79.99.242 () {32 vars in 460 bytes} [Sun Sep 29 18:49:40 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+Sun Sep 29 18:51:34 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 45.93.20.4) !!!
+Sun Sep 29 18:51:34 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (45.93.20.4)
+[pid: 28565|app: 0|req: 62/98] 45.93.20.4 () {30 vars in 420 bytes} [Sun Sep 29 18:51:34 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 18:51:35 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wp/ (ip 45.93.20.4) !!!
+Sun Sep 29 18:51:35 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /wp/ (45.93.20.4)
+[pid: 28565|app: 0|req: 63/99] 45.93.20.4 () {30 vars in 426 bytes} [Sun Sep 29 18:51:35 2019] HEAD /wp/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 18:51:36 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wordpress/ (ip 45.93.20.4) !!!
+Sun Sep 29 18:51:36 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /wordpress/ (45.93.20.4)
+[pid: 28565|app: 0|req: 64/100] 45.93.20.4 () {30 vars in 440 bytes} [Sun Sep 29 18:51:36 2019] HEAD /wordpress/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 18:51:37 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /blog/ (ip 45.93.20.4) !!!
+Sun Sep 29 18:51:37 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /blog/ (45.93.20.4)
+[pid: 28564|app: 0|req: 24/101] 45.93.20.4 () {30 vars in 430 bytes} [Sun Sep 29 18:51:37 2019] HEAD /blog/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 19:02:21 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 45.93.20.4) !!!
+Sun Sep 29 19:02:21 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (45.93.20.4)
+[pid: 28565|app: 0|req: 65/102] 45.93.20.4 () {30 vars in 420 bytes} [Sun Sep 29 19:02:21 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 19:02:22 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wp/ (ip 45.93.20.4) !!!
+Sun Sep 29 19:02:22 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /wp/ (45.93.20.4)
+[pid: 28565|app: 0|req: 66/103] 45.93.20.4 () {30 vars in 426 bytes} [Sun Sep 29 19:02:22 2019] HEAD /wp/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 19:02:23 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wordpress/ (ip 45.93.20.4) !!!
+Sun Sep 29 19:02:23 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /wordpress/ (45.93.20.4)
+[pid: 28562|app: 0|req: 8/104] 45.93.20.4 () {30 vars in 440 bytes} [Sun Sep 29 19:02:23 2019] HEAD /wordpress/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 19:02:32 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wordpress/ (ip 45.93.20.4) !!!
+Sun Sep 29 19:02:32 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /wordpress/ (45.93.20.4)
+[pid: 28565|app: 0|req: 67/105] 45.93.20.4 () {30 vars in 440 bytes} [Sun Sep 29 19:02:32 2019] HEAD /wordpress/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 19:02:42 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wordpress/ (ip 45.93.20.4) !!!
+Sun Sep 29 19:02:42 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /wordpress/ (45.93.20.4)
+[pid: 28565|app: 0|req: 68/106] 45.93.20.4 () {30 vars in 440 bytes} [Sun Sep 29 19:02:42 2019] HEAD /wordpress/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 19:02:43 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /blog/ (ip 45.93.20.4) !!!
+Sun Sep 29 19:02:43 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /blog/ (45.93.20.4)
+[pid: 28565|app: 0|req: 69/107] 45.93.20.4 () {30 vars in 430 bytes} [Sun Sep 29 19:02:43 2019] HEAD /blog/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 19:04:14 2019 - uWSGI worker 4 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Sep 29 19:04:14 2019 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Sep 29 19:04:14 2019 - uWSGI worker 2 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Sep 29 19:04:14 2019 - uWSGI worker 3 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Sep 29 19:04:59 2019] ***
+compiled with version: 7.4.0 on 27 September 2019 08:54:48
+os: Linux-4.15.0-52-generic #56-Ubuntu SMP Tue Jun 4 22:49:08 UTC 2019
+nodename: ecs-s3-xlarge-2-linux-20190927161328
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/workstudio/20190905_flasktest
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/workstudio/20190905_flasktest
+your processes number limit is 31659
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.15+ (default, Jul  9 2019, 16:51:35)  [GCC 7.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55db0131d770
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.193 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x55db0131d770 pid: 29314 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 29314)
+spawned uWSGI worker 1 (pid: 29316, cores: 1)
+spawned uWSGI worker 2 (pid: 29317, cores: 1)
+spawned uWSGI worker 3 (pid: 29318, cores: 1)
+spawned uWSGI worker 4 (pid: 29319, cores: 1)
+(u'\u4f60\u597d', u'l')
+({}, {'pr': 0, 'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'date': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 29319|app: 0|req: 1/1] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 19:05:36 2019] POST /wechat?signature=4caaed4a3b480ece5b1f4f071abed1d56f43994a&timestamp=1569755136&nonce=540944510&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 318 bytes in 240 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u54c8\u5f17', u'manu')
+({u'manu': [u'\u54c8\u5f17']}, {'pr': 0, 'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'date': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 29318|app: 0|req: 1/2] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 19:05:39 2019] POST /wechat?signature=edf408a8bc964be95e70ecf690d7a5ee97c54cab&timestamp=1569755139&nonce=460395975&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 466 bytes in 205 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'WEY', u'manu')
+({u'manu': [u'WEY']}, {'pr': 0, 'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'date': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 29318|app: 0|req: 2/3] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 19:05:47 2019] POST /wechat?signature=96d168d2d607ff869db5b9349837d24755bbc09e&timestamp=1569755147&nonce=1828115552&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 370 bytes in 29 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u6377\u8c79', u'manu')
+({u'manu': [u'\u6377\u8c79']}, {'pr': 0, 'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'date': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 29319|app: 0|req: 2/4] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 19:05:51 2019] POST /wechat?signature=0d646bb07ac55fcaf7287c033c026a9aec8c3109&timestamp=1569755151&nonce=1481299923&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 399 bytes in 24 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u8def\u864e', u'manu')
+({u'manu': [u'\u5947\u745e\u6377\u8c79\u8def\u864e']}, {'pr': 0, 'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'date': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 29317|app: 0|req: 1/5] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 19:05:54 2019] POST /wechat?signature=21fb538a46b870b547c91d51440e2b0640afe318&timestamp=1569755153&nonce=1155165208&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 417 bytes in 204 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u53d1\u73b0\u795e\u884c', u'vm')
+({u'vm': [u'\u53d1\u73b0\u795e\u884c']}, {'pr': 0, 'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'date': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 1})
+[pid: 29319|app: 0|req: 3/6] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 19:06:00 2019] POST /wechat?signature=e100171a7f92215058c0e09cd78fba2015588b83&timestamp=1569755160&nonce=507895316&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 822 bytes in 40 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u53d1\u73b0\u795e\u884c', u'vm')
+(u' ', u'x')
+(u'2019', u'date')
+(u' ', u'x')
+(u'34.68', u'pr')
+({u'date': [u'2019'], u'pr': [u'34.68'], u'vm': [u'\u53d1\u73b0\u795e\u884c']}, {'pr': 1, 'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'date': 1, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 1})
+[pid: 29319|app: 0|req: 4/7] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 19:06:25 2019] POST /wechat?signature=81b6475fb0f68c740353b209f217abceb19fa373&timestamp=1569755185&nonce=221487641&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 388 bytes in 60 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+(u'\u4e0a\u6d77\u5927\u4f17', u'nt')
+({}, {'pr': 0, 'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'date': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 29319|app: 0|req: 5/8] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 19:06:48 2019] POST /wechat?signature=2beb4a7d6c9a7d6881f1ad3620628c62afd53386&timestamp=1569755208&nonce=1702658271&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 360 bytes in 13 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+(u'\u4e0a\u6c7d\u5927\u4f17', u'manu')
+({u'manu': [u'\u4e0a\u6c7d\u5927\u4f17']}, {'pr': 0, 'city': 0, 'ci': 0, 'manu': 1, 'area': 0, 'date': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 29318|app: 0|req: 3/9] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 19:06:52 2019] POST /wechat?signature=ce5f5d5ef5c9bd275eb4b1690c23c313ecc5da3a&timestamp=1569755212&nonce=224531389&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 493 bytes in 25 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'\u9014\u5b89', u'vm')
+({u'vm': [u'\u9014\u5b89']}, {'pr': 0, 'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'date': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 1})
+[pid: 29319|app: 0|req: 6/10] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 19:06:59 2019] POST /wechat?signature=c2668000dcd56c3fe1ca804fd0741c3432ea7094&timestamp=1569755219&nonce=1185251635&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 897 bytes in 22 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'2018', u'date')
+(u' ', u'x')
+(u'\u9014\u5b89', u'vm')
+(u' ', u'x')
+(u'15.18', u'pr')
+({u'date': [u'2018'], u'pr': [u'15.18'], u'vm': [u'\u9014\u5b89']}, {'pr': 1, 'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'date': 1, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 1})
+[pid: 29319|app: 0|req: 7/11] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 19:07:11 2019] POST /wechat?signature=3893478c74a3d58f5b3c5bb22dab9440d33f2bae&timestamp=1569755231&nonce=457827171&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 404 bytes in 44 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+(u'2019', u'date')
+(u' ', u'x')
+(u'\u5e15\u8428\u7279', u'vm')
+(u' ', u'x')
+(u'25.39', u'pr')
+({u'date': [u'2019'], u'pr': [u'25.39'], u'vm': [u'\u5e15\u8428\u7279']}, {'pr': 1, 'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'date': 1, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 1})
+[pid: 29319|app: 0|req: 8/12] 223.166.222.117 () {38 vars in 702 bytes} [Sun Sep 29 19:07:49 2019] POST /wechat?signature=890d8f8fbe831b0ce946f40a74a7f90e133c674c&timestamp=1569755268&nonce=24393858&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 388 bytes in 42 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /home/workstudio/20190905_flasktest/weixin_uwsgi.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Sep 29 19:09:12 2019] ***
+compiled with version: 7.4.0 on 27 September 2019 08:54:48
+os: Linux-4.15.0-52-generic #56-Ubuntu SMP Tue Jun 4 22:49:08 UTC 2019
+nodename: ecs-s3-xlarge-2-linux-20190927161328
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/workstudio/20190905_flasktest
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/workstudio/20190905_flasktest
+your processes number limit is 31659
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.15+ (default, Jul  9 2019, 16:51:35)  [GCC 7.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x558472798770
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.192 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x558472798770 pid: 29513 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 29513)
+spawned uWSGI worker 1 (pid: 29515, cores: 1)
+spawned uWSGI worker 2 (pid: 29516, cores: 1)
+spawned uWSGI worker 3 (pid: 29517, cores: 1)
+spawned uWSGI worker 4 (pid: 29518, cores: 1)
+(u'2019', u'date')
+(u' ', u'x')
+(u'\u5e15\u8428\u7279', u'vm')
+(u' ', u'x')
+(u'25.39', u'pr')
+({u'date': [u'2019'], u'pr': [u'25.39'], u'vm': [u'\u5e15\u8428\u7279']}, {'pr': 1, 'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'date': 1, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 1})
+[pid: 29518|app: 0|req: 1/1] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 19:09:30 2019] POST /wechat?signature=a1e6ff49d39424557124eee843b4414dc8b9d36f&timestamp=1569755370&nonce=1364743507&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 388 bytes in 193 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /home/workstudio/20190905_flasktest/weixin_uwsgi.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Sep 29 19:14:05 2019] ***
+compiled with version: 7.4.0 on 27 September 2019 08:54:48
+os: Linux-4.15.0-52-generic #56-Ubuntu SMP Tue Jun 4 22:49:08 UTC 2019
+nodename: ecs-s3-xlarge-2-linux-20190927161328
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/workstudio/20190905_flasktest
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/workstudio/20190905_flasktest
+your processes number limit is 31659
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.15+ (default, Jul  9 2019, 16:51:35)  [GCC 7.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55e436b36770
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.194 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x55e436b36770 pid: 29765 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 29765)
+spawned uWSGI worker 1 (pid: 29767, cores: 1)
+spawned uWSGI worker 2 (pid: 29768, cores: 1)
+spawned uWSGI worker 3 (pid: 29769, cores: 1)
+spawned uWSGI worker 4 (pid: 29770, cores: 1)
+(u'2019', u'date')
+(u' ', u'x')
+(u'\u5e15\u8428\u7279', u'vm')
+(u' ', u'x')
+(u'25.39', u'pr')
+({u'date': [u'2019'], u'pr': [u'25.39'], u'vm': [u'\u5e15\u8428\u7279']}, {'pr': 1, 'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'date': 1, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 1})
+小柯基为您找到如下相关信息：
+车款：帕萨特 2019款 330TSI 领尊版 国V
+
+[pid: 29770|app: 0|req: 1/1] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 19:14:39 2019] POST /wechat?signature=a21e407c0a9298c60d394e6136273b0aca5b9f8f&timestamp=1569755679&nonce=1387057544&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 388 bytes in 213 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+Sun Sep 29 19:15:40 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 45.93.20.4) !!!
+Sun Sep 29 19:15:40 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (45.93.20.4)
+[pid: 29769|app: 0|req: 1/2] 45.93.20.4 () {30 vars in 420 bytes} [Sun Sep 29 19:15:40 2019] HEAD / => generated 0 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 19:15:40 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wp/ (ip 45.93.20.4) !!!
+Sun Sep 29 19:15:40 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /wp/ (45.93.20.4)
+[pid: 29770|app: 0|req: 2/3] 45.93.20.4 () {30 vars in 426 bytes} [Sun Sep 29 19:15:40 2019] HEAD /wp/ => generated 0 bytes in 1 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 19:15:41 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wordpress/ (ip 45.93.20.4) !!!
+Sun Sep 29 19:15:41 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /wordpress/ (45.93.20.4)
+[pid: 29770|app: 0|req: 3/4] 45.93.20.4 () {30 vars in 440 bytes} [Sun Sep 29 19:15:41 2019] HEAD /wordpress/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 19:15:42 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /blog/ (ip 45.93.20.4) !!!
+Sun Sep 29 19:15:42 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /blog/ (45.93.20.4)
+[pid: 29769|app: 0|req: 2/5] 45.93.20.4 () {30 vars in 430 bytes} [Sun Sep 29 19:15:42 2019] HEAD /blog/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 19:16:49 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 45.93.20.4) !!!
+Sun Sep 29 19:16:49 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (45.93.20.4)
+[pid: 29770|app: 0|req: 4/6] 45.93.20.4 () {30 vars in 419 bytes} [Sun Sep 29 19:16:49 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Sun Sep 29 19:16:50 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wp/ (ip 45.93.20.4) !!!
+Sun Sep 29 19:16:50 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /wp/ (45.93.20.4)
+[pid: 29767|app: 0|req: 1/7] 45.93.20.4 () {30 vars in 425 bytes} [Sun Sep 29 19:16:50 2019] HEAD /wp/ => generated 0 bytes in 2 msecs (HTTP/1.1 404) 2 headers in 0 bytes (1 switches on core 0)
+Sun Sep 29 19:16:51 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /wordpress/ (ip 45.93.20.4) !!!
+Sun Sep 29 19:16:51 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD /wordpress/ (45.93.20.4)
+[pid: 29767|app: 0|req: 2/8] 45.93.20.4 () {30 vars in 439 bytes} [Sun Sep 29 19:16:51 2019] HEAD /wordpress/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (1 switches on core 0)
+[pid: 29767|app: 0|req: 3/9] 45.93.20.4 () {30 vars in 429 bytes} [Sun Sep 29 19:16:53 2019] HEAD /blog/ => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /home/workstudio/20190905_flasktest/weixin_uwsgi.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Sep 29 19:17:29 2019] ***
+compiled with version: 7.4.0 on 27 September 2019 08:54:48
+os: Linux-4.15.0-52-generic #56-Ubuntu SMP Tue Jun 4 22:49:08 UTC 2019
+nodename: ecs-s3-xlarge-2-linux-20190927161328
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/workstudio/20190905_flasktest
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/workstudio/20190905_flasktest
+your processes number limit is 31659
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.15+ (default, Jul  9 2019, 16:51:35)  [GCC 7.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x561ebed60770
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.195 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x561ebed60770 pid: 29980 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 29980)
+spawned uWSGI worker 1 (pid: 29982, cores: 1)
+spawned uWSGI worker 2 (pid: 29983, cores: 1)
+spawned uWSGI worker 3 (pid: 29984, cores: 1)
+spawned uWSGI worker 4 (pid: 29985, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /home/workstudio/20190905_flasktest/weixin_uwsgi.sock removed.

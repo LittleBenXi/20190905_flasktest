@@ -7,10 +7,7 @@ import json
 import time
 import re
 import xml.etree.ElementTree as ET
-from vehicleQA import searchCarInNeo4j
-import sys  
-reload(sys)  
-sys.setdefaultencoding('utf8')  
+from vehicleQA import searchCarInNeo4j 
 
 app = Flask(__name__)
 
@@ -96,4 +93,4 @@ def reply_text(to_user, from_user, content):
 
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0')
+    app.run(host='0.0.0.0',port=80)
