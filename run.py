@@ -50,7 +50,7 @@ def weixin():
         toUser = xml.find('ToUserName').text
         fromUser = xml.find('FromUserName').text
         msgType = xml.find("MsgType").text
-        createTime = xml.find("CreateTime")
+        createTime = xml.find("CreateTime").text
         # 判断类型并回复
         if msgType == "text":
             content = xml.find('Content').text
@@ -73,12 +73,11 @@ def weixin():
                     else:
                         answer += result[i] + '\n\n'                
                 '''           
-            reply_text(fromUser, toUser, answer)
             dict_1 = {'q':content,'a':answer,'user':fromUser,'time':createTime}
             with open('record.json','a') as f_obj:
                 json.dump(dict_1,f_obj)
                 f_obj.close()
-            return True
+            return reply_text(fromUser, toUser, answer)
         else:
             answer = '''Hello！我是小柯基，我可以回答一些关于汽车的问题，你可以这样问我：\n
             1.直接输入厂商名，查其生产的车型，例如：东风本田\n
