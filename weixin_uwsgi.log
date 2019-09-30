@@ -9029,3 +9029,506 @@ worker 3 buried after 1 seconds
 worker 4 buried after 1 seconds
 goodbye to uWSGI.
 VACUUM: unix socket /home/workstudio/20190905_flasktest/weixin_uwsgi.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Sep 29 20:10:15 2019] ***
+compiled with version: 7.4.0 on 27 September 2019 08:54:48
+os: Linux-4.15.0-52-generic #56-Ubuntu SMP Tue Jun 4 22:49:08 UTC 2019
+nodename: ecs-s3-xlarge-2-linux-20190927161328
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/workstudio/20190905_flasktest
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/workstudio/20190905_flasktest
+your processes number limit is 31659
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.15+ (default, Jul  9 2019, 16:51:35)  [GCC 7.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x562be1c53760
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.188 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x562be1c53760 pid: 30382 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 30382)
+spawned uWSGI worker 1 (pid: 30384, cores: 1)
+spawned uWSGI worker 2 (pid: 30385, cores: 1)
+spawned uWSGI worker 3 (pid: 30386, cores: 1)
+spawned uWSGI worker 4 (pid: 30387, cores: 1)
+(u'\u4f60\u597d', u'l')
+({}, {'pr': 0, 'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'date': 0, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 0})
+[pid: 30386|app: 0|req: 1/1] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 20:12:16 2019] POST /wechat?signature=7da721546db66289b1455e508049d5e55a9a9bd5&timestamp=1569759136&nonce=607656253&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 321 bytes in 183 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+(u'\u5e15\u8428\u7279', u'vm')
+(u' ', u'x')
+(u'2019', u'date')
+(u' ', u'x')
+(u'25.39', u'pr')
+({u'date': [u'2019'], u'pr': [u'25.39'], u'vm': [u'\u5e15\u8428\u7279']}, {'pr': 1, 'city': 0, 'ci': 0, 'manu': 0, 'area': 0, 'date': 1, 'vi': 0, 'kd': 0, 'ri': 0, 'vm': 1})
+'ascii' codec can't decode byte 0xe5 in position 29: ordinal not in range(128)
+[pid: 30386|app: 0|req: 2/2] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 20:12:30 2019] POST /wechat?signature=ad378a2dfec6ecb1fd2ae56794e49fca9846dac2&timestamp=1569759150&nonce=400493081&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 336 bytes in 13 msecs (HTTP/1.1 200) 2 headers in 80 bytes (2 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /home/workstudio/20190905_flasktest/weixin_uwsgi.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Sep 29 22:01:56 2019] ***
+compiled with version: 7.4.0 on 29 September 2019 14:00:55
+os: Linux-4.15.0-52-generic #56-Ubuntu SMP Tue Jun 4 22:49:08 UTC 2019
+nodename: ecs-s3-xlarge-2-linux-20190927161328
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/workstudio/20190905_flasktest
+detected binary path: /home/workstudio/20190905_flasktest/env3/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/workstudio/20190905_flasktest
+your processes number limit is 31659
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.8 (default, Aug 20 2019, 17:12:48)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x560b3b225030
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.788 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x560b3b225030 pid: 32758 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 32758)
+spawned uWSGI worker 1 (pid: 32760, cores: 1)
+spawned uWSGI worker 2 (pid: 32761, cores: 1)
+spawned uWSGI worker 3 (pid: 32762, cores: 1)
+spawned uWSGI worker 4 (pid: 32763, cores: 1)
+你好 l
+{} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 0, 'kd': 0, 'pr': 0, 'date': 0}
+[pid: 32763|app: 0|req: 1/1] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 22:03:09 2019] POST /wechat?signature=bfb26a0b631561f1c4c0aed618b21ac96b03d8c8&timestamp=1569765789&nonce=555594017&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 360 bytes in 164 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+帕萨特 vm
+  x
+2019 date
+  x
+25.39 pr
+{'vm': ['帕萨特'], 'date': ['2019'], 'pr': ['25.39']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0, 'pr': 1, 'date': 1}
+[pid: 32761|app: 0|req: 1/2] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 22:03:16 2019] POST /wechat?signature=65d46352c32eee1e220dcc789fdb68c8e057ebcf&timestamp=1569765796&nonce=625938465&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 682 bytes in 179 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+雅阁 vm
+{'vm': ['雅阁']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0, 'pr': 0, 'date': 0}
+[pid: 32763|app: 0|req: 2/3] 223.166.222.117 () {38 vars in 706 bytes} [Sun Sep 29 22:03:28 2019] POST /wechat?signature=ae1b049b3e29682d3e35a5a2c7df94589927081b&timestamp=1569765808&nonce=1874504187&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1073 bytes in 18 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+雅阁 vm
+  x
+2018 date
+  x
+25.98 pr
+{'vm': ['雅阁'], 'date': ['2018'], 'pr': ['25.98']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0, 'pr': 1, 'date': 1}
+[pid: 32763|app: 0|req: 3/4] 223.166.222.117 () {38 vars in 704 bytes} [Sun Sep 29 22:03:48 2019] POST /wechat?signature=1defeca85c805827ad9b6402aa0a7d97ef332559&timestamp=1569765828&nonce=222094964&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 640 bytes in 22 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+Gracefully killing worker 4 (pid: 32763)...
+Gracefully killing worker 3 (pid: 32762)...
+Gracefully killing worker 1 (pid: 32760)...
+Gracefully killing worker 2 (pid: 32761)...
+...gracefully killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /home/workstudio/20190905_flasktest
+closing all non-uwsgi socket fds > 2 (max_fd = 65535)...
+found fd 3 mapped to socket 0 (/home/workstudio/20190905_flasktest/weixin_uwsgi.sock)
+running /home/workstudio/20190905_flasktest/env3/bin/uwsgi
+[uWSGI] getting INI configuration from weixin_uwsgi.ini
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Sep 29 22:04:29 2019] ***
+compiled with version: 7.4.0 on 29 September 2019 14:00:55
+os: Linux-4.15.0-52-generic #56-Ubuntu SMP Tue Jun 4 22:49:08 UTC 2019
+nodename: ecs-s3-xlarge-2-linux-20190927161328
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/workstudio/20190905_flasktest
+detected binary path: /home/workstudio/20190905_flasktest/env3/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/workstudio/20190905_flasktest
+your processes number limit is 31659
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited UNIX address /home/workstudio/20190905_flasktest/weixin_uwsgi.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.8 (default, Aug 20 2019, 17:12:48)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55e5987d5f30
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364520 bytes (355 KB) for 4 cores
+*** Operational MODE: preforking ***
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.785 seconds.
+Prefix dict has been built succesfully.
+WSGI app 0 (mountpoint='') ready in 2 seconds on interpreter 0x55e5987d5f30 pid: 32758 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 32758)
+spawned uWSGI worker 1 (pid: 508, cores: 1)
+spawned uWSGI worker 2 (pid: 509, cores: 1)
+spawned uWSGI worker 3 (pid: 510, cores: 1)
+spawned uWSGI worker 4 (pid: 511, cores: 1)
+Sun Sep 29 22:05:52 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 36.111.168.190) !!!
+Sun Sep 29 22:05:52 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (36.111.168.190)
+[pid: 510|app: 0|req: 1/1] 36.111.168.190 () {32 vars in 456 bytes} [Sun Sep 29 22:05:52 2019] HEAD / => generated 0 bytes in 2 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 22:06:36 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 36.111.168.190) !!!
+Sun Sep 29 22:06:36 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (36.111.168.190)
+[pid: 511|app: 0|req: 1/2] 36.111.168.190 () {32 vars in 456 bytes} [Sun Sep 29 22:06:36 2019] HEAD / => generated 0 bytes in 2 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 23:21:45 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 37.1.218.99) !!!
+Sun Sep 29 23:21:45 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (37.1.218.99)
+OSError: write error
+[pid: 511|app: 0|req: 2/3] 37.1.218.99 () {36 vars in 574 bytes} [Sun Sep 29 23:21:45 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 23:30:39 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 37.1.218.99) !!!
+Sun Sep 29 23:30:39 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (37.1.218.99)
+OSError: write error
+[pid: 511|app: 0|req: 3/4] 37.1.218.99 () {36 vars in 574 bytes} [Sun Sep 29 23:30:39 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 23:30:57 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 37.1.218.99) !!!
+Sun Sep 29 23:30:57 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (37.1.218.99)
+OSError: write error
+[pid: 511|app: 0|req: 4/5] 37.1.218.99 () {36 vars in 574 bytes} [Sun Sep 29 23:30:57 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+[pid: 508|app: 0|req: 1/6] 103.212.90.124 () {32 vars in 463 bytes} [Sun Sep 29 23:36:39 2019] GET / => generated 12 bytes in 2 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+Sun Sep 29 23:36:52 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 37.1.218.99) !!!
+Sun Sep 29 23:36:52 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (37.1.218.99)
+OSError: write error
+[pid: 511|app: 0|req: 5/7] 37.1.218.99 () {36 vars in 575 bytes} [Sun Sep 29 23:36:52 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Sun Sep 29 23:38:00 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 37.1.218.99) !!!
+Sun Sep 29 23:38:00 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (37.1.218.99)
+OSError: write error
+[pid: 511|app: 0|req: 6/8] 37.1.218.99 () {36 vars in 574 bytes} [Sun Sep 29 23:38:00 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 23:42:52 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 37.1.218.99) !!!
+Sun Sep 29 23:42:52 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (37.1.218.99)
+OSError: write error
+[pid: 511|app: 0|req: 7/9] 37.1.218.99 () {36 vars in 574 bytes} [Sun Sep 29 23:42:52 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 23:46:29 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 37.1.218.99) !!!
+Sun Sep 29 23:46:29 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (37.1.218.99)
+OSError: write error
+[pid: 511|app: 0|req: 8/10] 37.1.218.99 () {36 vars in 575 bytes} [Sun Sep 29 23:46:29 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 23:50:51 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 36.99.136.142) !!!
+Sun Sep 29 23:50:51 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (36.99.136.142)
+OSError: write error
+[pid: 511|app: 0|req: 9/11] 36.99.136.142 () {38 vars in 669 bytes} [Sun Sep 29 23:50:51 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Sun Sep 29 23:53:12 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 37.1.218.99) !!!
+Sun Sep 29 23:53:12 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (37.1.218.99)
+OSError: write error
+[pid: 511|app: 0|req: 10/12] 37.1.218.99 () {36 vars in 575 bytes} [Sun Sep 29 23:53:12 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 23:53:15 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 37.1.218.99) !!!
+Sun Sep 29 23:53:15 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (37.1.218.99)
+OSError: write error
+[pid: 508|app: 0|req: 2/13] 37.1.218.99 () {36 vars in 574 bytes} [Sun Sep 29 23:53:15 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Sun Sep 29 23:53:16 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 37.1.218.99) !!!
+Sun Sep 29 23:53:16 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (37.1.218.99)
+OSError: write error
+[pid: 511|app: 0|req: 11/14] 37.1.218.99 () {36 vars in 574 bytes} [Sun Sep 29 23:53:16 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Sun Sep 29 23:54:16 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 37.1.218.99) !!!
+Sun Sep 29 23:54:16 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (37.1.218.99)
+OSError: write error
+[pid: 508|app: 0|req: 3/15] 37.1.218.99 () {36 vars in 575 bytes} [Sun Sep 29 23:54:16 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Sun Sep 29 23:55:03 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 37.1.218.99) !!!
+Sun Sep 29 23:55:03 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (37.1.218.99)
+OSError: write error
+[pid: 508|app: 0|req: 4/16] 37.1.218.99 () {36 vars in 574 bytes} [Sun Sep 29 23:55:03 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Sun Sep 29 23:55:05 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 37.1.218.99) !!!
+Sun Sep 29 23:55:05 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (37.1.218.99)
+OSError: write error
+[pid: 511|app: 0|req: 12/17] 37.1.218.99 () {36 vars in 574 bytes} [Sun Sep 29 23:55:05 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Sun Sep 29 23:57:48 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 37.1.218.99) !!!
+Sun Sep 29 23:57:48 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (37.1.218.99)
+OSError: write error
+[pid: 508|app: 0|req: 5/18] 37.1.218.99 () {36 vars in 574 bytes} [Sun Sep 29 23:57:48 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Sun Sep 29 23:59:00 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 37.1.218.99) !!!
+Sun Sep 29 23:59:00 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (37.1.218.99)
+OSError: write error
+[pid: 511|app: 0|req: 13/19] 37.1.218.99 () {36 vars in 574 bytes} [Sun Sep 29 23:59:00 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 00:04:53 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 37.1.218.99) !!!
+Mon Sep 30 00:04:53 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (37.1.218.99)
+OSError: write error
+[pid: 511|app: 0|req: 14/20] 37.1.218.99 () {36 vars in 575 bytes} [Mon Sep 30 00:04:53 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 00:07:59 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 37.1.218.99) !!!
+Mon Sep 30 00:07:59 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (37.1.218.99)
+OSError: write error
+[pid: 511|app: 0|req: 15/21] 37.1.218.99 () {36 vars in 574 bytes} [Mon Sep 30 00:07:59 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+[pid: 511|app: 0|req: 16/22] 190.94.135.253 () {30 vars in 435 bytes} [Mon Sep 30 00:16:05 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+Mon Sep 30 00:16:28 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 37.1.218.99) !!!
+Mon Sep 30 00:16:28 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (37.1.218.99)
+OSError: write error
+[pid: 511|app: 0|req: 17/23] 37.1.218.99 () {36 vars in 574 bytes} [Mon Sep 30 00:16:28 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 00:52:03 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 36.111.168.190) !!!
+Mon Sep 30 00:52:03 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (36.111.168.190)
+[pid: 508|app: 0|req: 6/24] 36.111.168.190 () {32 vars in 456 bytes} [Mon Sep 30 00:52:03 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Mon Sep 30 00:56:06 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 36.111.168.190) !!!
+Mon Sep 30 00:56:06 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (36.111.168.190)
+[pid: 511|app: 0|req: 18/25] 36.111.168.190 () {32 vars in 456 bytes} [Mon Sep 30 00:56:06 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 00:58:50 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 36.111.168.190) !!!
+Mon Sep 30 00:58:50 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (36.111.168.190)
+[pid: 508|app: 0|req: 7/26] 36.111.168.190 () {32 vars in 456 bytes} [Mon Sep 30 00:58:50 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Mon Sep 30 01:03:03 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 37.1.218.99) !!!
+Mon Sep 30 01:03:03 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (37.1.218.99)
+OSError: write error
+[pid: 508|app: 0|req: 8/27] 37.1.218.99 () {36 vars in 574 bytes} [Mon Sep 30 01:03:03 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Mon Sep 30 01:04:31 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 36.111.168.190) !!!
+Mon Sep 30 01:04:31 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (36.111.168.190)
+[pid: 508|app: 0|req: 9/28] 36.111.168.190 () {32 vars in 456 bytes} [Mon Sep 30 01:04:31 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Mon Sep 30 01:04:38 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 36.111.168.190) !!!
+Mon Sep 30 01:04:38 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (36.111.168.190)
+[pid: 508|app: 0|req: 10/29] 36.111.168.190 () {32 vars in 456 bytes} [Mon Sep 30 01:04:38 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Mon Sep 30 01:04:38 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 36.111.168.190) !!!
+Mon Sep 30 01:04:38 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (36.111.168.190)
+[pid: 510|app: 0|req: 2/30] 36.111.168.190 () {32 vars in 456 bytes} [Mon Sep 30 01:04:38 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 01:06:02 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 36.111.168.190) !!!
+Mon Sep 30 01:06:02 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (36.111.168.190)
+[pid: 511|app: 0|req: 19/31] 36.111.168.190 () {32 vars in 456 bytes} [Mon Sep 30 01:06:02 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 01:06:17 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 36.111.168.190) !!!
+Mon Sep 30 01:06:17 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (36.111.168.190)
+[pid: 510|app: 0|req: 3/32] 36.111.168.190 () {32 vars in 456 bytes} [Mon Sep 30 01:06:17 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 01:07:47 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 36.111.168.190) !!!
+Mon Sep 30 01:07:47 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (36.111.168.190)
+[pid: 511|app: 0|req: 20/33] 36.111.168.190 () {32 vars in 457 bytes} [Mon Sep 30 01:07:47 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Mon Sep 30 01:09:16 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 37.1.218.99) !!!
+Mon Sep 30 01:09:16 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (37.1.218.99)
+OSError: write error
+[pid: 511|app: 0|req: 21/34] 37.1.218.99 () {36 vars in 575 bytes} [Mon Sep 30 01:09:16 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Mon Sep 30 01:19:44 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 36.111.168.190) !!!
+Mon Sep 30 01:19:44 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (36.111.168.190)
+[pid: 508|app: 0|req: 11/35] 36.111.168.190 () {32 vars in 457 bytes} [Mon Sep 30 01:19:44 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Mon Sep 30 01:19:57 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 36.111.168.190) !!!
+Mon Sep 30 01:19:57 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (36.111.168.190)
+[pid: 509|app: 0|req: 1/36] 36.111.168.190 () {32 vars in 456 bytes} [Mon Sep 30 01:19:57 2019] HEAD / => generated 0 bytes in 2 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+[pid: 510|app: 0|req: 4/37] 60.50.223.175 () {26 vars in 280 bytes} [Mon Sep 30 01:20:55 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.0 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 511|app: 0|req: 22/38] 77.222.102.197 () {32 vars in 462 bytes} [Mon Sep 30 01:45:23 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+Mon Sep 30 02:19:36 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 36.111.168.190) !!!
+Mon Sep 30 02:19:36 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (36.111.168.190)
+[pid: 511|app: 0|req: 23/39] 36.111.168.190 () {32 vars in 456 bytes} [Mon Sep 30 02:19:36 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 02:36:32 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 34.212.154.31) !!!
+Mon Sep 30 02:36:32 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (34.212.154.31)
+OSError: write error
+[pid: 511|app: 0|req: 24/40] 34.212.154.31 () {32 vars in 367 bytes} [Mon Sep 30 02:36:32 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 02:40:56 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 54.190.67.26) !!!
+Mon Sep 30 02:40:56 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (54.190.67.26)
+OSError: write error
+[pid: 508|app: 0|req: 12/41] 54.190.67.26 () {32 vars in 366 bytes} [Mon Sep 30 02:40:56 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Mon Sep 30 02:53:39 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 52.89.154.131) !!!
+Mon Sep 30 02:53:39 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (52.89.154.131)
+OSError: write error
+[pid: 511|app: 0|req: 25/42] 52.89.154.131 () {32 vars in 367 bytes} [Mon Sep 30 02:53:39 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+[pid: 510|app: 0|req: 5/43] 80.82.70.187 () {32 vars in 432 bytes} [Mon Sep 30 02:54:01 2019] GET /cache/global/img/gs.gif => generated 232 bytes in 1 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 511|app: 0|req: 26/44] 41.190.104.203 () {32 vars in 463 bytes} [Mon Sep 30 03:06:42 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+Mon Sep 30 03:25:14 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 42.236.10.125) !!!
+Mon Sep 30 03:25:14 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (42.236.10.125)
+OSError: write error
+[pid: 511|app: 0|req: 27/45] 42.236.10.125 () {44 vars in 918 bytes} [Mon Sep 30 03:25:14 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 03:25:23 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 42.236.10.84) !!!
+Mon Sep 30 03:25:23 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (42.236.10.84)
+OSError: write error
+[pid: 511|app: 0|req: 28/46] 42.236.10.84 () {38 vars in 827 bytes} [Mon Sep 30 03:25:23 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 03:25:23 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 42.236.10.93) !!!
+Mon Sep 30 03:25:23 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (42.236.10.93)
+OSError: write error
+[pid: 508|app: 0|req: 13/47] 42.236.10.93 () {44 vars in 917 bytes} [Mon Sep 30 03:25:23 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+[pid: 510|app: 0|req: 6/48] 178.73.215.171 () {28 vars in 299 bytes} [Mon Sep 30 03:29:35 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.0 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 510|app: 0|req: 7/49] 191.100.9.193 () {30 vars in 434 bytes} [Mon Sep 30 03:31:26 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 511|app: 0|req: 29/50] 191.100.9.193 () {30 vars in 434 bytes} [Mon Sep 30 03:31:27 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+Mon Sep 30 03:39:01 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 34.222.99.176) !!!
+Mon Sep 30 03:39:01 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (34.222.99.176)
+OSError: write error
+[pid: 511|app: 0|req: 30/51] 34.222.99.176 () {32 vars in 367 bytes} [Mon Sep 30 03:39:01 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+[pid: 508|app: 0|req: 14/52] 177.66.208.247 () {32 vars in 462 bytes} [Mon Sep 30 03:39:13 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+Mon Sep 30 03:43:05 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 52.43.83.134) !!!
+Mon Sep 30 03:43:05 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (52.43.83.134)
+OSError: write error
+[pid: 511|app: 0|req: 31/53] 52.43.83.134 () {32 vars in 367 bytes} [Mon Sep 30 03:43:05 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+[pid: 511|app: 0|req: 32/54] 213.6.45.22 () {32 vars in 459 bytes} [Mon Sep 30 04:05:43 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+Mon Sep 30 04:19:12 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 54.201.155.48) !!!
+Mon Sep 30 04:19:12 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (54.201.155.48)
+OSError: write error
+[pid: 508|app: 0|req: 15/55] 54.201.155.48 () {32 vars in 367 bytes} [Mon Sep 30 04:19:12 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Mon Sep 30 04:35:25 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 42.236.10.117) !!!
+Mon Sep 30 04:35:25 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (42.236.10.117)
+OSError: write error
+[pid: 511|app: 0|req: 33/56] 42.236.10.117 () {44 vars in 918 bytes} [Mon Sep 30 04:35:25 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 04:35:29 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 180.163.220.67) !!!
+Mon Sep 30 04:35:29 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (180.163.220.67)
+OSError: write error
+[pid: 508|app: 0|req: 16/57] 180.163.220.67 () {38 vars in 828 bytes} [Mon Sep 30 04:35:29 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 04:35:30 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 180.163.220.66) !!!
+Mon Sep 30 04:35:30 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (180.163.220.66)
+OSError: write error
+[pid: 508|app: 0|req: 17/58] 180.163.220.66 () {44 vars in 919 bytes} [Mon Sep 30 04:35:30 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Mon Sep 30 04:35:34 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 180.163.220.3) !!!
+Mon Sep 30 04:35:34 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (180.163.220.3)
+OSError: write error
+[pid: 511|app: 0|req: 34/59] 180.163.220.3 () {38 vars in 827 bytes} [Mon Sep 30 04:35:34 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 04:35:34 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 180.163.220.66) !!!
+Mon Sep 30 04:35:34 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (180.163.220.66)
+OSError: write error
+[pid: 511|app: 0|req: 35/60] 180.163.220.66 () {44 vars in 919 bytes} [Mon Sep 30 04:35:34 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+[pid: 511|app: 0|req: 36/61] 187.74.232.188 () {32 vars in 463 bytes} [Mon Sep 30 04:44:47 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 511|app: 0|req: 37/62] 187.74.232.188 () {32 vars in 462 bytes} [Mon Sep 30 04:44:49 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+Mon Sep 30 04:44:50 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 187.74.232.188) !!!
+Mon Sep 30 04:44:50 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (187.74.232.188)
+OSError: write error
+[pid: 511|app: 0|req: 38/63] 187.74.232.188 () {32 vars in 463 bytes} [Mon Sep 30 04:44:50 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 04:49:08 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 36.111.168.190) !!!
+Mon Sep 30 04:49:08 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (36.111.168.190)
+[pid: 511|app: 0|req: 39/64] 36.111.168.190 () {32 vars in 457 bytes} [Mon Sep 30 04:49:08 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Mon Sep 30 04:57:58 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 52.43.83.134) !!!
+Mon Sep 30 04:57:58 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (52.43.83.134)
+OSError: write error
+[pid: 508|app: 0|req: 18/65] 52.43.83.134 () {32 vars in 366 bytes} [Mon Sep 30 04:57:58 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Mon Sep 30 05:10:53 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 171.13.14.58) !!!
+Mon Sep 30 05:10:53 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (171.13.14.58)
+OSError: write error
+[pid: 511|app: 0|req: 40/66] 171.13.14.58 () {42 vars in 722 bytes} [Mon Sep 30 05:10:53 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 05:31:00 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 52.89.154.131) !!!
+Mon Sep 30 05:31:00 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (52.89.154.131)
+OSError: write error
+[pid: 511|app: 0|req: 41/67] 52.89.154.131 () {32 vars in 367 bytes} [Mon Sep 30 05:31:00 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 05:53:15 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 36.99.136.140) !!!
+Mon Sep 30 05:53:15 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (36.99.136.140)
+OSError: write error
+[pid: 508|app: 0|req: 19/68] 36.99.136.140 () {38 vars in 671 bytes} [Mon Sep 30 05:53:15 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+[pid: 511|app: 0|req: 42/69] 37.235.197.41 () {32 vars in 468 bytes} [Mon Sep 30 06:14:23 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+[pid: 511|app: 0|req: 43/70] 185.18.46.110 () {26 vars in 280 bytes} [Mon Sep 30 06:25:37 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.0 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 508|app: 0|req: 20/71] 198.108.66.240 () {34 vars in 392 bytes} [Mon Sep 30 06:30:04 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (2 switches on core 0)
+Mon Sep 30 06:41:58 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /?fbclid=IwAR3pjw0kjgX3xFauGbImYUH0GFiElUdJEJe2uh5AfTs17a4fKzQCIRZbwgA (ip 106.11.156.69) !!!
+Mon Sep 30 06:41:58 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET /?fbclid=IwAR3pjw0kjgX3xFauGbImYUH0GFiElUdJEJe2uh5AfTs17a4fKzQCIRZbwgA (106.11.156.69)
+OSError: write error
+[pid: 511|app: 0|req: 44/72] 106.11.156.69 () {38 vars in 783 bytes} [Mon Sep 30 06:41:58 2019] GET /?fbclid=IwAR3pjw0kjgX3xFauGbImYUH0GFiElUdJEJe2uh5AfTs17a4fKzQCIRZbwgA => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+[pid: 508|app: 0|req: 21/73] 106.11.154.162 () {38 vars in 479 bytes} [Mon Sep 30 06:41:59 2019] GET /robots.txt => generated 232 bytes in 1 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+Mon Sep 30 06:42:00 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /robots.txt (ip 106.11.154.162) !!!
+Mon Sep 30 06:42:00 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET /robots.txt (106.11.154.162)
+OSError: write error
+[pid: 511|app: 0|req: 45/74] 106.11.154.162 () {38 vars in 479 bytes} [Mon Sep 30 06:42:00 2019] GET /robots.txt => generated 0 bytes in 1 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 06:42:01 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /robots.txt (ip 61.159.91.248) !!!
+Mon Sep 30 06:42:01 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET /robots.txt (61.159.91.248)
+OSError: write error
+[pid: 509|app: 0|req: 2/75] 61.159.91.248 () {36 vars in 558 bytes} [Mon Sep 30 06:42:01 2019] GET /robots.txt => generated 0 bytes in 1 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 06:48:46 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 36.111.168.190) !!!
+Mon Sep 30 06:48:46 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (36.111.168.190)
+[pid: 511|app: 0|req: 46/76] 36.111.168.190 () {32 vars in 456 bytes} [Mon Sep 30 06:48:46 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+[pid: 508|app: 0|req: 22/77] 112.197.235.38 () {26 vars in 281 bytes} [Mon Sep 30 06:51:44 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.0 200) 2 headers in 79 bytes (2 switches on core 0)
+Mon Sep 30 07:16:52 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 54.188.231.137) !!!
+Mon Sep 30 07:16:52 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (54.188.231.137)
+OSError: write error
+[pid: 510|app: 0|req: 8/78] 54.188.231.137 () {32 vars in 368 bytes} [Mon Sep 30 07:16:52 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 07:49:55 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 36.111.168.190) !!!
+Mon Sep 30 07:49:55 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (36.111.168.190)
+[pid: 511|app: 0|req: 47/79] 36.111.168.190 () {32 vars in 456 bytes} [Mon Sep 30 07:49:55 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+[pid: 510|app: 0|req: 9/80] 185.103.177.231 () {26 vars in 282 bytes} [Mon Sep 30 07:52:58 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.0 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 510|app: 0|req: 10/81] 180.254.129.46 () {36 vars in 524 bytes} [Mon Sep 30 08:33:31 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+Mon Sep 30 08:36:41 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 171.13.14.36) !!!
+Mon Sep 30 08:36:41 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (171.13.14.36)
+OSError: write error
+[pid: 511|app: 0|req: 48/82] 171.13.14.36 () {42 vars in 750 bytes} [Mon Sep 30 08:36:41 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+[pid: 511|app: 0|req: 49/83] 207.232.5.101 () {26 vars in 280 bytes} [Mon Sep 30 08:55:01 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.0 200) 2 headers in 79 bytes (1 switches on core 0)
+Mon Sep 30 08:55:24 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 35.166.104.208) !!!
+Mon Sep 30 08:55:24 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (35.166.104.208)
+OSError: write error
+[pid: 508|app: 0|req: 23/84] 35.166.104.208 () {32 vars in 369 bytes} [Mon Sep 30 08:55:24 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (1 switches on core 0)
+Mon Sep 30 09:00:54 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 111.7.100.23) !!!
+Mon Sep 30 09:00:54 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (111.7.100.23)
+OSError: write error
+[pid: 511|app: 0|req: 50/85] 111.7.100.23 () {38 vars in 668 bytes} [Mon Sep 30 09:00:54 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 09:03:30 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 34.215.130.143) !!!
+Mon Sep 30 09:03:30 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (34.215.130.143)
+OSError: write error
+[pid: 511|app: 0|req: 51/86] 34.215.130.143 () {32 vars in 368 bytes} [Mon Sep 30 09:03:30 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+[pid: 508|app: 0|req: 24/87] 112.78.165.102 () {26 vars in 281 bytes} [Mon Sep 30 09:07:59 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.0 200) 2 headers in 79 bytes (2 switches on core 0)
+[pid: 511|app: 0|req: 52/88] 112.78.165.102 () {26 vars in 281 bytes} [Mon Sep 30 09:08:02 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.0 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 510|app: 0|req: 11/89] 112.78.165.102 () {26 vars in 281 bytes} [Mon Sep 30 09:08:05 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.0 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 511|app: 0|req: 53/90] 207.232.5.101 () {26 vars in 280 bytes} [Mon Sep 30 09:14:00 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.0 200) 2 headers in 79 bytes (1 switches on core 0)
+凯美瑞 vm
+{'vm': ['凯美瑞']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0, 'pr': 0, 'date': 0}
+[pid: 511|app: 0|req: 54/91] 223.166.222.117 () {38 vars in 706 bytes} [Mon Sep 30 09:43:05 2019] POST /wechat?signature=6f65a423ea72f3893597de91a0dbda40f2005c03&timestamp=1569807785&nonce=1515656891&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1112 bytes in 180 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+凯美瑞 vm
+  x
+2019 date
+  x
+23.98 pr
+{'vm': ['凯美瑞'], 'date': ['2019'], 'pr': ['23.98']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 0, 'vm': 1, 'kd': 0, 'pr': 1, 'date': 1}
+[pid: 510|app: 0|req: 12/92] 223.166.222.117 () {38 vars in 706 bytes} [Mon Sep 30 09:43:30 2019] POST /wechat?signature=094dc7ac9c1226627d32496df19e024baa40da85&timestamp=1569807810&nonce=2052931745&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 652 bytes in 179 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+Mon Sep 30 10:04:25 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 36.111.168.190) !!!
+Mon Sep 30 10:04:25 2019 - uwsgi_response_write_headers_do(): Broken pipe [core/writer.c line 248] during HEAD / (36.111.168.190)
+[pid: 511|app: 0|req: 55/93] 36.111.168.190 () {32 vars in 457 bytes} [Mon Sep 30 10:04:25 2019] HEAD / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+[pid: 510|app: 0|req: 13/94] 190.217.116.199 () {32 vars in 464 bytes} [Mon Sep 30 10:36:52 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+东莞 city
+  x
+大通 manu
+{'city': ['东莞'], 'manu': ['上汽大通']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 1, 'area': 0, 'vm': 0, 'kd': 0, 'pr': 0, 'date': 0}
+[pid: 511|app: 0|req: 56/95] 223.166.222.117 () {38 vars in 704 bytes} [Mon Sep 30 10:44:52 2019] POST /wechat?signature=d9839913e8a4f6a840cf18edc4d19ed8da3cec5b&timestamp=1569811492&nonce=372404616&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 628 bytes in 51 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+蚌埠 city
+  x
+大通 manu
+{'city': ['蚌埠'], 'manu': ['上汽大通']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 1, 'city': 1, 'area': 0, 'vm': 0, 'kd': 0, 'pr': 0, 'date': 0}
+[pid: 511|app: 0|req: 57/96] 223.166.222.117 () {38 vars in 704 bytes} [Mon Sep 30 11:05:55 2019] POST /wechat?signature=1598047798e19a264bb10d87fd565577164f7109&timestamp=1569812755&nonce=363821665&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 468 bytes in 16 msecs (HTTP/1.1 200) 2 headers in 80 bytes (1 switches on core 0)
+Mon Sep 30 11:17:36 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /?fbclid=IwAR1A-M6VXgwFnOCbhRhBKO9gXCLR2yVmueA2EajAKwbnpTTz0h5nXU1oGVo (ip 42.120.161.15) !!!
+Mon Sep 30 11:17:36 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET /?fbclid=IwAR1A-M6VXgwFnOCbhRhBKO9gXCLR2yVmueA2EajAKwbnpTTz0h5nXU1oGVo (42.120.161.15)
+OSError: write error
+[pid: 511|app: 0|req: 58/97] 42.120.161.15 () {38 vars in 783 bytes} [Mon Sep 30 11:17:36 2019] GET /?fbclid=IwAR1A-M6VXgwFnOCbhRhBKO9gXCLR2yVmueA2EajAKwbnpTTz0h5nXU1oGVo => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 11:17:37 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /robots.txt (ip 106.11.159.219) !!!
+Mon Sep 30 11:17:37 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET /robots.txt (106.11.159.219)
+OSError: write error
+[pid: 510|app: 0|req: 14/98] 106.11.159.219 () {38 vars in 479 bytes} [Mon Sep 30 11:17:37 2019] GET /robots.txt => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 11:17:38 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /robots.txt (ip 106.11.159.219) !!!
+Mon Sep 30 11:17:38 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET /robots.txt (106.11.159.219)
+OSError: write error
+[pid: 510|app: 0|req: 15/99] 106.11.159.219 () {38 vars in 479 bytes} [Mon Sep 30 11:17:38 2019] GET /robots.txt => generated 0 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Mon Sep 30 11:18:12 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request / (ip 111.7.100.26) !!!
+Mon Sep 30 11:18:12 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET / (111.7.100.26)
+OSError: write error
+[pid: 511|app: 0|req: 59/100] 111.7.100.26 () {38 vars in 669 bytes} [Mon Sep 30 11:18:12 2019] GET / => generated 0 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 0 bytes (0 switches on core 0)
+青州 area
+  x
+凯美瑞 vm
+{'area': ['青州'], 'vm': ['凯美瑞']} {'ci': 0, 'vi': 0, 'ri': 0, 'manu': 0, 'city': 0, 'area': 1, 'vm': 1, 'kd': 0, 'pr': 0, 'date': 0}
+[pid: 511|app: 0|req: 60/101] 223.166.222.117 () {38 vars in 704 bytes} [Mon Sep 30 11:41:19 2019] POST /wechat?signature=6af1f7aa34594c5a2009cfacb1674582d567b3ed&timestamp=1569814879&nonce=906650872&openid=omYsE042yRQIAxmq9Z0pYsv8hveE => generated 1040 bytes in 118 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 510|app: 0|req: 16/102] 101.251.242.238 () {38 vars in 595 bytes} [Mon Sep 30 11:43:12 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 510|app: 0|req: 17/103] 171.67.70.80 () {34 vars in 390 bytes} [Mon Sep 30 11:43:21 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 511|app: 0|req: 61/104] 119.3.188.199 () {40 vars in 604 bytes} [Mon Sep 30 11:49:11 2019] GET /index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 511|app: 0|req: 62/105] 119.3.188.199 () {38 vars in 597 bytes} [Mon Sep 30 11:49:11 2019] GET /phpmyadmin/index.php => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 511|app: 0|req: 63/106] 180.141.201.69 () {32 vars in 469 bytes} [Mon Sep 30 12:05:28 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 511|app: 0|req: 64/107] 177.11.136.1 () {32 vars in 467 bytes} [Mon Sep 30 12:15:47 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 511|app: 0|req: 65/108] 113.161.78.244 () {26 vars in 281 bytes} [Mon Sep 30 12:18:15 2019] GET / => generated 12 bytes in 0 msecs (HTTP/1.0 200) 2 headers in 79 bytes (1 switches on core 0)
+[pid: 511|app: 0|req: 66/109] 80.82.70.187 () {32 vars in 432 bytes} [Mon Sep 30 12:56:26 2019] GET /cache/global/img/gs.gif => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
