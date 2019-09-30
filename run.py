@@ -73,9 +73,21 @@ def weixin():
                     else:
                         answer += result[i] + '\n\n'                
                 '''           
-            return reply_text(fromUser, toUser, answer)
+            reply_text(fromUser, toUser, answer)
+            dict_1 = {'q':content,'a':answer,'user':fromUser,'time':createTime}
+            with open('record.json','a') as f_obj:
+                json.dump(dict_1,f_obj)
+                f_obj.close()
+            return True
         else:
-            return reply_text(fromUser, toUser, "我只懂文字")
+            answer = '''Hello！我是小柯基，我可以回答一些关于汽车的问题，你可以这样问我：\n
+            1.直接输入厂商名，查其生产的车型，例如：东风本田\n
+            2.直接输入车型，查所有款式和价格，例如：帕萨特\n
+            3.输入车型+年款+价格，查车型信息，例如：帕萨特 2019 25.39\n
+            4.输入车型+地点，查经销商信息，例如：君威 青岛市城阳区; 思域 合肥\n
+            5.输入生产商+地点，查经销商信息，例如：上汽大众 西安; 保时捷 青岛\n
+            由于我还小，还有很多不懂的地方，你的问题我答不上来也正常。'''
+            return reply_text(fromUser, toUser, answer)
 
 def reply_text(to_user, from_user, content):
     """
