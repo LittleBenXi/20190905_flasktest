@@ -267,7 +267,10 @@ class searchCarInNeo4j():
             answer.append('车款：' + node_name)
             for i in self.list_ci:
                 if i in a:
-                    answer.append(i+':'+str(a[i]))
+                    if type(a[i]) == float:
+                        answer.append(i+':'+str(round(a[i],2)))
+                    else:    
+                        answer.append(i+':'+str(a[i]))
         return answer
 
     def searchVMPRDate(self,carmodel,price,date):
@@ -399,8 +402,7 @@ class searchCarInNeo4j():
             elif counter_jieba['manu'] == 1 and counter_jieba['city'] == 1 and counter_jieba['area'] == 1:
                 answer = self.searchManuCityArea(result['manu'][0],result['city'],result['area'])
         else:
-            list_anwser = ['说实话，我没法跟你沟通。','我感觉还得过几年我才能懂你的意思。','这个有点难啊。','你是在刁难我吗？',
-            '我这么可爱，你忍心这样刁难我吗？','放过我吧，好吗？','我听不懂你在说啥，可能是因为我还是个孩子。']
+            list_anwser = ['嗯，你好','好的','我暂时听不懂别的']
             answer = [random.choice(list_anwser)]
         return answer
         
